@@ -1,0 +1,42 @@
+.obj-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  
+  @media (min-width: mq(md)) {
+    grid-template-columns: repeat(8, 1fr);
+  }
+  
+  @media (min-width: mq(lg)) {
+    grid-template-columns: repeat(12, 1fr);
+    gap: 4rem;
+  }
+  
+  @media (min-width: mq(xl)) {
+    gap: 6rem
+  }
+  
+  &__col {
+    grid-column: auto / span 4;
+
+    @media (min-width: mq(md)) {
+      grid-column: auto / span 8;
+    }
+
+    @media (min-width: mq(lg)) {
+      grid-column: auto / span 12;
+    }
+  }
+  
+  &__col--half {
+    grid-column: auto / span 4;
+
+    @media (min-width: mq(md)) {
+      grid-column: auto / span 4;
+    }
+
+    @media (min-width: mq(lg)) {
+      grid-column: auto / span 6;
+    }
+  }
+}

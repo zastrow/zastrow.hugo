@@ -1,0 +1,19 @@
+<h3>CSS Series</h3>
+<p>
+  This is a 20-part introductory series to CSS for the DigitalOcean
+  Community that was published over the course of 2020-22. My hope and goal for
+  this series was to provide practical CSS examples and demos for both veteran
+  and new developers.
+</p>
+<ul class="cmp-article-card cmp-article-card--two-col">
+  {{ range first 10 $.Site.Data.css_series }}
+      <li class="cmp-article-card__item">
+        <a href="{{ .link }}" class="cmp-article-card__link">
+          <span class="cmp-article-card__term">{{ .date }}</span>
+          <span class="cmp-article-card__title">{{ .title }}</span>
+        </a>
+      </li>
+  {{ end }} 
+</ul>
+
+<a href="https://www.digitalocean.com/community/tutorial_series/how-to-style-html-with-css" class="cmp-button" aria-label="External Link - Full Series on DigitalOcean">Full Series on DigitalOcean</a>

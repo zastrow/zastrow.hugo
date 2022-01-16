@@ -1,0 +1,20 @@
+<h3>Articles</h3>
+<ul class="cmp-article-card">
+  {{ range first 6 $.Site.Data.external_articles }}
+  <li class="cmp-article-card__item">
+    <a href="{{ .link }}" class="cmp-article-card__link">
+      <time class="cmp-article-card__term" datetime="{{ .date }}">
+        {{ .date }}
+      </time>
+      <span class="cmp-article-card__title">
+        {{ .title }}
+      </span>
+      <span class="cmp-article-card__term" >
+        {{ .source }}
+      </span>
+    </a>
+  </li>
+  {{ end }}
+</ul>
+
+<a href="/writing" class="cmp-button">More Articles</a>

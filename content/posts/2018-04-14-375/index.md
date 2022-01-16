@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-04-14T14:25:48Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/04/375/
+---
+<p>Adding on to the reasons Google greatly annoys me. TIL that YouTube 4K videos only work in Chrome on Mac, both Firefox and Safari are limited to 1080p. I’m not sure when or why they stopped supporting these browsers—my assumption is to push their parent’s browser over others. 😖</p>

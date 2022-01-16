@@ -1,0 +1,20 @@
+.cmp-article-item {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 1rem;
+  
+  & + & {
+    margin-top: 4rem;
+  }
+  
+  &__title,
+  &__meta {
+    margin: 0;
+  }
+  
+  &__title {
+    font-family: var(--extended);
+    font-size: var(--font-xl);
+    font-weight: var(--weight-light);
+  }
+}

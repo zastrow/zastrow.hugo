@@ -1,0 +1,23 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-02-28T21:54:05Z"
+meta:
+  _edit_last: "1"
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/02/315/
+---
+<p>Super big thanks to <a href="https://micro.blog/smokey">@smokey</a> for this fantastic <a href="https://www.ardisson.org/afkar/2018/01/08/wordpress-filter-to-auto-linkify-names-for-micro-blog/">Wordpress filter</a> that automatically adds in <a href="https://micro.blog">Micro.blog</a> mention links.</p>

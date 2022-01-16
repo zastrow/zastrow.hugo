@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-02-20T14:29:31Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/02/292/
+---
+<p>Hey designers! My fellow Sparkboxer, <a href="http://andrew-spencer.com">Andrew Spencer</a>, wrote about things to consider and look into when designing accessible websites. Read <a href="https://seesparkbox.com/foundry/accessible_by_design">Accessible By Design</a></p>

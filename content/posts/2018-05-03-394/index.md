@@ -1,0 +1,23 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-05-03T08:04:01Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/05/394/
+---
+<p>Finally ridded myself of that fluorescent pestilence.</p>
+<p><img src="{{ site.baseurl }}/assets/2018/05/eb20f9971373492d805822a7c00c03e5.jpg" width="600" height="600" /></p>

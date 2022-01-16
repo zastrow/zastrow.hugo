@@ -1,0 +1,22 @@
+---
+author:
+  display_name: poster
+  email: poster@zastrow.co
+  first_name: ""
+  last_name: ""
+  login: poster
+categories:
+- Micro
+date: "2019-06-03T13:09:00Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2019/06/653/
+---
+<p><span>📍</span> Checked in at <a href="http://4sq.com/2nWCpVI">Lock 27 Brewing Company - Dayton Brewpub</a>.</p>

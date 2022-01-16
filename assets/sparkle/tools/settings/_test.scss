@@ -1,0 +1,17 @@
+@import 'true';
+$sparkle-show-docs: false;
+
+@import 'function';
+
+$settings: (
+  'prefix': 'test',
+);
+
+@include describe('The settings function') {
+  @include it('outputs the settings value.') {
+    @include assert-equal(
+      settings('prefix'),
+      'test'
+    );
+  }
+}

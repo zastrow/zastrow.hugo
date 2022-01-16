@@ -1,0 +1,5 @@
+baseURL: https://zastrow.co
+disablePathToLower: true
+disableLiveReload: true
+languageCode: en-us
+title: Philip Zastrow

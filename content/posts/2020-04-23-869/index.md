@@ -1,0 +1,23 @@
+---
+author:
+  display_name: poster
+  email: poster@zastrow.co
+  first_name: ""
+  last_name: ""
+  login: poster
+categories:
+- Micro
+date: "2020-04-23T18:07:13Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags:
+- Twitter
+title: ""
+type: post
+url: /2020/04/869/
+---
+<p>Oh my gosh. <a href="https://micro.blog/danmall">@danmall</a> You blessed us all. Thank you so much. https://t.co/xkUlCi7zss Posted via <a href="http://twitter.com/zastrow/status/1253431646478413827">Twitter</a></p>

@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-08-25T14:22:10Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/08/471/
+---
+<p>Poor <a href="https://www.dailydot.com/parsec/internet-explorer-anime-comic/">Internet Explorer</a> 😢</p>

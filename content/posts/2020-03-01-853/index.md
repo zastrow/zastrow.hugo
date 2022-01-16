@@ -1,0 +1,23 @@
+---
+author:
+  display_name: poster
+  email: poster@zastrow.co
+  first_name: ""
+  last_name: ""
+  login: poster
+categories:
+- Micro
+date: "2020-03-01T21:50:25Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags:
+- Twitter
+title: ""
+type: post
+url: /2020/03/853/
+---
+<p>I feel sorry for the dental hygienist that has to deal with my teeth the day after I have rotisserie chicken and popcorn. Posted via <a href="http://twitter.com/zastrow/status/1234295146998640640">Twitter</a></p>

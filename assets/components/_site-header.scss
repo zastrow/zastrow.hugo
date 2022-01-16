@@ -1,0 +1,46 @@
+.cmp-site-header {
+  margin: 2rem 0;
+  display: flex;
+  align-items: center;
+
+  @media (min-width: mq(md)) {
+    margin: 20vh 0;
+  }
+
+  &__logo {
+    margin-right: calc(var(--logo-size) * 0.375);
+    will-change: auto;
+    
+    @include motion(true) {
+      transition: filter var(--animation-duration) ease;
+    }
+    
+    .safe-focus &:focus,
+    &:focus,
+    &:hover {
+      box-shadow: none;
+      filter: brightness(40%) grayscale(100%);
+
+      @include color-mode(dark) {
+        filter: brightness(70%) grayscale(100%);
+      }
+    }
+  }
+
+  &__title {
+    font-family: var(--extended);
+    font-weight: var(--weight-light);
+    font-size: 5vw;
+    line-height: 1.2;
+    margin: 0;
+  }
+
+  &__description {
+    margin: 0;
+    font-size: 2.5vw;
+    line-height: 1.2;
+    font-family: var(--extended);
+    font-weight: var(--weight-light);
+    color: var(--color-midtone);
+  }
+}

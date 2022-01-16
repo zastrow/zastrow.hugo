@@ -1,0 +1,25 @@
+---
+author:
+  display_name: poster
+  email: poster@zastrow.co
+  first_name: ""
+  last_name: ""
+  login: poster
+categories:
+- Micro
+date: "2020-04-23T12:37:20Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags:
+- Twitter
+title: ""
+type: post
+url: /2020/04/865/
+---
+<p>Oh, this is such a good statement from my coworker, Lina, on getting buy-in on design systems:</p>
+<p>“It doesn’t have to happen all it once, but it does have to happen intentionally.”</p>
+<p>#SparkboxUnConf Posted via <a href="http://twitter.com/zastrow/status/1253360876159148032">Twitter</a></p>

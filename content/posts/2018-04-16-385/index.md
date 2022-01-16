@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-04-16T09:53:26Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/04/385/
+---
+<p>Started listening to <em><a href="https://www.goodreads.com/book/show/38739910-all-the-pieces-matter">All the Pieces Matter: The Inside Story of The Wire</a></em> this morning during my commute. It’s been so fantastic to hear the origins of this show from the mouths of the writers, producers, and cast members.</p>

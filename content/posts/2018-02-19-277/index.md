@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-02-19T15:05:00Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/02/277/
+---
+<p>Definitely have to make my first Micro Monday <a href="https://micro.blog/simpson">@simpson</a>. He got me going on <a href="https://micro.blog">Micro.blog</a>, and I have the extreme pleasure of working with him at <a href="https://seesparkbox.com">Sparkbox</a>.</p>

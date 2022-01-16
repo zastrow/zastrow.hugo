@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-08-21T23:01:08Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/08/465/
+---
+<p><a href="https://www.vox.com/2018/8/21/17766146/michael-cohen-guilty-plea-paul-manafort-day-explained">What a day.</a></p>

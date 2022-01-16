@@ -1,0 +1,30 @@
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a[href]:not([class]) {
+  
+  &,
+  &:link,
+  &:active {
+    color: var(--color-link);
+    text-decoration: underline;
+    text-decoration-color: var(--link-underline);
+    transition: color var(--animation-duration) var(--animation-timing), text-decoration-color var(--animation-duration) var(--animation-timing);
+    
+    @include color-mode(dark) {
+      text-decoration-color: hsla(208, 80%, 50%, 0.4);
+    }
+  }
+
+  &:visited {
+    color: var(--color-text);
+    text-decoration: underline var(--color-text);
+  }
+
+  &:hover {
+    color: var(--color-text);
+    text-decoration-color: var(--color-primary);
+  }
+}

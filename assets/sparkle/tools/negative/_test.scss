@@ -1,0 +1,12 @@
+@import 'true';
+$sparkle-show-docs: false;
+
+@import 'function';
+
+@include describe('The negative function') {
+  @include it('outputs a negative integer based on current $value.') {
+    @include assert-equal(
+      negative(2), -2
+    );
+  }
+}

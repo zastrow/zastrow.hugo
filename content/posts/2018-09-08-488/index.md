@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-09-08T22:00:39Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/09/488/
+---
+<p>After owning a Raspberry Pi for 4 years, I finally have a project that is useful to me and is currently running. My Pi is now an AirPlay receiver hooked up to a set of USB SoundSticks. Took some work arounds with the instructions available. I’ll pull together what I did later.</p>

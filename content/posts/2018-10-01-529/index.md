@@ -1,0 +1,24 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-10-01T09:52:50Z"
+meta:
+  _edit_last: "1"
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/10/529/
+---
+<p>Happy Hacktoberfest! Do your part to advance open-source software today and get a sweet t-shirt in return.</p>
+<p><a href="https://hacktoberfest.digitalocean.com/">hacktoberfest.digitalocean.com</a></p>

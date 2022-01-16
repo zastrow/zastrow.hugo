@@ -1,0 +1,22 @@
+---
+author:
+  display_name: poster
+  email: poster@zastrow.co
+  first_name: ""
+  last_name: ""
+  login: poster
+categories:
+- Micro
+date: "2018-12-30T18:26:40Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/12/559/
+---
+<p>Just read: <a href="https://www.nytimes.com/2018/12/21/arts/music/obama-lin-manuel-miranda-hamilton.html">Barack Obama Joins Lin-Manuel Miranda on a ‘Hamilton’ Remix</a> 📰</p>

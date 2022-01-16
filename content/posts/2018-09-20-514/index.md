@@ -1,0 +1,23 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-09-20T09:49:22Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/09/514/
+---
+<p><a href="https://zastrow.co/wp-content/uploads/2018/09/9a1aafb162964b049f3f1ea2f40eff6a.jpg"><img src="{{ site.baseurl }}/assets/2018/09/9a1aafb162964b049f3f1ea2f40eff6a.jpg" width="600" height="449" style="height: auto;" class="sunlit_image" /></a></p>
+<p>Circles is kicking off soon. Really excited about this conference. The Fort Worth Community Arts Center is a fantastic venue for a design conference.</p>

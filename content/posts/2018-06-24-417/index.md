@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-06-24T08:47:25Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/06/417/
+---
+<p>The time period we are living with my parents as we move houses coincides precisely with the duration of the World Cup. It’s become a family affair each day. My three year old is especially into the excitement of the games. ⚽️</p>

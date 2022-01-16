@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-08-13T21:59:58Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/08/455/
+---
+<p>Just read: <a href="https://medium.com/s/futurehuman/survival-of-the-richest-9ef6cddd0cc1">Survival of the Richest – Future Human – Medium</a> 📰</p>

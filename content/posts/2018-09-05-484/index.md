@@ -1,0 +1,25 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-09-05T15:46:57Z"
+meta:
+  _edit_last: "1"
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/09/484/
+---
+<p><img src="{{ site.baseurl }}/assets/2018/09/circles.png" alt="Circles Conference" /></p>
+<p>Super excited to be attending <a href="https://circlesconference.com">Circles Conference</a> this year. Big thanks to <a href="https://micro.blog/simpson">@simpson</a> for reminding me about this conference. Adam told me all about it last year and I forgot about it until he mentioned he was going again.</p>
+<p>If you’ll be there too, say “hi.” I’d love to meet other Micros.</p>

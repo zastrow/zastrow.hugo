@@ -1,0 +1,24 @@
+---
+author:
+  display_name: poster
+  email: poster@zastrow.co
+  first_name: ""
+  last_name: ""
+  login: poster
+categories:
+- Micro
+date: "2020-04-23T12:07:01Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags:
+- Twitter
+title: ""
+type: post
+url: /2020/04/863/
+---
+<p>Me too. Humbled to work with these folks.<br />
+https://t.co/kdgZmQEaKJ Posted via <a href="http://twitter.com/zastrow/status/1253348805929504770">Twitter</a></p>

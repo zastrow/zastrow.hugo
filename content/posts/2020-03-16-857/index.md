@@ -1,0 +1,23 @@
+---
+author:
+  display_name: poster
+  email: poster@zastrow.co
+  first_name: ""
+  last_name: ""
+  login: poster
+categories:
+- Micro
+date: "2020-03-16T10:23:05Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags:
+- Twitter
+title: ""
+type: post
+url: /2020/03/857/
+---
+<p>When your kids are homeschooled the disruption to school work is that you are working from home. Posted via <a href="http://twitter.com/zastrow/status/1239552402811994122">Twitter</a></p>

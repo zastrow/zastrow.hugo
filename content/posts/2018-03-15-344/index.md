@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-03-15T21:53:09Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/03/344/
+---
+<p>I try to read <a href="https://alistapart.com/article/dao"><em>A Dao of Web Design</em></a> every so often. It blows my mind how continually relevant this article is for me—even 18 years after its publication.</p>

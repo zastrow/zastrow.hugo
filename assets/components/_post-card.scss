@@ -1,0 +1,28 @@
+.cmp-post-card {
+  // background-color: rgba(var(--color-dark), 0.01);
+  padding: var(--space-md);
+  color: var(--color-dark);
+  border-radius: var(--space-md);
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  box-sizing: border-box;
+  
+  @include color-mode(dark) {
+    color: var(--color-light);
+    // background-color: rgba(color(light), 0.01);
+  }
+  
+  &__permalink {
+    font-size: var(--font-xs);
+    order: -1;
+    text-decoration: underline;
+    display: inline-block;
+    @include gradient-text;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto var(--space-md);
+  }
+}

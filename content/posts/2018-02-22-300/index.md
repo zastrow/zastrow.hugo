@@ -1,0 +1,23 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-02-22T14:09:06Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/02/300/
+---
+<p>My favorite tacos in Dayton.</p>
+<p><img src="{{ site.baseurl }}/assets/2018/02/78eb3aee2965499b947b2669fb3e9aa9.jpg" width="600" height="600" /></p>

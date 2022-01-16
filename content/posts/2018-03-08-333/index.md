@@ -1,0 +1,23 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-03-08T11:27:53Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/03/333/
+---
+<p>I took this photo of my Grandpa about nine years ago. He was retiring from radio, and that day was his last time on air. The station had a retirement party for him. I am very thankful for this man and the legacy he has left.</p>
+<p><img src="{{ site.baseurl }}/assets/2018/03/97e4bbc18e9143b3b09f41955ee9ad60.jpg" width="600" height="600" /></p>

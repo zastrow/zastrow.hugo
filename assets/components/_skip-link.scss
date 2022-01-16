@@ -1,0 +1,17 @@
+.cmp-skip-link {
+  @include visually-hidden;
+  
+  &:focus,
+  .safe-focus &:focus {
+    clip: none;
+    height: auto;
+    box-sizing: border-box;
+    width: 100%;
+    top: 0;
+    padding: 2rem;
+    text-align: center;
+    color: var(--color-light);
+    background-color: var(--color-dark);
+    z-index: var(--z-10);
+  }
+}

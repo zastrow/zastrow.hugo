@@ -1,0 +1,73 @@
+// Simplified version of color schemes. Options are `light` or `dark`
+@mixin color-mode($value: light) {
+  @media (prefers-color-scheme: $value) {
+    @content;
+  }
+}
+
+// This function pairs with the `motion` mixin
+// to convert a `true` or `false` value to the
+// appropriate media query value for reduce motion.
+@function motion($value) {
+  @if $value {
+    @return 'no-preference';
+  }
+  @else {
+    @return 'reduce';
+  }
+}
+
+@mixin motion($value: true) {
+  @media (prefers-reduced-motion: motion($value)) {
+    @content;
+  }
+}
+
+@mixin gradient-text($reset:null) {
+  @if null == $reset {
+    @supports (backdrop-filter: blur(1px)) {
+      background-image: var(--gradient);
+      background-attachment: fixed;
+      -webkit-background-clip: text;  
+              background-clip: text;
+      color: transparent;
+      position: relative;
+    
+      &::before {
+        content: attr(data-title);
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: var(--color-dark);
+        mix-blend-mode: overlay;
+        opacity: 0.4;
+        @include color-mode(dark) {
+          color: var(--color-light);
+          mix-blend-mode: overlay;
+          opacity: 0.6;
+        }
+      }
+    }
+  }
+  @else {
+    @supports (backdrop-filter: blur(1px)) {
+      background: none;
+      -webkit-background-clip: border-box;  
+      background-clip: border-box;
+      
+      &::before {
+        content: none;
+      }
+    }
+  }
+}
+
+@mixin focus-styles {
+  outline: none;
+
+  html.safe-focus & {
+    box-shadow:
+      0 0 0 2px var(--color-background),
+      0 0 0 4px var(--color-text);
+  }
+}

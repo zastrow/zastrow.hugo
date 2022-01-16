@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-08-31T20:20:10Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/08/475/
+---
+<p>Just read: <a href="https://css-tricks.com/the-ecological-impact-of-browser-diversity/">The Ecological Impact of Browser Diversity | CSS-Tricks</a> 📰</p>

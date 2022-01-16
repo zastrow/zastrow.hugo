@@ -1,0 +1,25 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-09-09T18:03:10Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/09/496/
+---
+<blockquote>
+  “To be an older brother is to live in a near-constant state of righteous indignation.”<br />
+  –J.R. Forasteros, <em><a href="https://www.goodreads.com/book/show/36001214-empathy-for-the-devil">Empathy for the Devil</a></em>
+</p></blockquote>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  {{- partial "head.html" . -}}
+  <body>
+    <div>
+      <a href="#main" class="cmp-skip-link">Skip to content</a>
+    </div>
+    {{ partial "header.html" . }}
+    {{- block "main" . }}{{- end }}
+    {{ partial "footer.html" . }}
+  </body>
+</html>

@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-09-02T08:12:27Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/09/478/
+---
+<p>Just read: <a href="https://www.rollingstone.com/politics/politics-news/pete_buttigieg-36-year-old-mayor-south-bend-indiana-2020-713662/">Could This 36-Year-Old Indiana Mayor Topple Trumpism?</a> 📰</p>

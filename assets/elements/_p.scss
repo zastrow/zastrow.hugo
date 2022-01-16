@@ -1,0 +1,7 @@
+p:not([class]) {
+  font-size: var(--font-md);
+}
+
+p:not([class]) small:not([class]) {
+  // font-size: var(--font-xs);
+}

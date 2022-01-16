@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-08-31T10:50:01Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/08/473/
+---
+<p>Wow. I just saw <a href="https://paper.dropbox.com">Dropbox Paper</a>’s presentation mode demoed. That is an impressive and and well-implemented feature.</p>

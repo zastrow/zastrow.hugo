@@ -1,0 +1,23 @@
+---
+author:
+  display_name: poster
+  email: poster@zastrow.co
+  first_name: ""
+  last_name: ""
+  login: poster
+categories:
+- Micro
+date: "2020-04-23T12:37:23Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags:
+- Twitter
+title: ""
+type: post
+url: /2020/04/867/
+---
+<p>Today is a big day for <a href="https://micro.blog/seesparkbox">@seesparkbox</a>. We’re running our first conference, and it’s all online. I’m super proud of these folks and so honored to be a part of this team. Tune in to the conversation #SparkboxUnConf. Posted via <a href="http://twitter.com/zastrow/status/1253361805004587008">Twitter</a></p>

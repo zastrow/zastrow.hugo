@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2018-09-12T21:22:51Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2018/09/508/
+---
+<p>The iPhone XS and iPhone XR are great iterations on the iPhone. But, I am sad to see a continued march toward larger devices. I have and very much like my iPhone X, but each day with it I wish it was slightly smaller.</p>

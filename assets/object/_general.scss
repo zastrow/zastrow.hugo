@@ -1,0 +1,22 @@
+.obj-width-limiter {
+  margin: 0 auto;
+  width: clamp(18rem, 95%, 110rem);
+}
+
+.obj-content-width {
+  max-width: 70ch;
+}
+
+.obj-block {
+  padding: calc(var(--gradient-padding) * 0.25) 0;
+
+  @media (min-width: mq(md)) {
+    padding: calc(var(--gradient-padding) * 1.5) 0;
+  }
+}
+
+.obj-block-content {
+  @media (min-width: mq(md)) {
+    padding: var(--space-lg);
+  }
+}

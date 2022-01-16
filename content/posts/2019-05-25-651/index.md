@@ -1,0 +1,22 @@
+---
+author:
+  display_name: zastrow
+  email: philip@zastrow.co
+  first_name: Philip
+  last_name: Zastrow
+  login: zastrow
+categories:
+- Micro
+date: "2019-05-25T09:34:41Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2019/05/651/
+---
+<p>Working on an article on modern approaches to CSS tooling and techniques that is supposed to between 1,500-3,000 words. Right now I’m <em>almost</em> half-way through writting what all I want to talk about and I’m at 1,770 words. 😬</p>

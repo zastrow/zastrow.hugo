@@ -1,0 +1,22 @@
+---
+author:
+  display_name: poster
+  email: poster@zastrow.co
+  first_name: ""
+  last_name: ""
+  login: poster
+categories:
+- Micro
+date: "2019-06-08T17:40:07Z"
+meta:
+  _wpcom_is_markdown: "1"
+parent_id: "0"
+password: ""
+published: true
+status: publish
+tags: []
+title: ""
+type: post
+url: /2019/06/657/
+---
+<p><span>📍</span> Checked in at <a href="https://4sq.com/2KteTpN">EPIC Coffee Shop</a>.</p>

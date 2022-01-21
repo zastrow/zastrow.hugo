@@ -2,9 +2,11 @@
   margin: 2rem 0;
   display: flex;
   align-items: center;
-
-  @media (min-width: mq(md)) {
-    margin: 20vh 0;
+  
+  &--home {
+    @media (min-width: mq(md)) {
+      margin: 20vh 0;
+    }
   }
 
   &__logo {

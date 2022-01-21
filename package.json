@@ -1,13 +1,9 @@
 {
   "name": "zastrow.hugo",
   "version": "1.0.0",
-  "description": "",
   "dependencies": {
     "autoprefixer": "^10.4.2",
     "postcss": "^8.4.5",
     "postcss-cli": "^9.1.0"
-  },
-  "scripts": {
-    "build": "hugo"
   }
 }

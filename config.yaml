@@ -27,5 +27,5 @@ outputs:
 outputFormats:
   RSS:
     mediatype: application/rss
-    baseName: index
-    path: feed
+    baseName: feed
+    path: /

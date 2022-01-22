@@ -20,4 +20,4 @@ type: post
 url: /2018/02/290/
 ---
 <p>My half-orc fighter, Zangar. I’ve been playing with some variant of this character in different games since I first played WoW a decade ago.</p>
-<p><img src="{{ site.baseurl }}/assets/2018/02/2d7f6d93f03c48bf8c2085468d69e9e0.jpg" width="600" height="600" /></p>
+<p><img src="/assets/2018/02/2d7f6d93f03c48bf8c2085468d69e9e0.jpg" width="600" height="600" /></p>

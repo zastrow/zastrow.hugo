@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2018/07/443/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2352736377?utm_medium=api&amp;utm_source=rss">The Soul of an Octopus: A Surprising Exploration into the Wonder of Consciousness</a>. 📚 <img src="{{ site.baseurl }}/assets/2018/07/22825702.jpg" alt="The Soul of an Octopus: A Surprising Exploration into the Wonder of Consciousness" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2352736377?utm_medium=api&amp;utm_source=rss">The Soul of an Octopus: A Surprising Exploration into the Wonder of Consciousness</a>. 📚 <img src="/assets/2018/07/22825702.jpg" alt="The Soul of an Octopus: A Surprising Exploration into the Wonder of Consciousness" /></p>

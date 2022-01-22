@@ -1,5 +1,7 @@
 {{ define "main" }}
-<h1>SECTION</h1>
+{{ partial "header.html" . }}
+
+<h1>{{ .Title }}</h1>
 {{ .Content }}
 
 {{ end }}

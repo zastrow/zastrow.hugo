@@ -20,4 +20,4 @@ type: post
 url: /2018/03/340/
 ---
 <p>I was able to visit the Sparkbox office in Pittsburgh today. Super jealous of their view.</p>
-<p><img src="{{ site.baseurl }}/assets/2018/03/a1b355e7ff2f427bb6442bee00ebdc86.jpg" width="600" height="600" /><img src="{{ site.baseurl }}/assets/2018/03/12896f9397d3411c8168f749ef75d476.jpg" width="600" height="600" /><img src="{{ site.baseurl }}/assets/2018/03/334fe65315554158a7ac4f2f058e6f9c.jpg" width="600" height="600" /></p>
+<p><img src="/assets/2018/03/a1b355e7ff2f427bb6442bee00ebdc86.jpg" width="600" height="600" /><img src="/assets/2018/03/12896f9397d3411c8168f749ef75d476.jpg" width="600" height="600" /><img src="/assets/2018/03/334fe65315554158a7ac4f2f058e6f9c.jpg" width="600" height="600" /></p>

@@ -20,4 +20,4 @@ type: post
 url: /2018/03/349/
 ---
 <p>My current home screen. I’ve had a similar organization like this for years, ever since seeing <a href="https://twitter.com/CGPGrey">CGP Grey’s</a> <a href="http://relayfm.s3.amazonaws.com/assets/Cortex/Episode%20001/Grey's%20Homescreen.PNG">home screen</a> from the <a href="https://www.relay.fm/cortex/1">first episode</a> of Cortex. Before then there were so many folders and it annoyed me greatly.</p>
-<p><img src="{{ site.baseurl }}/assets/2018/03/img_3146.jpg" class="size-full wp-image-351" height="2436" width="1125" /></p>
+<p><img src="/assets/2018/03/img_3146.jpg" class="size-full wp-image-351" height="2436" width="1125" /></p>

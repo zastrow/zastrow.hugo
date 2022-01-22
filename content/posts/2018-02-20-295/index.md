@@ -20,4 +20,4 @@ type: post
 url: /2018/02/295/
 ---
 <p>Dayton, looking like a gem on this Spring-like February day.</p>
-<p><img src="{{ site.baseurl }}/assets/2018/02/484559df4f0146fea3265b0b880d73c1.jpg" width="600" height="600" /></p>
+<p><img src="/assets/2018/02/484559df4f0146fea3265b0b880d73c1.jpg" width="600" height="600" /></p>

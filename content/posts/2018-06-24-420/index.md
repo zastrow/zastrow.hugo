@@ -20,5 +20,5 @@ title: ""
 type: post
 url: /2018/06/420/
 ---
-<p><img src="{{ site.baseurl }}/assets/2018/06/img_1108.jpg" alt="My kids at their grandparents’ house at the edge of the woods" /></p>
+<p><img src="/assets/2018/06/img_1108.jpg" alt="My kids at their grandparents’ house at the edge of the woods" /></p>
 <p>I love watching these two explore the world.</p>

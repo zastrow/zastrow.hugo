@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2018/03/330/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2239539262?utm_medium=api&amp;utm_source=rss">Binti (Binti, #1)</a>. 📚 <img src="{{ site.baseurl }}/assets/2018/03/25667918.jpg" alt="Binti (Binti, #1)" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2239539262?utm_medium=api&amp;utm_source=rss">Binti (Binti, #1)</a>. 📚 <img src="/assets/2018/03/25667918.jpg" alt="Binti (Binti, #1)" /></p>

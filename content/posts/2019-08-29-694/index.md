@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/08/694/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2956243457?utm_medium=api&amp;utm_source=rss">Harry Potter and the Half-Blood Prince (Harry Potter, #6)</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/08/27866485._SX50_.jpg" alt="Harry Potter and the Half-Blood Prince (Harry Potter, #6)" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2956243457?utm_medium=api&amp;utm_source=rss">Harry Potter and the Half-Blood Prince (Harry Potter, #6)</a>. 📚 <img src="/assets/2019/08/27866485._SX50_.jpg" alt="Harry Potter and the Half-Blood Prince (Harry Potter, #6)" /></p>

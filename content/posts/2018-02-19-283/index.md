@@ -20,4 +20,4 @@ type: post
 url: /2018/02/283/
 ---
 <p>Love this monthly D&amp;D group. So much fun. Good people.</p>
-<p><img src="{{ site.baseurl }}/assets/2018/02/05fd1547abbb41c29e2afca205722d7c.jpg" width="600" height="600" /></p>
+<p><img src="/assets/2018/02/05fd1547abbb41c29e2afca205722d7c.jpg" width="600" height="600" /></p>

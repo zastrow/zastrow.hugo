@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/03/859/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/03/34341969._SX50_.jpg" alt="Dune (Dune, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3214980516?utm_medium=api&amp;utm_source=rss">Dune (Dune, #1)</a>. 📚</p>
+<p><img src="/assets/2020/03/34341969._SX50_.jpg" alt="Dune (Dune, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3214980516?utm_medium=api&amp;utm_source=rss">Dune (Dune, #1)</a>. 📚</p>

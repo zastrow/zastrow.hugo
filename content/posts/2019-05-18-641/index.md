@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/05/641/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2825167532?utm_medium=api&amp;utm_source=rss">Harry Potter and the Order of the Phoenix (Harry Potter, #5)</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/05/27876170.jpg" alt="Harry Potter and the Order of the Phoenix (Harry Potter, #5)" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2825167532?utm_medium=api&amp;utm_source=rss">Harry Potter and the Order of the Phoenix (Harry Potter, #5)</a>. 📚 <img src="/assets/2019/05/27876170.jpg" alt="Harry Potter and the Order of the Phoenix (Harry Potter, #5)" /></p>

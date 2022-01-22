@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/10/895/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/10/17274667._SY75_.jpg" alt="Metro 2033 (Metro, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3621467585?utm_medium=api&amp;utm_source=rss">Metro 2033 (Metro, #1)</a>. 📚</p>
+<p><img src="/assets/2020/10/17274667._SY75_.jpg" alt="Metro 2033 (Metro, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3621467585?utm_medium=api&amp;utm_source=rss">Metro 2033 (Metro, #1)</a>. 📚</p>

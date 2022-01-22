@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2021/09/989/
 ---
-<p><img src="{{ site.baseurl }}/assets/2021/09/18077752._SX50_.jpg" alt="Acceptance" /> Just finished the book, <a href="https://www.goodreads.com/review/show/4134253177?utm_medium=api&amp;utm_source=rss">Acceptance</a>. 📚</p>
+<p><img src="/assets/2021/09/18077752._SX50_.jpg" alt="Acceptance" /> Just finished the book, <a href="https://www.goodreads.com/review/show/4134253177?utm_medium=api&amp;utm_source=rss">Acceptance</a>. 📚</p>

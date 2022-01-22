@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/05/635/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2811228289?utm_medium=api&amp;utm_source=rss">Harry Potter and the Goblet of Fire (Harry Potter, #4)</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/05/27876157.jpg" alt="Harry Potter and the Goblet of Fire (Harry Potter, #4)" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2811228289?utm_medium=api&amp;utm_source=rss">Harry Potter and the Goblet of Fire (Harry Potter, #4)</a>. 📚 <img src="/assets/2019/05/27876157.jpg" alt="Harry Potter and the Goblet of Fire (Harry Potter, #4)" /></p>

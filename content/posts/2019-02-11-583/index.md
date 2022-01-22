@@ -20,5 +20,5 @@ title: ""
 type: post
 url: /2019/02/583/
 ---
-<p><img src="{{ site.baseurl }}/assets/2019/02/1932420.jpg" alt="Nietzsche in 90 Minutes" /><br />
+<p><img src="/assets/2019/02/1932420.jpg" alt="Nietzsche in 90 Minutes" /><br />
 Just finished the book, <a href="https://www.goodreads.com/review/show/2711510230?utm_medium=api&amp;utm_source=rss">Nietzsche in 90 Minutes</a>. 📚</p>

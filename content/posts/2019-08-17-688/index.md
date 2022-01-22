@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/08/688/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2938973797?utm_medium=api&amp;utm_source=rss">Dark Matter</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/08/27833670._SY75_.jpg" alt="Dark Matter" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2938973797?utm_medium=api&amp;utm_source=rss">Dark Matter</a>. 📚 <img src="/assets/2019/08/27833670._SY75_.jpg" alt="Dark Matter" /></p>

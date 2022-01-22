@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/04/625/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2775801842?utm_medium=api&amp;utm_source=rss">Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/04/29917281.jpg" alt="Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2775801842?utm_medium=api&amp;utm_source=rss">Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)</a>. 📚 <img src="/assets/2019/04/29917281.jpg" alt="Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)" /></p>

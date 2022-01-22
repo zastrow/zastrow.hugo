@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/01/786/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/01/79367478_2824587600913299_4452392516653922352_n.jpg?_nc_ht=scontent.cdninstagram.com&amp;_nc_ohc=EX_MPORnlW0AX9Is78E&amp;oh=c3063a5316d5178d523252b1a726afbb&amp;oe=5E99A6F6" alt="" /> Been seeing folks post pictures from 10 years ago. Thought I'd join in with our engagement photos taken by <a href="https://micro.blog/isaacpittman">@isaacpittman</a> on January 9, 2010.</p>
+<p><img src="/assets/2020/01/79367478_2824587600913299_4452392516653922352_n.jpg?_nc_ht=scontent.cdninstagram.com&amp;_nc_ohc=EX_MPORnlW0AX9Is78E&amp;oh=c3063a5316d5178d523252b1a726afbb&amp;oe=5E99A6F6" alt="" /> Been seeing folks post pictures from 10 years ago. Thought I'd join in with our engagement photos taken by <a href="https://micro.blog/isaacpittman">@isaacpittman</a> on January 9, 2010.</p>

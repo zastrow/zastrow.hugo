@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/02/843/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/02/45863690._SX50_.jpg" alt="The Murder of Roger Ackroyd" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3171251848?utm_medium=api&amp;utm_source=rss">The Murder of Roger Ackroyd</a>. 📚</p>
+<p><img src="/assets/2020/02/45863690._SX50_.jpg" alt="The Murder of Roger Ackroyd" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3171251848?utm_medium=api&amp;utm_source=rss">The Murder of Roger Ackroyd</a>. 📚</p>

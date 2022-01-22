@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/11/735/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/3022064669?utm_medium=api&amp;utm_source=rss">Exhalation: Stories</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/11/41160292._SX50_.jpg" alt="Exhalation: Stories" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/3022064669?utm_medium=api&amp;utm_source=rss">Exhalation: Stories</a>. 📚 <img src="/assets/2019/11/41160292._SX50_.jpg" alt="Exhalation: Stories" /></p>

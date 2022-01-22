@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/06/661/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2720568826?utm_medium=api&amp;utm_source=rss">Digital Minimalism: Choosing a Focused Life in a Noisy World</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/06/43168058.jpg" alt="Digital Minimalism: Choosing a Focused Life in a Noisy World" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2720568826?utm_medium=api&amp;utm_source=rss">Digital Minimalism: Choosing a Focused Life in a Noisy World</a>. 📚 <img src="/assets/2019/06/43168058.jpg" alt="Digital Minimalism: Choosing a Focused Life in a Noisy World" /></p>

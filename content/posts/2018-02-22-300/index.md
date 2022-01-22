@@ -20,4 +20,4 @@ type: post
 url: /2018/02/300/
 ---
 <p>My favorite tacos in Dayton.</p>
-<p><img src="{{ site.baseurl }}/assets/2018/02/78eb3aee2965499b947b2669fb3e9aa9.jpg" width="600" height="600" /></p>
+<p><img src="/assets/2018/02/78eb3aee2965499b947b2669fb3e9aa9.jpg" width="600" height="600" /></p>

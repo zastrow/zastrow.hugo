@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/01/805/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/01/9856011._SY75_.jpg" alt="The Return of Captain John Emmett" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3137765059?utm_medium=api&amp;utm_source=rss">The Return of Captain John Emmett</a>. 📚</p>
+<p><img src="/assets/2020/01/9856011._SY75_.jpg" alt="The Return of Captain John Emmett" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3137765059?utm_medium=api&amp;utm_source=rss">The Return of Captain John Emmett</a>. 📚</p>

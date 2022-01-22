@@ -20,5 +20,5 @@ title: ""
 type: post
 url: /2018/09/517/
 ---
-<p><img src="{{ site.baseurl }}/assets/2018/09/IMG_2794.jpg" class="size-full" /></p>
+<p><img src="/assets/2018/09/IMG_2794.jpg" class="size-full" /></p>
 <p>All conferences should have a 5K</p>

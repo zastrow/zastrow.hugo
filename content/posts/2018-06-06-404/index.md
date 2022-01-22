@@ -19,5 +19,5 @@ title: ""
 type: post
 url: /2018/06/404/
 ---
-<p><img src="{{ site.baseurl }}/assets/2018/06/1528305644.jpeg" alt="macOS Mojave Night Desktop Wallpaper" /></p>
+<p><img src="/assets/2018/06/1528305644.jpeg" alt="macOS Mojave Night Desktop Wallpaper" /></p>
 <p>Ive never heard of Technastic before, but they have the macOS Mojave desktop wallpapers over <a href="http://technastic.com/download-macos-mojave-wallpapers/">on their site</a>.</p>

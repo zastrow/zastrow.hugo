@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/11/737/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/3044573722?utm_medium=api&amp;utm_source=rss">World War Z: An Oral History of the Zombie War</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/11/18111927._SX50_.jpg" alt="World War Z: An Oral History of the Zombie War" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/3044573722?utm_medium=api&amp;utm_source=rss">World War Z: An Oral History of the Zombie War</a>. 📚 <img src="/assets/2019/11/18111927._SX50_.jpg" alt="World War Z: An Oral History of the Zombie War" /></p>

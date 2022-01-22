@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2018/04/387/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2296387007?utm_medium=api&amp;utm_source=rss">All the Pieces Matter: The Inside Story of The Wire</a>. 📚 <img src="{{ site.baseurl }}/assets/2018/04/38739910.jpg" alt="All the Pieces Matter: The Inside Story of The Wire" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2296387007?utm_medium=api&amp;utm_source=rss">All the Pieces Matter: The Inside Story of The Wire</a>. 📚 <img src="/assets/2018/04/38739910.jpg" alt="All the Pieces Matter: The Inside Story of The Wire" /></p>

@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2018/04/373/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2359345543?utm_medium=api&amp;utm_source=rss">Triggers: Creating Behavior That Lasts--Becoming the Person You Want to Be</a>. 📚 <img src="{{ site.baseurl }}/assets/2018/04/30688276.jpg" alt="Triggers: Creating Behavior That Lasts--Becoming the Person You Want to Be" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2359345543?utm_medium=api&amp;utm_source=rss">Triggers: Creating Behavior That Lasts--Becoming the Person You Want to Be</a>. 📚 <img src="/assets/2018/04/30688276.jpg" alt="Triggers: Creating Behavior That Lasts--Becoming the Person You Want to Be" /></p>

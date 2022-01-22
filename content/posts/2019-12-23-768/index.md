@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2019/12/768/
 ---
-<p><img src="{{ site.baseurl }}/assets/2019/12/77387123_527973141122786_310507190877344190_n.jpg?_nc_ht=scontent.cdninstagram.com&amp;_nc_ohc=vVdX4qn-5pgAX__sUN2&amp;oh=e228cf7147fcd3e08107f2b20f34fe84&amp;oe=5E8DDBD2" alt="" /> As far as I’m concerned, only one Christmas album has ever been recorded.</p>
+<p><img src="/assets/2019/12/77387123_527973141122786_310507190877344190_n.jpg?_nc_ht=scontent.cdninstagram.com&amp;_nc_ohc=vVdX4qn-5pgAX__sUN2&amp;oh=e228cf7147fcd3e08107f2b20f34fe84&amp;oe=5E8DDBD2" alt="" /> As far as I’m concerned, only one Christmas album has ever been recorded.</p>

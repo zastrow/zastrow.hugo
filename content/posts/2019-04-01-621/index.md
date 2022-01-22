@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/04/621/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2771032988?utm_medium=api&amp;utm_source=rss">Harry Potter and the Chamber of Secrets (Harry Potter, #2)</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/04/28267725.jpg" alt="Harry Potter and the Chamber of Secrets (Harry Potter, #2)" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2771032988?utm_medium=api&amp;utm_source=rss">Harry Potter and the Chamber of Secrets (Harry Potter, #2)</a>. 📚 <img src="/assets/2019/04/28267725.jpg" alt="Harry Potter and the Chamber of Secrets (Harry Potter, #2)" /></p>

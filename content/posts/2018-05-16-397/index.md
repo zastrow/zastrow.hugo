@@ -20,4 +20,4 @@ type: post
 url: /2018/05/397/
 ---
 <p>This light at P.F.Chang’s looks like something from a Cylon ship.</p>
-<p><img src="{{ site.baseurl }}/assets/2018/05/aac0c34af08842f0a0ecdf06ab28cee2.jpg" width="600" height="600" /></p>
+<p><img src="/assets/2018/05/aac0c34af08842f0a0ecdf06ab28cee2.jpg" width="600" height="600" /></p>

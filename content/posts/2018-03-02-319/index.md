@@ -20,4 +20,4 @@ type: post
 url: /2018/03/319/
 ---
 <p>I’m tired of autocorrect’s crap. If I have typos, I’d rather they be mine than the machine’s.</p>
-<p><img src="{{ site.baseurl }}/assets/2018/03/a5e8de35a02045fdbcf153e078012b0d.jpg" width="600" height="600" /></p>
+<p><img src="/assets/2018/03/a5e8de35a02045fdbcf153e078012b0d.jpg" width="600" height="600" /></p>

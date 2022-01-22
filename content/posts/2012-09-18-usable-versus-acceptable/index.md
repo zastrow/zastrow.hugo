@@ -22,11 +22,11 @@ url: /2012/09/usable-versus-acceptable/
 <p>A scenario I face so commonly I forget about it is rounded corners. It is an aesthetic choice web designers have been using for a decade, but until recently was difficult to implement. With CSS3’s <code class="highlighter-rouge">border-radius</code> a rounded corner is quick to make. Older browsers, such as Internet Explorer 8, don’t support this feature and create normal 90 degree corners. The straight corners don’t hinder usability and typically the integrity of the design is maintained. In my opinion, this is an acceptable design difference between the browsers.</p>
 <p>CSS is now at the point where we can produce highly detailed and beautiful elements without the need of images. This leads me to another scenario I’ve come across recently. For a project I’m currently designing, I made a lovely CSS-generated indicator for pagination.</p>
 <figure>
-<img alt="CSS3-generated indicators in Webkit" src="{{ site.baseurl }}/assets/2012/09/css3-indicator.png" /><br />
+<img alt="CSS3-generated indicators in Webkit" src="/assets/2012/09/css3-indicator.png" /><br />
 </figure>
 <p>However, the same CSS and HTML in Internet Explorer 8 produces very different results. The spherical indicators become flat, square boxes. The necessary elements are there for these indicators to be completely useful and accessible, but the design integrity is diminished.</p>
 <figure>
-<img alt="Flat indicators in Internet Explorer 8" src="{{ site.baseurl }}/assets/2012/09/ie8-indicator.png" /><br />
+<img alt="Flat indicators in Internet Explorer 8" src="/assets/2012/09/ie8-indicator.png" /><br />
 </figure>
 <p>Older browsers can’t always just be labeled good enough. This result raises questions of acceptability with some subjective answers.</p>
 <ul>

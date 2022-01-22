@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/07/881/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/07/40874032._SY75_.jpg" alt="Vicious (Villains, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3412270510?utm_medium=api&amp;utm_source=rss">Vicious (Villains, #1)</a>. 📚</p>
+<p><img src="/assets/2020/07/40874032._SY75_.jpg" alt="Vicious (Villains, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3412270510?utm_medium=api&amp;utm_source=rss">Vicious (Villains, #1)</a>. 📚</p>

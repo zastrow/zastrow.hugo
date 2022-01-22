@@ -22,11 +22,11 @@ url: /2013/03/css-multiple-adjacent-siblings/
 <p>I hit just that scenario this morning. I’m working on a site that has a landing page for four different sections of the website. For the most part the layout of the landing pages are the same, except one or two that does not contain an area for bugs<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. At the large screen views, I want the <code class="highlighter-rouge">.bugs</code> container to be the first of three columns, followed by <code class="highlighter-rouge">.col1</code> which usually contains events, and then <code class="highlighter-rouge">.col2</code> which usually contains news.</p>
 <p>At the default, small screen view these containers all stack.</p>
 <figure class="no">
-<img src="{{ site.baseurl }}/assets/2013/03/sample1.png" alt="Mobile stacked containers" /><br />
+<img src="/assets/2013/03/sample1.png" alt="Mobile stacked containers" /><br />
 </figure>
 <p>By the time we hit a portrait tablet screen size, <code class="highlighter-rouge">.col1</code> and <code class="highlighter-rouge">.col2</code> are side by side with the <code class="highlighter-rouge">.bugs</code> container above them at full width.</p>
 <figure class="no">
-<img src="{{ site.baseurl }}/assets/2013/03/sample2.png" alt="Tablet stacked containers with two columns" /><br />
+<img src="/assets/2013/03/sample2.png" alt="Tablet stacked containers with two columns" /><br />
 </figure>
 <p>To achieve this I am simply adding the following to my CSS at this media query</p>
 <div class="highlighter-rouge">
@@ -36,7 +36,7 @@ url: /2013/03/css-multiple-adjacent-siblings/
 <p><small>Please note, I’m not getting into detail on how I have these containers oriented horizontally. The easiest is to add a <code class="highlighter-rouge">float</code> parameter to each container. However, I tend to use a <code class="highlighter-rouge">display:inline-block</code> approach, which I feel has more versatility.</small></p>
 <p>By the time we are hitting our larger screens and landscape tablet sizes, all three containers are side by side as three columns.</p>
 <figure class="no">
-<img src="{{ site.baseurl }}/assets/2013/03/sample3.png" alt="Large screen view with three columns" /><br />
+<img src="/assets/2013/03/sample3.png" alt="Large screen view with three columns" /><br />
 </figure>
 <p>Currently my CSS looks like this for these three containers:</p>
 <figure class="highlight">

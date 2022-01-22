@@ -19,5 +19,5 @@ title: ""
 type: post
 url: /2018/02/262/
 ---
-<p><img src="{{ site.baseurl }}/assets/2018/02/287861.jpg" alt="Cover for Mortal Engines (The Hungry City Chronicles, #1)" /></p>
+<p><img src="/assets/2018/02/287861.jpg" alt="Cover for Mortal Engines (The Hungry City Chronicles, #1)" /></p>
 <p>Just finished <a href="https://www.goodreads.com/review/show/2294217728?utm_medium=api&amp;utm_source=rss">Mortal Engines (The Hungry City Chronicles, #1)</a>. 📚</p>

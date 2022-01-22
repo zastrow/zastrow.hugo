@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/08/692/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2532050925?utm_medium=api&amp;utm_source=rss">Reclaiming Conversation: The Power of Talk in a Digital Age</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/08/25614629._SY75_.jpg" alt="Reclaiming Conversation: The Power of Talk in a Digital Age" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2532050925?utm_medium=api&amp;utm_source=rss">Reclaiming Conversation: The Power of Talk in a Digital Age</a>. 📚 <img src="/assets/2019/08/25614629._SY75_.jpg" alt="Reclaiming Conversation: The Power of Talk in a Digital Age" /></p>

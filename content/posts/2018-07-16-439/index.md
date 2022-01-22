@@ -20,4 +20,4 @@ type: post
 url: /2018/07/439/
 ---
 <p>It is absolutely astounding to me that I have been at Sparkbox for five years now. I work with some of the best humans on earth. They are incredibly smart, humble, and have a strong desire to make each other better. I am so thankful I have the opportunity to learn and grow here.</p>
-<p><img src="{{ site.baseurl }}/assets/2018/07/24a8920a39944ec2bd77695057952c00.jpg" width="600" height="600" /></p>
+<p><img src="/assets/2018/07/24a8920a39944ec2bd77695057952c00.jpg" width="600" height="600" /></p>

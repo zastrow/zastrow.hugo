@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/01/796/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/01/2599523._SX50_.jpg" alt="The Boat" /> Just finished the book, <a href="https://www.goodreads.com/review/show/2983704790?utm_medium=api&amp;utm_source=rss">The Boat</a>. 📚</p>
+<p><img src="/assets/2020/01/2599523._SX50_.jpg" alt="The Boat" /> Just finished the book, <a href="https://www.goodreads.com/review/show/2983704790?utm_medium=api&amp;utm_source=rss">The Boat</a>. 📚</p>

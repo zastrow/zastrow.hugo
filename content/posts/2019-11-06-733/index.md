@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/11/733/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/3038925734?utm_medium=api&amp;utm_source=rss">Harry Potter and the Deathly Hallows (Harry Potter, #7)</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/11/38185123._SX50_.jpg" alt="Harry Potter and the Deathly Hallows (Harry Potter, #7)" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/3038925734?utm_medium=api&amp;utm_source=rss">Harry Potter and the Deathly Hallows (Harry Potter, #7)</a>. 📚 <img src="/assets/2019/11/38185123._SX50_.jpg" alt="Harry Potter and the Deathly Hallows (Harry Potter, #7)" /></p>

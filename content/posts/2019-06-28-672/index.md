@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/06/672/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2875002450?utm_medium=api&amp;utm_source=rss">Why Not Me?</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/06/26543921._SX50_.jpg" alt="Why Not Me?" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2875002450?utm_medium=api&amp;utm_source=rss">Why Not Me?</a>. 📚 <img src="/assets/2019/06/26543921._SX50_.jpg" alt="Why Not Me?" /></p>

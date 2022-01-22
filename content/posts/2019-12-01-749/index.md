@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2019/12/749/
 ---
-<p><img src="{{ site.baseurl }}/assets/2019/12/73512747_434366767228579_207091772351756070_n.jpg?_nc_ht=scontent.cdninstagram.com&amp;oh=105bf200eaacb1caedf57babb6543983&amp;oe=5E896C01" alt="" /> I get to draw things for my kids to color and it makes me so happy.</p>
+<p><img src="/assets/2019/12/73512747_434366767228579_207091772351756070_n.jpg?_nc_ht=scontent.cdninstagram.com&amp;oh=105bf200eaacb1caedf57babb6543983&amp;oe=5E896C01" alt="" /> I get to draw things for my kids to color and it makes me so happy.</p>

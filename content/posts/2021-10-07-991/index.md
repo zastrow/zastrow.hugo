@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2021/10/991/
 ---
-<p><img src="{{ site.baseurl }}/assets/2021/10/40604754._SY75_.jpg" alt="Heir to the Empire (Star Wars: The Thrawn Trilogy, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/4269581330?utm_medium=api&amp;utm_source=rss">Heir to the Empire (Star Wars: The Thrawn Trilogy, #1)</a>. 📚</p>
+<p><img src="/assets/2021/10/40604754._SY75_.jpg" alt="Heir to the Empire (Star Wars: The Thrawn Trilogy, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/4269581330?utm_medium=api&amp;utm_source=rss">Heir to the Empire (Star Wars: The Thrawn Trilogy, #1)</a>. 📚</p>

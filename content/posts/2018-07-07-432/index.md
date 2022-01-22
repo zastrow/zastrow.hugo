@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2018/07/432/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2435596635?utm_medium=api&amp;utm_source=rss">I'm Still Here: Black Dignity in a World Made for Whiteness</a>. 📚 <img src="{{ site.baseurl }}/assets/2018/07/40165892.jpg" alt="I'm Still Here: Black Dignity in a World Made for Whiteness" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2435596635?utm_medium=api&amp;utm_source=rss">I'm Still Here: Black Dignity in a World Made for Whiteness</a>. 📚 <img src="/assets/2018/07/40165892.jpg" alt="I'm Still Here: Black Dignity in a World Made for Whiteness" /></p>

@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2018/11/551/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2582955551?utm_medium=api&amp;utm_source=rss">Bonfire</a>. 📚 <img src="{{ site.baseurl }}/assets/2018/11/40718304.jpg" alt="Bonfire" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2582955551?utm_medium=api&amp;utm_source=rss">Bonfire</a>. 📚 <img src="/assets/2018/11/40718304.jpg" alt="Bonfire" /></p>

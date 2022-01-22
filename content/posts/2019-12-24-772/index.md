@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2019/12/772/
 ---
-<p><img src="{{ site.baseurl }}/assets/2019/12/20701984._SX50_.jpg" alt="El Deafo" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3098047585?utm_medium=api&amp;utm_source=rss">El Deafo</a>. 📚</p>
+<p><img src="/assets/2019/12/20701984._SX50_.jpg" alt="El Deafo" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3098047585?utm_medium=api&amp;utm_source=rss">El Deafo</a>. 📚</p>

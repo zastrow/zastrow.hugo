@@ -3,3 +3,29 @@ disablePathToLower: true
 disableLiveReload: true
 languageCode: en-us
 title: Philip Zastrow
+Author:
+  name: Philip Zastrow
+  email: site@zastrow.co
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  page:
+    - HTML
+  home:
+    - HTML
+    - RSS
+  section:
+    - HTML
+  taxonomyTerm:
+    - HTML
+  taxonomy:
+    - HTML
+
+outputFormats:
+  RSS:
+    mediatype: application/rss
+    baseName: index
+    path: feed

@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/07/883/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/07/25936698._SX50_.jpg" alt="Halo: The Fall of Reach" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3455271038?utm_medium=api&amp;utm_source=rss">Halo: The Fall of Reach</a>. 📚</p>
+<p><img src="/assets/2020/07/25936698._SX50_.jpg" alt="Halo: The Fall of Reach" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3455271038?utm_medium=api&amp;utm_source=rss">Halo: The Fall of Reach</a>. 📚</p>

@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/07/678/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2883892728?utm_medium=api&amp;utm_source=rss">Essentialism: The Disciplined Pursuit of Less</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/07/18077875._SY75_.jpg" alt="Essentialism: The Disciplined Pursuit of Less" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2883892728?utm_medium=api&amp;utm_source=rss">Essentialism: The Disciplined Pursuit of Less</a>. 📚 <img src="/assets/2019/07/18077875._SY75_.jpg" alt="Essentialism: The Disciplined Pursuit of Less" /></p>

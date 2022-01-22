@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/01/794/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/01/79645456_456103591959992_1986123242623322429_n.jpg?_nc_ht=scontent.cdninstagram.com&amp;_nc_ohc=U-VssC4F1DwAX82z6gW&amp;oh=186b86c1b1c96ab7190e6b4d3fc5a111&amp;oe=5EA68B3F" alt="" /> Holden and daddy, being silly.</p>
+<p><img src="/assets/2020/01/79645456_456103591959992_1986123242623322429_n.jpg?_nc_ht=scontent.cdninstagram.com&amp;_nc_ohc=U-VssC4F1DwAX82z6gW&amp;oh=186b86c1b1c96ab7190e6b4d3fc5a111&amp;oe=5EA68B3F" alt="" /> Holden and daddy, being silly.</p>

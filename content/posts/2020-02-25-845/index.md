@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/02/845/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/02/87236753_2637431513143115_2498343757276319412_n.jpg?_nc_ht=scontent.cdninstagram.com&amp;_nc_ohc=WEXHkdbHuhgAX_JOam5&amp;oh=bd78e20348b456c7221d7932c0068266&amp;oe=5E80573D" alt="" /> Reza’s Turkish coffee is amazing and the date, incredible.</p>
+<p><img src="/assets/2020/02/87236753_2637431513143115_2498343757276319412_n.jpg?_nc_ht=scontent.cdninstagram.com&amp;_nc_ohc=WEXHkdbHuhgAX_JOam5&amp;oh=bd78e20348b456c7221d7932c0068266&amp;oe=5E80573D" alt="" /> Reza’s Turkish coffee is amazing and the date, incredible.</p>

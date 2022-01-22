@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/05/875/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/05/37589179._SY75_.jpg" alt="Dead Astronauts (Borne, #2)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3290471751?utm_medium=api&amp;utm_source=rss">Dead Astronauts (Borne, #2)</a>. 📚</p>
+<p><img src="/assets/2020/05/37589179._SY75_.jpg" alt="Dead Astronauts (Borne, #2)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3290471751?utm_medium=api&amp;utm_source=rss">Dead Astronauts (Borne, #2)</a>. 📚</p>

@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2018/12/557/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2622410433?utm_medium=api&amp;utm_source=rss">Monstress, Vol. 2: The Blood (Monstress, #2)</a>. 📚 <img src="{{ site.baseurl }}/assets/2018/12/33540347.jpg" alt="Monstress, Vol. 2: The Blood (Monstress, #2)" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2622410433?utm_medium=api&amp;utm_source=rss">Monstress, Vol. 2: The Blood (Monstress, #2)</a>. 📚 <img src="/assets/2018/12/33540347.jpg" alt="Monstress, Vol. 2: The Blood (Monstress, #2)" /></p>

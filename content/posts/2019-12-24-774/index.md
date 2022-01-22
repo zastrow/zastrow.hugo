@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2019/12/774/
 ---
-<p><img src="{{ site.baseurl }}/assets/2019/12/80715241_732142310609438_1355799946143361287_n.jpg?_nc_ht=scontent.cdninstagram.com&amp;_nc_ohc=DQfp65wODZwAX_yljAu&amp;oh=285d78f0920707a905b22242f0e6f02d&amp;oe=5E9B69B9" alt="" /> Our little family’s movie tradition.</p>
+<p><img src="/assets/2019/12/80715241_732142310609438_1355799946143361287_n.jpg?_nc_ht=scontent.cdninstagram.com&amp;_nc_ohc=DQfp65wODZwAX_yljAu&amp;oh=285d78f0920707a905b22242f0e6f02d&amp;oe=5E9B69B9" alt="" /> Our little family’s movie tradition.</p>

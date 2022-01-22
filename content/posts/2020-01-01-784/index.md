@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/01/784/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/01/79725995_471872837074323_3751914392205710822_n.jpg?_nc_ht=scontent.cdninstagram.com&amp;_nc_ohc=O26ZXZOM6W8AX9LwBLe&amp;oh=1c593bb9203ed5e98a588159a5ba09d4&amp;oe=5E99463E" alt="" /> Family photo at our second screening of Frozen2.</p>
+<p><img src="/assets/2020/01/79725995_471872837074323_3751914392205710822_n.jpg?_nc_ht=scontent.cdninstagram.com&amp;_nc_ohc=O26ZXZOM6W8AX9LwBLe&amp;oh=1c593bb9203ed5e98a588159a5ba09d4&amp;oe=5E99463E" alt="" /> Family photo at our second screening of Frozen2.</p>

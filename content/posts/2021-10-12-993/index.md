@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2021/10/993/
 ---
-<p><img src="{{ site.baseurl }}/assets/2021/10/40864002._SY75_.jpg" alt="A Psalm for the Wild-Built (Monk &amp; Robot, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/4285439513?utm_medium=api&amp;utm_source=rss">A Psalm for the Wild-Built (Monk &amp; Robot, #1)</a>. 📚</p>
+<p><img src="/assets/2021/10/40864002._SY75_.jpg" alt="A Psalm for the Wild-Built (Monk &amp; Robot, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/4285439513?utm_medium=api&amp;utm_source=rss">A Psalm for the Wild-Built (Monk &amp; Robot, #1)</a>. 📚</p>

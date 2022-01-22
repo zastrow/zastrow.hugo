@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2018/03/342/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2232655177?utm_medium=api&amp;utm_source=rss">The Old Man and the Sea</a>. 📚 <img src="{{ site.baseurl }}/assets/2018/03/6396997.jpg" alt="The Old Man and the Sea" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2232655177?utm_medium=api&amp;utm_source=rss">The Old Man and the Sea</a>. 📚 <img src="/assets/2018/03/6396997.jpg" alt="The Old Man and the Sea" /></p>

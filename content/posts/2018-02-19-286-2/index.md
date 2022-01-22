@@ -20,4 +20,4 @@ type: post
 url: /2018/02/286-2/
 ---
 <p>More games tonight. Introducing my brother to <a href="https://www.amazon.com/Boss-Monster-Dungeon-Building-Card/dp/B00DK3P856?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&amp;tag=duckduckgo-osx-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00DK3P856">Boss Monster</a></p>
-<p><img src="{{ site.baseurl }}/assets/2018/02/69b62cca9e2042e1ade51f38f394b95d.jpg" width="600" height="600" /></p>
+<p><img src="/assets/2018/02/69b62cca9e2042e1ade51f38f394b95d.jpg" width="600" height="600" /></p>

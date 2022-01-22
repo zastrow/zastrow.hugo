@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2021/10/999/
 ---
-<p><img src="{{ site.baseurl }}/assets/2021/10/131359._SY75_.jpg" alt="Death on the Nile (Hercule Poirot, #18)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/4052157622?utm_medium=api&amp;utm_source=rss">Death on the Nile (Hercule Poirot, #18)</a>. 📚</p>
+<p><img src="/assets/2021/10/131359._SY75_.jpg" alt="Death on the Nile (Hercule Poirot, #18)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/4052157622?utm_medium=api&amp;utm_source=rss">Death on the Nile (Hercule Poirot, #18)</a>. 📚</p>

@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2018/03/346/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2326188472?utm_medium=api&amp;utm_source=rss">Saga: Book Two (Saga, #4-6)</a>. 📚 <img src="{{ site.baseurl }}/assets/2018/03/32926680.jpg" alt="Saga: Book Two (Saga, #4-6)" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2326188472?utm_medium=api&amp;utm_source=rss">Saga: Book Two (Saga, #4-6)</a>. 📚 <img src="/assets/2018/03/32926680.jpg" alt="Saga: Book Two (Saga, #4-6)" /></p>

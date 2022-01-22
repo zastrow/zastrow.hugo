@@ -20,4 +20,4 @@ type: post
 url: /2018/05/394/
 ---
 <p>Finally ridded myself of that fluorescent pestilence.</p>
-<p><img src="{{ site.baseurl }}/assets/2018/05/eb20f9971373492d805822a7c00c03e5.jpg" width="600" height="600" /></p>
+<p><img src="/assets/2018/05/eb20f9971373492d805822a7c00c03e5.jpg" width="600" height="600" /></p>

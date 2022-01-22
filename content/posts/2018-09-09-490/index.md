@@ -19,5 +19,5 @@ title: ""
 type: post
 url: /2018/09/490/
 ---
-<p><img src="{{ site.baseurl }}/assets/2018/09/image-69.jpg" alt="Children of Blood and Bone (Legacy of Orïsha, #1)" /></p>
+<p><img src="/assets/2018/09/image-69.jpg" alt="Children of Blood and Bone (Legacy of Orïsha, #1)" /></p>
 <p>Just finished the book, <a href="https://www.goodreads.com/review/show/2320691974?utm_medium=api&amp;utm_source=rss">Children of Blood and Bone (Legacy of Orïsha, #1)</a>. 📚</p>

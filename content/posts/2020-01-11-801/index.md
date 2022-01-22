@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/01/801/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/01/33396171._SY75_.jpg" alt="All Systems Red (The Murderbot Diaries, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3110261888?utm_medium=api&amp;utm_source=rss">All Systems Red (The Murderbot Diaries, #1)</a>. 📚</p>
+<p><img src="/assets/2020/01/33396171._SY75_.jpg" alt="All Systems Red (The Murderbot Diaries, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3110261888?utm_medium=api&amp;utm_source=rss">All Systems Red (The Murderbot Diaries, #1)</a>. 📚</p>

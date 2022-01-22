@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2018/05/399/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2378755317?utm_medium=api&amp;utm_source=rss">1493: Uncovering the New World Columbus Created</a>. 📚 <img src="{{ site.baseurl }}/assets/2018/05/12338050.jpg" alt="1493: Uncovering the New World Columbus Created" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2378755317?utm_medium=api&amp;utm_source=rss">1493: Uncovering the New World Columbus Created</a>. 📚 <img src="/assets/2018/05/12338050.jpg" alt="1493: Uncovering the New World Columbus Created" /></p>

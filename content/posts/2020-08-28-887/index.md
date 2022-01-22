@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/08/887/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/08/1268479._SY75_.jpg" alt="Warbreaker (Warbreaker, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3520145691?utm_medium=api&amp;utm_source=rss">Warbreaker (Warbreaker, #1)</a>. 📚</p>
+<p><img src="/assets/2020/08/1268479._SY75_.jpg" alt="Warbreaker (Warbreaker, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3520145691?utm_medium=api&amp;utm_source=rss">Warbreaker (Warbreaker, #1)</a>. 📚</p>

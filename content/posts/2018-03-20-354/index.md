@@ -20,5 +20,5 @@ title: ""
 type: post
 url: /2018/03/354/
 ---
-<p><img src="{{ site.baseurl }}/assets/2018/03/1521568607.jpeg" alt="Studio Neat’s Mark One" /></p>
+<p><img src="/assets/2018/03/1521568607.jpeg" alt="Studio Neat’s Mark One" /></p>
 <p>I backed <a href="http://studioneat.com">Studio Neat</a>’s latest <a href="https://www.kickstarter.com/projects/danprovost/mark-one-a-minimal-durable-retractable-pen">Kickstarter</a> today. The <a href="https://www.kickstarter.com/projects/danprovost/mark-one-a-minimal-durable-retractable-pen">Mark One</a> is an elegant and simple pen design. Getting one for me and one for <a href="https://inksprout.com">my wife</a>.</p>

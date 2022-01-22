@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2021/09/986/
 ---
-<p><img src="{{ site.baseurl }}/assets/2021/09/30223025._SY75_.jpg" alt="Dread Nation (Dread Nation, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/4221769791?utm_medium=api&amp;utm_source=rss">Dread Nation (Dread Nation, #1)</a>. 📚</p>
+<p><img src="/assets/2021/09/30223025._SY75_.jpg" alt="Dread Nation (Dread Nation, #1)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/4221769791?utm_medium=api&amp;utm_source=rss">Dread Nation (Dread Nation, #1)</a>. 📚</p>

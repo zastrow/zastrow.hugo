@@ -21,4 +21,4 @@ type: post
 url: /2018/03/321/
 ---
 <p>Just finished the book, <a href="https://www.goodreads.com/review/show/2313891457?utm_medium=api&amp;utm_source=rss">Moon Girl and Devil Dinosaur, Vol. 1: BFF</a>. 📚</p>
-<p><img src="{{ site.baseurl }}/assets/2018/03/27415869.jpg" alt="Moon Girl and Devil Dinosaur, Vol. 1: BFF" /></p>
+<p><img src="/assets/2018/03/27415869.jpg" alt="Moon Girl and Devil Dinosaur, Vol. 1: BFF" /></p>

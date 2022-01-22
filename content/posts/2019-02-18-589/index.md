@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/02/589/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2717532150?utm_medium=api&amp;utm_source=rss">A Briefer History of Time</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/02/10049627.jpg" alt="A Briefer History of Time" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2717532150?utm_medium=api&amp;utm_source=rss">A Briefer History of Time</a>. 📚 <img src="/assets/2019/02/10049627.jpg" alt="A Briefer History of Time" /></p>

@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/09/890/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/09/26856502._SY75_.jpg" alt="Vengeful (Villains, #2)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3412272046?utm_medium=api&amp;utm_source=rss">Vengeful (Villains, #2)</a>. 📚</p>
+<p><img src="/assets/2020/09/26856502._SY75_.jpg" alt="Vengeful (Villains, #2)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3412272046?utm_medium=api&amp;utm_source=rss">Vengeful (Villains, #2)</a>. 📚</p>

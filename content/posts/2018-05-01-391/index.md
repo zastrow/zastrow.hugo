@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2018/05/391/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2098597326?utm_medium=api&amp;utm_source=rss">1491: New Revelations of the Americas Before Columbus</a>. 📚 <img src="{{ site.baseurl }}/assets/2018/05/32948902.jpg" alt="1491: New Revelations of the Americas Before Columbus" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2098597326?utm_medium=api&amp;utm_source=rss">1491: New Revelations of the Americas Before Columbus</a>. 📚 <img src="/assets/2018/05/32948902.jpg" alt="1491: New Revelations of the Americas Before Columbus" /></p>

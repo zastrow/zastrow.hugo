@@ -20,4 +20,4 @@ type: post
 url: /2018/08/467/
 ---
 <p><a href="http://www.meetcarrot.com/weather/">CARROT</a>, ever aware.</p>
-<p><img src="{{ site.baseurl }}/assets/2018/08/img_1733.jpg" class="size-full wp-image-469" height="996" width="1125" /></p>
+<p><img src="/assets/2018/08/img_1733.jpg" class="size-full wp-image-469" height="996" width="1125" /></p>

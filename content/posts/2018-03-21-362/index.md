@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2018/03/362/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2073684488?utm_medium=api&amp;utm_source=rss">Chasing Francis: A Pilgrim's Tale</a>. 📚 <img src="{{ site.baseurl }}/assets/2018/03/20088505.jpg" alt="Chasing Francis: A Pilgrim's Tale" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2073684488?utm_medium=api&amp;utm_source=rss">Chasing Francis: A Pilgrim's Tale</a>. 📚 <img src="/assets/2018/03/20088505.jpg" alt="Chasing Francis: A Pilgrim's Tale" /></p>

@@ -20,5 +20,5 @@ title: ""
 type: post
 url: /2018/02/242/
 ---
-<p><img src="{{ site.baseurl }}/assets/2018/02/27881370_544552295916337_7389489248493109248_n.jpg" alt="" /></p>
+<p><img src="/assets/2018/02/27881370_544552295916337_7389489248493109248_n.jpg" alt="" /></p>
 <p>Dreary day in my town.</p>

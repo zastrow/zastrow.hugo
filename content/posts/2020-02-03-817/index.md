@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/02/817/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/02/5826._SY75_.jpg" alt="Bel Canto" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3154406815?utm_medium=api&amp;utm_source=rss">Bel Canto</a>. 📚</p>
+<p><img src="/assets/2020/02/5826._SY75_.jpg" alt="Bel Canto" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3154406815?utm_medium=api&amp;utm_source=rss">Bel Canto</a>. 📚</p>

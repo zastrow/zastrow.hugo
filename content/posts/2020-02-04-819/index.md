@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2020/02/819/
 ---
-<p><img src="{{ site.baseurl }}/assets/2020/02/13425618._SX50_.jpg" alt="How Will You Measure Your Life?" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3174057143?utm_medium=api&amp;utm_source=rss">How Will You Measure Your Life?</a>. 📚</p>
+<p><img src="/assets/2020/02/13425618._SX50_.jpg" alt="How Will You Measure Your Life?" /> Just finished the book, <a href="https://www.goodreads.com/review/show/3174057143?utm_medium=api&amp;utm_source=rss">How Will You Measure Your Life?</a>. 📚</p>

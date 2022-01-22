@@ -20,4 +20,4 @@ title: ""
 type: post
 url: /2021/10/1001/
 ---
-<p><img src="{{ site.baseurl }}/assets/2021/10/68429._SY75_.jpg" alt="The Well of Ascension (Mistborn, #2)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/4134244895?utm_medium=api&amp;utm_source=rss">The Well of Ascension (Mistborn, #2)</a>. 📚</p>
+<p><img src="/assets/2021/10/68429._SY75_.jpg" alt="The Well of Ascension (Mistborn, #2)" /> Just finished the book, <a href="https://www.goodreads.com/review/show/4134244895?utm_medium=api&amp;utm_source=rss">The Well of Ascension (Mistborn, #2)</a>. 📚</p>

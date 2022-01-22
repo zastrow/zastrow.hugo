@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2019/03/605/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2087910374?utm_medium=api&amp;utm_source=rss">Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</a>. 📚 <img src="{{ site.baseurl }}/assets/2019/03/27880360.jpg" alt="Harry Potter and the Sorcerer's Stone (Harry Potter, #1)" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2087910374?utm_medium=api&amp;utm_source=rss">Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</a>. 📚 <img src="/assets/2019/03/27880360.jpg" alt="Harry Potter and the Sorcerer's Stone (Harry Potter, #1)" /></p>

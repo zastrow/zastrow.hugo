@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2018/08/457/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2491632813?utm_medium=api&amp;utm_source=rss">Marvel 1602</a>. 📚 <img src="{{ site.baseurl }}/assets/2018/08/15719.jpg" alt="Marvel 1602" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2491632813?utm_medium=api&amp;utm_source=rss">Marvel 1602</a>. 📚 <img src="/assets/2018/08/15719.jpg" alt="Marvel 1602" /></p>

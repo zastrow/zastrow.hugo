@@ -20,5 +20,5 @@ title: ""
 type: post
 url: /2018/09/501/
 ---
-<p><img src="{{ site.baseurl }}/assets/2018/09/empathy-for-the-devil.jpg" alt="Empathy for the Devil: Finding Ourselves in the Villains of the Bible" /></p>
+<p><img src="/assets/2018/09/empathy-for-the-devil.jpg" alt="Empathy for the Devil: Finding Ourselves in the Villains of the Bible" /></p>
 <p>Just finished the book, <a href="https://www.goodreads.com/review/show/2170992340?utm_medium=api&amp;utm_source=rss">Empathy for the Devil: Finding Ourselves in the Villains of the Bible</a>. 📚</p>

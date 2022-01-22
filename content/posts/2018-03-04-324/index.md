@@ -19,4 +19,4 @@ title: ""
 type: post
 url: /2018/03/324/
 ---
-<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2313891561?utm_medium=api&amp;utm_source=rss">Moon Girl and Devil Dinosaur, Vol. 2: Cosmic Cooties</a>. 📚 <img src="{{ site.baseurl }}/assets/2018/03/30621642.jpg" alt="Moon Girl and Devil Dinosaur, Vol. 2: Cosmic Cooties" /></p>
+<p>Just finished the book, <a href="https://www.goodreads.com/review/show/2313891561?utm_medium=api&amp;utm_source=rss">Moon Girl and Devil Dinosaur, Vol. 2: Cosmic Cooties</a>. 📚 <img src="/assets/2018/03/30621642.jpg" alt="Moon Girl and Devil Dinosaur, Vol. 2: Cosmic Cooties" /></p>

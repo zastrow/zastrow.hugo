@@ -21,7 +21,7 @@ type: post
 url: /2018/10/536/
 ---
 <p>I designed a T-Shirt and the awesome folks at <a href="https://cottonbureau.com">Cotton Bureau</a> are <a href="https://cottonbureau.com/products/ohio-4">selling it now</a>! It’s only on sale for the next two weeks though, so get to it.</p>
-<p><img src="{{ site.baseurl }}/assets/2018/10/21937_Tqvt.png.jpeg" alt="" /></p>
-<p><img src="{{ site.baseurl }}/assets/2018/10/21937_SJj8.png.jpeg" alt="" /></p>
-<p><img src="{{ site.baseurl }}/assets/2018/10/21937_FjM6.png.jpeg" alt="" /></p>
+<p><img src="/assets/2018/10/21937_Tqvt.png.jpeg" alt="" /></p>
+<p><img src="/assets/2018/10/21937_SJj8.png.jpeg" alt="" /></p>
+<p><img src="/assets/2018/10/21937_FjM6.png.jpeg" alt="" /></p>
 <p><a href="https://cottonbureau.com/products/ohio-4">Buy the shirt here</a></p>

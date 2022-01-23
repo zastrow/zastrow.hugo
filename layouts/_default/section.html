@@ -1,7 +1,38 @@
 {{ define "main" }}
-{{ partial "header.html" . }}
+  {{ $paginator := .Paginator }}
+  {{ partial "header.html" . }}
+  <header class="obj-width-limiter">
+    <h1>{{ .Title }}</h1>
+  </header>
+  <div class="obj-width-limiter">
+    {{ if $paginator.HasPrev }}
+      <a href="{{ .Paginator.Prev.URL }}">Previous</a>
+    {{ end }}
 
-<h1>{{ .Title }}</h1>
-{{ .Content }}
+    {{ $paginator.PageNumber }} /
 
+    {{ $paginator.TotalPages }}
+
+    {{ if $paginator.HasNext }}
+      <a href="{{ .Paginator.Next.URL }}">Next</a>
+    {{ end }}
+    <hr>
+    {{ range (.Paginator 20).Pages }}
+      <div class="cmp-post{{ range .Params.tags }} cmp-post--{{ lower . }}{{ end }}">
+        {{- if .Title -}}
+          <h3>{{ .Title }}</h3>
+        {{- end -}}
+        {{- if .Date -}}
+          <a href="{{ .RelPermalink }}">
+            <time datetime="{{ .Date }}">
+              {{ .Date.Format "2 January 2006" }}
+            </time>
+          </a>
+        {{- end -}}
+        <div>
+          {{ .Content }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
 {{ end }}

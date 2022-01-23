@@ -1,9 +1,11 @@
+{{- $favicon := resources.Get "./favicon.png" -}}
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {{ with .OutputFormats.Get "rss" -}}
       {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
+  <link rel="icon" type="image/png" href="{{$favicon.RelPermalink}}">
   <link rel="preconnect" href="https://use.typekit.net" />
   <link rel="stylesheet" href="https://use.typekit.net/qhr8mld.css" />
   {{ $postcssopts := dict "use" "autoprefixer" }}

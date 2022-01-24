@@ -1,4 +1,4 @@
-baseURL: https://zastrow.co
+baseURL: //www.zastrow.co
 disablePathToLower: true
 disableLiveReload: true
 languageCode: en-us
@@ -6,6 +6,14 @@ title: Philip Zastrow
 Author:
   name: Philip Zastrow
   email: site@zastrow.co
+
+disableKinds:
+  - taxonomy
+  - term
+
+rssLimit: 50
+timeZone: America/New_York
+
 markup:
   goldmark:
     renderer:

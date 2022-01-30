@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html>
   {{- partial "head.html" . -}}
-  <body>
+  <body class="obj-section">
     <div>
       <a href="#main" class="cmp-skip-link">Skip to content</a>
     </div>
-    {{- block "main" . }}{{- end }}
-    {{ partial "footer.html" . }}
+    <div class="obj-section__content">
+      {{ partial "header.html" . }}
+      <div class="obj-section__main">
+        {{- block "main" . }}{{- end }}
+      </div>
+      {{ partial "footer.html" . }}
+    </div>
   </body>
 </html>

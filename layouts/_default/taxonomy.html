@@ -1,5 +1,9 @@
 {{ define "main" }}
-<h1>TAXONOMY</h1>
-{{ .Content }}
+
+{{ range .Pages }}
+    <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+{{ end }}
 
 {{ end }}

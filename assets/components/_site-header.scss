@@ -1,17 +1,29 @@
 .cmp-site-header {
-  margin: 2rem 0;
+  --logo-size: 6rem;
   display: flex;
   align-items: center;
+  background-color: var(--color-background);
+  padding: calc(var(--logo-size) * 0.5) 0 calc(var(--logo-size) * 2.5);
   
   &--home {
+    --logo-size: 20vw;
+    padding: 0;
+
     @media (min-width: mq(md)) {
       margin: 20vh 0;
     }
+  }
+  
+  &--mask {
+    mask-image: linear-gradient(178deg, black 50%, rgba(black, 0.5) calc(50% + 1px), rgba(black, 0.5) calc(50% + 9px), transparent calc(50% + 10px));
   }
 
   &__logo {
     margin-right: calc(var(--logo-size) * 0.375);
     will-change: auto;
+    display: block;
+    width: var(--logo-size);
+    height: calc((200 / 184) * var(--logo-size));
     
     @include motion(true) {
       transition: filter var(--animation-duration) ease;
@@ -32,9 +44,13 @@
   &__title {
     font-family: var(--extended);
     font-weight: var(--weight-light);
-    font-size: 5vw;
     line-height: 1.2;
     margin: 0;
+    font-size: clamp(1.5rem, 4vw, 4rem);
+  }
+  
+  &--home &__title {
+    font-size: 5vw;
   }
 
   &__description {
@@ -44,5 +60,12 @@
     font-family: var(--extended);
     font-weight: var(--weight-light);
     color: var(--color-midtone);
+  }
+  
+  &__content {
+    display: grid;
+    align-items: center;
+    gap: clamp(1rem, 2vw, 2.5rem);
+    grid-template-columns: var(--logo-size) auto;
   }
 }

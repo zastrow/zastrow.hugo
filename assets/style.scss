@@ -48,7 +48,7 @@
 //    the site. This section should include any Reset or Normalize libraries
 //    and any preferential base styles for elements. There shouldn’t be any
 //    classes or ids used in this section.
-@import "generic/normalize";
+// @import "generic/normalize";
 @import "generic/safe-focus";
 
 // =====================================================================
@@ -70,6 +70,8 @@
 @import "object/general";
 @import "object/gradient";
 @import "object/grid";
+@import "object/grid";
+@import "object/section";
 
 // =====================================================================
 // 6. Components
@@ -88,6 +90,8 @@
 @import "components/footer";
 @import "components/pie-chart";
 @import "components/article-list-item";
+
+@import "components/post-card";
 
 // =====================================================================
 // 7. Vendors

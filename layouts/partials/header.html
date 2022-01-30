@@ -1,11 +1,18 @@
-<div class="obj-width-limiter" style="--logo-size: 6rem;">
-  <div class="cmp-site-header">
-    <a href="/" class="cmp-site-header__logo" rel="home" aria-hidden="true">
-      <div class="cmp-logo">
-        <div class="cmp-logo__top"></div>
-        <div class="cmp-logo__bottom"></div>
-        <div class="cmp-logo__diagonal"></div>
+<div class="cmp-site-header cmp-site-header--mask">
+  <div class="obj-width-limiter">
+    <div class="cmp-site-header__content">
+      <a href="/" class="cmp-site-header__logo" rel="home" aria-hidden="true">
+        <div class="cmp-logo">
+          <div class="cmp-logo__top"></div>
+          <div class="cmp-logo__bottom"></div>
+          <div class="cmp-logo__diagonal"></div>
+        </div>
+      </a>
+      <div>
+        <h1 class="cmp-site-header__title">
+          {{ .Title }}
+        </h1>
       </div>
-    </a>
+    </div>
   </div>
 </div>

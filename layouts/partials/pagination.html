@@ -1,0 +1,12 @@
+{{ $paginator := .Paginator }}
+{{ if $paginator.HasPrev }}
+  <a href="{{ .Paginator.Prev.URL }}">Previous</a>
+{{ end }}
+
+{{ $paginator.PageNumber }} /
+
+{{ $paginator.TotalPages }}
+
+{{ if $paginator.HasNext }}
+  <a href="{{ .Paginator.Next.URL }}">Next</a>
+{{ end }}

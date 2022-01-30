@@ -1,23 +1,23 @@
 {{ define "main" }}
-  {{ partial "header.html" . }}
-
   <main>
-    <div class="obj-width-limiter">
-      {{ range $.Site.Data.external_articles }}
-        <div class="cmp-article-item">
-          <h2 class="cmp-article-item__title">
-            <a href="{{ .link }}">
-              {{ .title }}
-            </a>
-          </h2>
-          <p class="cmp-article-item__meta">
-            <time datetime="{{ .date }}">{{ .date  }}</time>
-            <span>
-              {{ .source }}
-            </span>
-          </p>
-        </div>
-      {{ end }}
+    <div class="obj-width-listing">
+      <div class="cmp-post">
+        {{ range $.Site.Data.external_articles }}
+          <div class="cmp-article-item">
+            <h2 class="cmp-article-item__title">
+              <a href="{{ .link }}">
+                {{ .title }}
+              </a>
+            </h2>
+            <p class="cmp-article-item__meta">
+              <time datetime="{{ .date }}">{{ .date  }}</time>
+              <span>
+                {{ .source }}
+              </span>
+            </p>
+          </div>
+        {{ end }}
+      </div>
     </div>
   </main>  
 {{ end }}

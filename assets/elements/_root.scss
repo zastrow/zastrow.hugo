@@ -1,6 +1,4 @@
 :root {
-  will-change: transform;
-
   // Colors
   @import "root/colors";
   @include color-custom-props;
@@ -18,8 +16,6 @@
   @include spacing-custom-props;
 
   // Other Props
-  --logo-size: 20vw;
-
   --gradient-padding: 10rem;
   --gradient: linear-gradient(170deg,
     var(--color-tertiary) 0%,

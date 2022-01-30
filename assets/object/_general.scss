@@ -3,8 +3,20 @@
   width: clamp(18rem, 95%, 100rem);
 }
 
+.obj-width-listing {
+  margin: 0 auto;
+  width: clamp(18rem, 95%, 80rem);
+}
+
+.obj-width-book,
+.obj-width-twitter {
+  margin: 0 auto;
+  width: clamp(18rem, 95%, 60rem);
+}
+
 .obj-content-width {
-  max-width: 70ch;
+  margin: 0 auto;
+  max-width: 80ch;
 }
 
 .obj-block {

@@ -1,5 +1,28 @@
 {{ define "main" }}
-<h1>TERM</h1>
-{{ .Content }}
-
+  {{ $paginator := .Paginator }}
+  {{ partial "header.html" . }}
+  <header class="obj-width-limiter">
+    <h1>{{ .Title }}</h1>
+  </header>
+  <div class="obj-width-limiter">
+    {{ partial "pagination.html" . }}
+    {{ range (.Paginator 20).Pages }}
+      <div class="cmp-post{{ range .Params.categories }} cmp-post--{{ lower . }}{{ end }}">
+        {{- if .Title -}}
+          <h3>{{ .Title }}</h3>
+        {{- end -}}
+        {{- if .Date -}}
+          <a href="{{ .RelPermalink }}">
+            <time datetime="{{ .Date }}">
+              {{ .Date.Format "2 January 2006" }}
+            </time>
+          </a>
+        {{- end -}}
+        <div>
+          {{ .Content }}
+        </div>
+      </div>
+    {{ end }}
+    {{ partial "pagination.html" . }}
+  </div>
 {{ end }}

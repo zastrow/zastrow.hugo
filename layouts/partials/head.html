@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://use.typekit.net" />
   <link rel="stylesheet" href="https://use.typekit.net/qhr8mld.css" />
   {{ $postcssopts := dict "use" "autoprefixer" }}
-  {{ $style := resources.Get "style.scss" | resources.ToCSS | resources.PostCSS $postcssopts }}
+  {{ $style := resources.Get "style.scss" | resources.ToCSS | resources.PostCSS $postcssopts | fingerprint }}
   <link rel="stylesheet" href="{{ $style.Permalink | relURL }}">
   {{ $title := print .Title " | " .Site.Title }}
   {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}

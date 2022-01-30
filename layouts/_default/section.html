@@ -1,38 +1,41 @@
 {{ define "main" }}
   {{ $paginator := .Paginator }}
-  {{ partial "header.html" . }}
-  <header class="obj-width-limiter">
-    <h1>{{ .Title }}</h1>
-  </header>
-  <div class="obj-width-limiter">
-    {{ if $paginator.HasPrev }}
-      <a href="{{ .Paginator.Prev.URL }}">Previous</a>
-    {{ end }}
-
-    {{ $paginator.PageNumber }} /
-
-    {{ $paginator.TotalPages }}
-
-    {{ if $paginator.HasNext }}
-      <a href="{{ .Paginator.Next.URL }}">Next</a>
-    {{ end }}
-    <hr>
+  <div>
+    {{ partial "pagination.html" . }}
+    {{ .Scratch.Set "index" 0 }}
     {{ range (.Paginator 20).Pages }}
-      <div class="cmp-post{{ range .Params.tags }} cmp-post--{{ lower . }}{{ end }}">
-        {{- if .Title -}}
-          <h3>{{ .Title }}</h3>
-        {{- end -}}
-        {{- if .Date -}}
-          <a href="{{ .RelPermalink }}">
-            <time datetime="{{ .Date }}">
-              {{ .Date.Format "2 January 2006" }}
-            </time>
-          </a>
-        {{- end -}}
-        <div>
+      {{- $.Scratch.Set "index" (add ($.Scratch.Get "index") 1) -}}
+      {{- .Scratch.Set "index" ($.Scratch.Get "index") -}}
+      {{- $i := $.Scratch.Get "index" -}}
+      {{- $gt := gt $i ( mul 2 ( math.Floor ( div $i 2.0 ) ) ) -}}
+      
+      {{ .Scratch.Set "tag" "unset"}}
+      
+      {{ range .Params.tags }}{{ $.Scratch.Set "tag" (lower .) }}{{end}}
+      
+      {{ $tag := $.Scratch.Get "tag" }}
+      
+      {{- if $gt -}}{{- "" -}}{{- else -}}{{- "" -}}{{- end -}}
+      {{ if (ne $tag "")}}{{- "" -}}{{ end }}
+
+      <div class="{{ if (ne $tag "")}}obj-width-{{$tag}}{{ end }}">
+        <section class="cmp-post">
+          {{- if .Date -}}
+          <div class="cmp-post__meta">
+            <a href="{{ .RelPermalink }}">
+              <time datetime="{{ .Date }}">
+                {{ .Date.Format "2 January 2006" }}
+              </time>
+            </a>
+          </div>
+          {{- end -}}
           {{ .Content }}
-        </div>
+        </section>
       </div>
+
+      {{- if $gt -}}{{- "" -}}{{- else -}}{{- "" -}}{{- end -}}
+
     {{ end }}
+    {{ partial "pagination.html" . }}
   </div>
 {{ end }}

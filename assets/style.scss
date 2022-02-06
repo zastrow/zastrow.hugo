@@ -90,7 +90,7 @@
 @import "components/footer";
 @import "components/pie-chart";
 @import "components/article-list-item";
-
+@import "components/pagination";
 @import "components/post-card";
 
 // =====================================================================
@@ -105,3 +105,4 @@
 //    Utilities and helper classes with ability to override anything
 //    which goes before in the triangle, eg. hide helper class
 @import "utilities/visually-hidden";
+@import "utilities/spacing";

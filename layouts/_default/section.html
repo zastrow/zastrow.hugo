@@ -1,7 +1,9 @@
 {{ define "main" }}
   {{ $paginator := .Paginator }}
   <div>
-    {{ partial "pagination.html" . }}
+    <div class="util-margin-bottom-1xl">
+      {{ partial "pagination.html" . }}
+    </div>
     {{ .Scratch.Set "index" 0 }}
     {{ range (.Paginator 20).Pages }}
       {{- $.Scratch.Set "index" (add ($.Scratch.Get "index") 1) -}}
@@ -18,7 +20,7 @@
       {{- if $gt -}}{{- "" -}}{{- else -}}{{- "" -}}{{- end -}}
       {{ if (ne $tag "")}}{{- "" -}}{{ end }}
 
-      <div class="{{ if (ne $tag "")}}obj-width-{{$tag}}{{ end }}">
+      <div class="obj-spacing-post{{ if (ne $tag "")}} obj-width-{{$tag}}{{ end }}">
         <section class="cmp-post">
           {{- if .Date -}}
           <div class="cmp-post__meta">
@@ -36,6 +38,8 @@
       {{- if $gt -}}{{- "" -}}{{- else -}}{{- "" -}}{{- end -}}
 
     {{ end }}
-    {{ partial "pagination.html" . }}
+    <div class="util-margin-top-1xl">
+      {{ partial "pagination.html" . }}
+    </div>
   </div>
 {{ end }}

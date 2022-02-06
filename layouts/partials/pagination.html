@@ -1,12 +1,20 @@
-{{ $paginator := .Paginator }}
-{{ if $paginator.HasPrev }}
-  <a href="{{ .Paginator.Prev.URL }}">Previous</a>
-{{ end }}
-
-{{ $paginator.PageNumber }} /
-
-{{ $paginator.TotalPages }}
-
-{{ if $paginator.HasNext }}
-  <a href="{{ .Paginator.Next.URL }}">Next</a>
-{{ end }}
+<div class="obj-content-width">
+  <div class="cmp-pagination">
+    {{ $paginator := .Paginator }}
+    {{ if $paginator.HasPrev }}
+      <a class="cmp-pagination__link" href="{{ .Paginator.Prev.URL }}">Previous</a>
+    {{ else }}
+      <span></span>
+    {{ end }}
+    
+    <div class="cmp-pagination__status">
+      {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }}
+    </div>
+    
+    {{ if $paginator.HasNext }}
+      <a class="cmp-pagination__link" href="{{ .Paginator.Next.URL }}">Next</a>
+    {{ else }}
+      <span></span>
+    {{ end }}
+  </div>
+</div>

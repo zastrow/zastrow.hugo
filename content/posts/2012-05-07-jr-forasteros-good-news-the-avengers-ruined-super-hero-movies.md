@@ -14,11 +14,11 @@ password: ""
 published: true
 status: publish
 tags: []
-title: 'JR Forasteros: &lsquo;Good News: The Avengers Ruined Super Hero Movies&rsquo;'
+title: 'JR Forasteros: “Good News: The Avengers Ruined Super Hero Movies”'
 type: post
 url: /2012/05/jr-forasteros-good-news-the-avengers-ruined-super-hero-movies/
 ---
-<p>I thouroughly enjoy reading JR Forasteros’s blog. His latest post detailing how <em>The Avengers</em> has changed the model of Super Hero movies is really great.</p>
+<p>I thoroughly enjoy reading <a href="http://www.norvillerogers.com/good-news-the-avengers-ruined-super-hero-movies/">JR Forasteros’s blog</a>. His latest post detailing how <em>The Avengers</em> has changed the model of Super Hero movies is really great.</p>
 <blockquote>
 <p>Super-hero movies must become more character- and story-driven if they want to thrive in a post-Avengers world.</p>
 </blockquote>

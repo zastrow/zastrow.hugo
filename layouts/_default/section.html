@@ -11,7 +11,7 @@
       {{- $i := $.Scratch.Get "index" -}}
       {{- $gt := gt $i ( mul 2 ( math.Floor ( div $i 2.0 ) ) ) -}}
       
-      {{ .Scratch.Set "tag" "unset"}}
+      {{ .Scratch.Set "tag" "content"}}
       
       {{ range .Params.tags }}{{ $.Scratch.Set "tag" (lower .) }}{{end}}
       
@@ -22,6 +22,13 @@
 
       <div class="obj-spacing-post{{ if (ne $tag "")}} obj-width-{{$tag}}{{ end }}">
         <section class="cmp-post">
+          {{- if .Title -}}
+          <h2>
+            <a href="{{ .RelPermalink }}">
+              {{ .Title }}
+            </a>
+          </h2>
+          {{- end -}}
           {{- if .Date -}}
           <div class="cmp-post__meta">
             <a href="{{ .RelPermalink }}">

@@ -1,5 +1,20 @@
 {{ define "main" }}
-  <div class="obj-content-width">
-    {{ .Content }}
+  {{ .Scratch.Set "tag" "content"}}
+  {{ range .Params.tags }}{{ $.Scratch.Set "tag" (lower .) }}{{end}}
+  {{ $tag := $.Scratch.Get "tag" }}
+
+  <div class="{{ if (ne $tag "")}} obj-width-{{$tag}}{{ end }}">
+    <section class="cmp-post">
+      {{- if .Date -}}
+      <div class="cmp-post__meta">
+        <a href="{{ .RelPermalink }}">
+          <time datetime="{{ .Date }}">
+            {{ .Date.Format "2 January 2006" }}
+          </time>
+        </a>
+      </div>
+      {{- end -}}
+      {{ .Content }}
+    </section>
   </div>
 {{ end }}

@@ -1,6 +1,6 @@
 -
-  name: "2021 Design Systems Survey"
-  desc: "The fourth edition of the survey featured a fantastic design by [Andrew Spencer](http://andrew-spencer.com/). I was thrilled to help develop this site with highlights being the CSS-based pie chart, an extensive use of CSS custom properties, and versatile grid system built for the design."
+  name: "2022 Design Systems Survey"
+  desc: "The fifth edition of the survey featured a fantastic design by [Jeremy Loyd](https://www.jloyd.net/). I was thrilled to help develop this site with highlights being the CSS-based charts, an extensive use of CSS custom properties, and versatile grid system built for the design."
   stats:
     - type: "Project Lead"
       quantity: 20
@@ -8,7 +8,7 @@
       quantity: 80
   links:
     - text: "View Site"
-      link: "https://designsystemssurvey.seesparkbox.com/2021"
+      link: "https://designsystemssurvey.seesparkbox.com/2022"
 
 -
   name: "Ozinga Brothers"

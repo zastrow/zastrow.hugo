@@ -1,4 +1,0 @@
-@function weight($key) {
-    @return map-get($font-weight, stringify($key));
-  }
-  

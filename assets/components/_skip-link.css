@@ -1,0 +1,20 @@
+.cmp-skip-link {
+  position: fixed;
+  right: 100%;
+  bottom: 100%;
+  clip-path: inset(50%);
+}
+
+.cmp-skip-link:focus,
+.safe-focus .cmp-skip-link:focus {
+  clip-path: unset;
+  height: auto;
+  box-sizing: border-box;
+  width: 100%;
+  inset: 0 auto auto 0;
+  padding: 2rem;
+  text-align: center;
+  color: var(--color-light);
+  background-color: var(--color-dark);
+  z-index: var(--z-10);
+}

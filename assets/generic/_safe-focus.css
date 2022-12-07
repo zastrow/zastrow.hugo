@@ -1,0 +1,19 @@
+*:focus {
+  outline: none;
+}
+
+html.safe-focus *:focus {
+  box-shadow:
+    0 0 0 2px var(--color-background),
+    0 0 0 4px var(--color-text);
+}
+
+button:-moz-focusring {
+  outline: none;
+}
+
+html.safe-focus button:-moz-focusring {
+  box-shadow:
+    0 0 0 2px var(--color-background),
+    0 0 0 4px var(--color-text);
+}

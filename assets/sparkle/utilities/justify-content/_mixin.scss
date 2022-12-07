@@ -1,9 +1,0 @@
-@mixin sparkle-justify-content {
-  @each $value in $util-justify-values {
-    .#{settings(prefix)}-justify-content-#{$value} {
-      @include loop-mq {
-        justify-content: $value;
-      }
-    }
-  }
-}

@@ -1,7 +1,0 @@
-*:focus {
-  @include focus-styles;
-}
-
-button:-moz-focusring {
-  @include focus-styles;
-}

@@ -1,6 +1,0 @@
-@import "mixin";
-
-@if settings(system-font-size) {
-  // Load the mixin
-  @include sparkle-font-size;
-}

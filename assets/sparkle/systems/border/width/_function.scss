@@ -1,4 +1,0 @@
-@function border-width($key) {
-    @return map-get($border-width, stringify($key));
-  }
-  

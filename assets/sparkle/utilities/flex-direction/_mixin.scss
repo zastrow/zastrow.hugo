@@ -1,9 +1,0 @@
-@mixin sparkle-flex-direction {
-  @each $value in $util-flex-direction-values {
-    .#{settings(prefix)}-flex-#{$value} {
-      @include loop-mq {
-        flex-direction: $value;
-      }
-    }
-  }
-}

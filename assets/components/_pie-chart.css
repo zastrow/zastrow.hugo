@@ -1,4 +1,11 @@
 .cmp-chart-wrapper {
+  max-width: 80%;
+  margin:0 auto var(--space-lg);
+
+  @container (min-width: $cont-sm) {
+    max-width: 100%;
+    margin: 0;
+  }
 }
 
 .cmp-pie-chart {

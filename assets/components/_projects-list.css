@@ -9,6 +9,7 @@
   }
 
   &__item {
+    container-type: inline-size;
     display: flex;
     justify-content: center;
     align-items: stretch;
@@ -58,10 +59,18 @@
 
   &__middle {
     flex-grow: 2;
-    display: grid;
-    grid-template-columns: 2fr 3fr;
     gap: var(--space-lg);
     align-items: stretch;
+
+    @container (min-width: $cont-sm) {
+      display: grid;
+      grid-template-columns: 2fr 3fr;
+    }
+
+    @supports not (container-type: inline-size) {
+      display: grid;
+      grid-template-columns: 2fr 3fr;
+    }
   }
 
   &__details {

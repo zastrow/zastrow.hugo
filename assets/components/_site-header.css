@@ -7,10 +7,10 @@
 
   &--home {
     --logo-size: 20vw;
-    padding: 0;
+    padding: max(4vh, 1.5rem) 0;
 
     @media (min-width: $md) {
-      margin: 20vh 0;
+      margin: max(10vh, 4rem) 0 max(20vh, 8rem);
     }
   }
 
@@ -52,16 +52,16 @@
     font-weight: var(--weight-light);
     line-height: 1.2;
     margin: 0;
-    font-size: clamp(1.5rem, 4vw, 4rem);
+    font-size: clamp(2rem, 4vw, 4rem);
   }
 
   &--home &__title {
-    font-size: 5vw;
+    font-size: clamp(1rem, 5vw, 5rem);
   }
 
   &__description {
     margin: 0;
-    font-size: 2.5vw;
+    font-size: clamp(0.75rem, 3vw, 3rem);
     line-height: 1.2;
     font-family: var(--extended);
     font-weight: var(--weight-light);
@@ -71,7 +71,7 @@
   &__content {
     display: grid;
     align-items: center;
-    gap: clamp(1rem, 2vw, 2.5rem);
+    gap: clamp(1.5rem, 2vw, 2.5rem);
     grid-template-columns: var(--logo-size) auto;
   }
 }

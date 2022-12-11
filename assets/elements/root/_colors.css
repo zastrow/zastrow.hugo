@@ -16,7 +16,7 @@
 --color-black: hsl(0deg 0% 0%);
 
 --color-link: var(--color-alt);
---link-underline: hsla(var(--color-alt-hsl), 0.4);
+--link-underline: hsl(var(--color-alt-hsl) / 40%);
 
 /* Grays */
 --color-gray-1: hsl(208deg 5% 90%);

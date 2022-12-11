@@ -80,29 +80,29 @@
     &--planning::before {
       background: linear-gradient(
         to top left,
-        hsl(320, 80%, 35%),
-        hsl(320, 90%, 65%)
+        hsl(320deg 80% 35%),
+        hsl(320deg 90% 65%)
       )
     }
     &--project-lead::before {
       background: linear-gradient(
         to top left,
-        hsl(20, 80%, 55%),
-        hsl(45, 80%, 55%)
+        hsl(20deg 80% 55%),
+        hsl(45deg 80% 55%)
       );
     }
     &--design::before {
       background: linear-gradient(
         to top left,
-        hsl(300, 80%, 24%),
-        hsl(300, 80%, 35%)
+        hsl(300deg 80% 24%),
+        hsl(300deg 80% 35%)
       );
     }
     &--development::before {
       background: linear-gradient(
         to top left,
-        hsl(208, 80%, 40%),
-        hsl(208, 100%, 60%)
+        hsl(208deg 80% 40%),
+        hsl(208deg 100% 60%)
       );
     }
   }
@@ -116,9 +116,9 @@
 
     &--planning {
       background: radial-gradient(
-        hsl(320, 80%, 35%) var(--radius),
-        hsl(320, 90%, 65%) 65%,
-        hsl(320, 80%, 45%) 80%
+        hsl(320deg 80% 35%) var(--radius),
+        hsl(320deg 90% 65%) 65%,
+        hsl(320deg 80% 45%) 80%
       );
       mask-image: conic-gradient(
         #000f 0deg,
@@ -129,9 +129,9 @@
 
     &--project-lead {
       background: radial-gradient(
-        hsl(20, 80%, 55%) var(--radius),
-        hsl(45, 80%, 55%) 65%,
-        hsl(35, 80%, 55%) 80%
+        hsl(20deg 80% 55%) var(--radius),
+        hsl(45deg 80% 55%) 65%,
+        hsl(35deg 80% 55%) 80%
       );
       mask-image: conic-gradient(
         #0000 0deg,
@@ -144,9 +144,9 @@
 
     &--design {
       background: radial-gradient(
-        hsl(300, 80%, 24%) var(--radius),
-        hsl(300, 80%, 35%) 65%,
-        hsl(300, 80%, 30%) 80%
+        hsl(300deg 80% 24%) var(--radius),
+        hsl(300deg 80% 35%) 65%,
+        hsl(300deg 80% 30%) 80%
       );
       mask-image: conic-gradient(
         #0000 0deg,
@@ -159,9 +159,9 @@
 
     &--development {
       background: radial-gradient(
-        hsl(208, 80%, 40%) var(--radius),
-        hsl(208, 100%, 60%) 65%,
-        hsl(208, 90%, 50%) 80%
+        hsl(208deg 80% 40%) var(--radius),
+        hsl(208deg 100% 60%) 65%,
+        hsl(208deg 90% 50%) 80%
       );
       mask-image: conic-gradient(
         #0000 0deg,

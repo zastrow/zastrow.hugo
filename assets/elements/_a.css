@@ -4,7 +4,7 @@ a {
 }
 
 a[href]:not([class]) {
-  
+
   &,
   &:link,
   &:active {
@@ -12,9 +12,9 @@ a[href]:not([class]) {
     text-decoration: underline;
     text-decoration-color: var(--link-underline);
     transition: color var(--animation-duration) var(--animation-timing), text-decoration-color var(--animation-duration) var(--animation-timing);
-    
+
     @media (prefers-color-scheme: dark) {
-      text-decoration-color: hsla(208, 80%, 50%, 0.4);
+      text-decoration-color: hsl(208deg 80% 50% / 40%);
     }
   }
 

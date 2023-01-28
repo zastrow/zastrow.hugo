@@ -35,7 +35,8 @@
 /* Dark Mode */
 @media (prefers-color-scheme: dark) {
   --color-primary-hsl: 320deg 80% 55%;
-  --color-alt-hsl: 208deg 80% 50%;
+  --color-alt-hsl: 208deg 80% 70%;
+  --color-alt: hsl(var(--color-alt-hsl));
   --color-background: var(--color-dark);
   --color-midtone: var(--color-2);
   --color-text: var(--color-light);

@@ -5,7 +5,9 @@
   clip-path: inset(50%);
 }
 
-.cmp-skip-link:focus {
+.cmp-skip-link:focus,
+.cmp-skip-link:focus-visible {
+  outline: none;
   clip-path: unset;
   height: auto;
   box-sizing: border-box;
@@ -13,6 +15,9 @@
   inset: 0 auto auto 0;
   padding: 2rem;
   text-align: center;
+  text-decoration: underline 0.125em solid;
+  text-underline-offset: 0.5em;
+  font-size: var(--font-md);
   color: var(--color-light);
   background-color: var(--color-dark);
   z-index: var(--z-10);

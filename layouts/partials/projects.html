@@ -4,6 +4,7 @@
 </header>
 <div class="cmp-projects-list">
 {{ range $.Site.Data.projects }}
+  {{ $name := .name }}
   <div class="cmp-projects-list__item">
     <div class="cmp-projects-list__content">
       <div class="cmp-projects-list__middle">
@@ -18,17 +19,19 @@
         </div>
         <div class="cmp-projects-list__details">
           <h3 class="cmp-projects-list__title">
-            {{ .name }}
+            {{ $name }}
           </h3>
           <ul class="cmp-pie-chart__keys">
           {{ range .stats }}
-               <li class="cmp-pie-chart__key cmp-pie-chart__key--{{anchorize .type }}">{{ .type }}</li>
+               <li class="cmp-pie-chart__key cmp-pie-chart__key--{{anchorize .type }}">
+                 {{ .type }}
+               </li>
           {{ end }}
           </ul>
           <ul class="cmp-projects-list__links">
           {{ range .links }}
               <li class="cmp-projects-list__link">
-                <a href="{{ .link }}" class="cmp-button cmp-button--small">{{ .text }}</a>
+                <a href="{{ .link }}" class="cmp-button cmp-button--small" aria-label="{{ .text }} for {{ $name }}">{{ .text }}</a>
               </li>
           {{ end }}
           </ul>

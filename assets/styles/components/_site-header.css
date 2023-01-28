@@ -41,16 +41,6 @@
     @media (prefers-reduced-motion) {
       transition: filter var(--animation-duration) ease;
     }
-
-    &:focus,
-    &:hover {
-      box-shadow: none;
-      filter: brightness(40%) grayscale(100%);
-
-      @media (prefers-color-scheme: dark) {
-        filter: brightness(70%) grayscale(100%);
-      }
-    }
   }
 
   &__title {

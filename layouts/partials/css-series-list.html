@@ -10,9 +10,11 @@
   <ul class="cmp-article-card cmp-article-card--two-col">
     {{ range first 10 $.Site.Data.css_series }}
         <li class="cmp-article-card__item">
-          <a href="{{ .link }}" class="cmp-article-card__link">
-            {{ $date := time (.date)}}
-            <time datetime="{{time.Format "2006-01-02" $date}}" class="cmp-article-card__term">{{ time.Format "2 January 2006" $date }}</time>
+          <a href="{{ .link }}" class="cmp-article-card__link" aria-label="Read {{ .title }} on Digital Ocean">
+            <span class="cmp-article-card__meta" >
+              {{ $date := time (.date)}}
+              <time datetime="{{time.Format "2006-01-02" $date}}" class="cmp-article-card__term">{{ time.Format "2 January 2006" $date }}</time>
+            </span>
             <span class="cmp-article-card__title">{{ .title }}</span>
           </a>
         </li>

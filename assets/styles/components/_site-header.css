@@ -70,4 +70,37 @@
     gap: clamp(1.5rem, 2vw, 2.5rem);
     grid-template-columns: var(--logo-size) auto;
   }
+
+  &__back-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(0deg 0% 0% / 10%);
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+
+    @media (prefers-color-scheme: dark) {
+      background-color: hsl(0deg 0% 100% / 10%);
+    }
+  }
+
+  &__back-svg {
+    max-width: 100%;
+  }
+
+  &__back-arrow {
+    vector-effect: non-scaling-stroke;
+    stroke-width: 2px;
+    stroke: currentColor;
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    transition: transform var(--animation-duration) var(--animation-timing);
+  }
+
+  &__back-button:has(+ &__logo:hover) &__back-arrow,
+  &__back-button:hover &__back-arrow {
+    transform: translateX(-0.25em);
+  }
+
 }

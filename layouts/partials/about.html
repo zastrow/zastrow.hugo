@@ -1,8 +1,10 @@
 {{- $image := resources.Get "images/face.jpg" -}}
 {{- $mask := resources.Get "images/face.svg" -}}
 <div class="cmp-about">
-  <div class="cmp-about__image">
-    <img src="{{$image.RelPermalink}}" alt="" data-mask="{{$mask.RelPermalink}}"  />
+  <div class="cmp-about__image-container">
+    <div class="cmp-about__image">
+      <img src="{{$image.RelPermalink}}" alt="" data-mask="{{$mask.RelPermalink}}"  />
+    </div>
   </div>
   <div class="cmp-about__content">
     <h2 class="util-visually-hidden">About Me</h2>

@@ -3,3 +3,9 @@
   to = "/feed.xml"
   status = 301
   force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/writing"
+  to = "/articles"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect

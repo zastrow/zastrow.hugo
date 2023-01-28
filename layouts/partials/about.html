@@ -1,13 +1,14 @@
-{{- $image := resources.Get "images/z.png" -}}
+{{- $image := resources.Get "images/face.jpg" -}}
+{{- $mask := resources.Get "images/face.svg" -}}
 <div class="cmp-about">
   <div class="cmp-about__image">
-    <img src="{{$image.RelPermalink}}" alt="" />
+    <img src="{{$image.RelPermalink}}" alt="" data-mask="{{$mask.RelPermalink}}"  />
   </div>
   <div class="cmp-about__content">
     <h2 class="util-visually-hidden">About Me</h2>
-    <p>Hi! I’m Philip. I’m an experienced frontend designer and developer at <a href="https://seesparkbox.com/">Sparkbox</a> with a passion for bridging design and development with a focus on HTML, CSS, and Accessibility. I’m even a certified Web Accessibility Specialist!</p>
-    <p>I’ve helped teach and train many designers and developers through the <a href="http://apprentices.seesparkbox.com/">Sparkbox apprenticeship programs</a>, the <a href="http://buildright.io/modern-css">Build Right workshop series</a>, and at both local and industry events.</p>
-    <p>My writing on various web topics can be found on the <a href="http://seesparkbox.com/foundry/author/philip_zastrow">Sparkbox Foundry</a> or on <a href="/writing">my website</a>. I also have a <a href="https://www.digitalocean.com/community/tutorial_series/how-to-style-html-with-css">tutorial series on CSS</a> on the <a href="https://www.digitalocean.com/community">DigitalOcean Community</a> site.</p>
-    <p>I’m always looking for a <a href="https://www.goodreads.com/user/show/5992363-philip-zastrow">good book</a> to&nbsp;read. Lately, I hang out around the <a rel="me" href="https://mastodon.social/@zastrow">Fediverse</a>.</p>
+    <p>Hi! I’m Philip. I’m an experienced frontend designer and developer at <a href="https://seesparkbox.com/">Sparkbox</a> with a passion for bridging design and development with a focus on HTML, CSS, and Accessibility. I’m even a certified <a href="https://www.accessibilityassociation.org/s/wascertificants#Certificants4">Web Accessibility&nbsp;Specialist</a>!</p>
+    <p>I help teach and train designers and developers through the <a href="http://apprentices.seesparkbox.com/">Sparkbox apprenticeship programs</a> and as an adjunct instructor at <a href="https://themodern.edu">The Modern College of&nbsp;Design</a></p>
+    <p>My writing on various web topics can be found on the <a href="http://seesparkbox.com/foundry/author/philip_zastrow">Sparkbox Foundry</a> or on <a href="/articles">my website</a>. I also have a <a href="https://www.digitalocean.com/community/tutorial_series/how-to-style-html-with-css">tutorial series about CSS</a> on the <a href="https://www.digitalocean.com/community">DigitalOcean Community</a>&nbsp;site.</p>
+    <p>I’m always looking for a <a href="https://www.goodreads.com/user/show/5992363-philip-zastrow">good book</a> to&nbsp;read. Lately, you can find me hanging out around the&nbsp;<a rel="me" href="https://mastodon.social/@zastrow">Fediverse</a>.</p>
   </div>
 </div>

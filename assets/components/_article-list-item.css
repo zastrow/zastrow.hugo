@@ -2,19 +2,64 @@
   display: flex;
   flex-direction: column-reverse;
   gap: 1rem;
-  
-  & + & {
-    margin-top: 4rem;
-  }
-  
+  margin: 4rem 0;
+
   &__title,
   &__meta {
     margin: 0;
   }
-  
+
   &__title {
     font-family: var(--extended);
-    font-size: var(--font-xl);
+    font-size: var(--font-lg);
+    font-weight: inherit;
+  }
+
+  &__link {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.125em;
+    text-decoration-color: var(--color-primary);
+    font-weight: var(--weight-regular);
+  }
+
+  &__link:visited {
     font-weight: var(--weight-light);
+  }
+
+  &__meta {
+    font-size: var(--font-xs);
+    font-weight: var(--weight-medium);
+    display: flex;
+    border-radius: 0.5rem;
+    align-self: start;
+    box-shadow:
+      0 0 0 0 hsl(320deg 80% 45% / 30%) inset,
+      0 0.5rem 1rem hsl(208deg 5% 0% / 10%);
+  }
+
+  &__date {
+    text-shadow: 0 -1px hsl(0deg 0% 0% / 30%);
+    background: linear-gradient(180deg, hsl(0deg 0% 100% / 50%), hsl(0deg 0% 0% / 50%)), var(--color-gray-4);
+    background-blend-mode: overlay, normal;
+    color: var(--color-background);
+    padding: 0.125rem 0.5rem;
+    border-radius: 0.5rem 0 0 0.5rem;
+
+    @media (prefers-color-scheme: dark) {
+      text-shadow: 0 1px hsl(0deg 0% 100%);
+      background: linear-gradient(180deg, hsl(0deg 0% 100% / 50%), hsl(0deg 0% 0% / 50%)), var(--color-text);
+    }
+  }
+
+  &__source {
+    color: var(--color-light);
+    text-shadow: 0 -1px hsl(0deg 0% 0% / 30%);
+    background:
+      linear-gradient(180deg, hsl(0deg 0% 100% / 50%), hsl(0deg 0% 0% / 50%)),
+      var(--gradient) fixed;
+    background-blend-mode: overlay, normal;
+    padding: 0.125rem 0.5rem;
+    border-radius: 0 0.5rem 0.5rem 0;
   }
 }

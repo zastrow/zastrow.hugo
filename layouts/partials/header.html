@@ -1,18 +1,18 @@
-<div class="cmp-site-header cmp-site-header--mask">
-  <div class="obj-width-limiter">
+<div class="cmp-site-header">
+  <div class="obj-width-listing">
     <div class="cmp-site-header__content">
-      <a href="/" class="cmp-site-header__logo" rel="home" aria-hidden="true">
+      <a href="/" rel="home" class="cmp-back-button">
+        <svg viewBox="0 0 80 80" class="cmp-back-button__svg">
+          <path d="M1,40 80,40M20,20 1,40 20,60" class="cmp-back-button__arrow" />
+        </svg>
+      </a>
+      <a href="/" class="cmp-site-header__logo" aria-hidden="true">
         <div class="cmp-logo">
           <div class="cmp-logo__top"></div>
           <div class="cmp-logo__bottom"></div>
           <div class="cmp-logo__diagonal"></div>
         </div>
       </a>
-      <div>
-        <h1 class="cmp-site-header__title">
-          {{ .Title }}
-        </h1>
-      </div>
     </div>
   </div>
 </div>

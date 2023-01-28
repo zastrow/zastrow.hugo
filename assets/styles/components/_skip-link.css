@@ -5,8 +5,7 @@
   clip-path: inset(50%);
 }
 
-.cmp-skip-link:focus,
-.safe-focus .cmp-skip-link:focus {
+.cmp-skip-link:focus {
   clip-path: unset;
   height: auto;
   box-sizing: border-box;

@@ -2,9 +2,12 @@
 <html>
   {{- partial "head.html" . -}}
   <body class="home">
-    <div>
-      <a href="#main" class="cmp-skip-link">Skip to content</a>
-    </div>
+    <nav>
+      <a href="#writing" class="cmp-skip-link">Jump to Writing Section</a>
+      <a href="#projects" class="cmp-skip-link">Jump to Projects Section</a>
+      <a href="#videos" class="cmp-skip-link">Jump to Videos and Presentations Section</a>
+      <a href="#about" class="cmp-skip-link">Jump to About Philip Section</a>
+    </nav>
     {{- block "main" . }}{{- end }}
     {{ partial "footer.html" . }}
   </body>

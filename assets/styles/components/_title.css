@@ -1,7 +1,8 @@
 .cmp-title {
   font-family: var(--extended);
-  font-weight: var(--weight-light);
+  font-weight: var(--weight-regular);
   font-size: var(--font-xl);
+  line-height: 1.1;
   margin: 0 0 var(--space-lg);
   color: var(--color-text);
 }

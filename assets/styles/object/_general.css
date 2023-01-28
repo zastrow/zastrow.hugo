@@ -1,18 +1,22 @@
+.obj-watcher {
+  container-type: inline-size;
+}
+
 .obj-width-limiter {
   margin: 0 auto;
-  width: clamp(18rem, 95%, 100rem);
+  width: clamp(18rem, calc(100% - 2rem), 100rem);
 }
 
 .obj-width-listing {
   margin: 0 auto;
-  width: clamp(18rem, 95%, 80rem);
+  width: clamp(18rem, calc(100% - 2rem), 80rem);
 }
 
 .obj-width-photo,
 .obj-width-book,
 .obj-width-twitter {
   margin: 0 auto;
-  width: clamp(18rem, 95%, 60rem);
+  width: clamp(18rem, calc(100% - 2rem), 60rem);
 }
 
 .obj-spacing-post {
@@ -24,7 +28,7 @@
 .obj-width-content,
 .obj-content-width {
   margin: 0 auto;
-  width: clamp(18rem, 95%, 80ch);
+  width: clamp(18rem, calc(100% - 2rem), 80ch);
 }
 
 .obj-block {

@@ -3,14 +3,17 @@
   {{ range first 6 $.Site.Data.external_articles }}
   <li class="cmp-article-card__item">
     <a href="{{ .link }}" class="cmp-article-card__link">
-      <time class="cmp-article-card__term" datetime="{{ .date }}">
-        {{ .date }}
-      </time>
+      {{ $date := time (.date)}}
+      <span class="cmp-article-card__meta" >
+        <time datetime="{{time.Format "2006-01-02" $date}}" class="cmp-article-card__term">
+          {{ time.Format "2 January 2006" $date }}
+        </time>
+        <span class="cmp-article-card__source" >
+          {{ .source }}
+        </span>
+      </span>
       <span class="cmp-article-card__title">
         {{ .title }}
-      </span>
-      <span class="cmp-article-card__term" >
-        {{ .source }}
       </span>
     </a>
   </li>

@@ -1,13 +1,20 @@
 .cmp-site-header {
-  --logo-size: 6rem;
+  --logo-size: clamp(4rem, 10vw, 6rem);
   display: flex;
   align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1em;
   background-color: var(--color-background);
   padding: calc(var(--logo-size) * 0.75) 0 calc(var(--logo-size) * 1.125);
 
   &--home {
-    --logo-size: 20vw;
+    --logo-size: clamp(4rem, 20vw, 16rem);
     padding: max(4vh, 1.5rem) 0;
+
+    @media (min-width: 28rem) {
+      flex-direction: row;
+    }
 
     @media (min-width: $md) {
       margin: max(10vh, 4rem) 0 max(20vh, 8rem);
@@ -28,14 +35,13 @@
     margin-right: calc(var(--logo-size) * 0.375);
     will-change: auto;
     display: block;
+    aspect-ratio: 25 / 23;
     width: var(--logo-size);
-    height: calc((200 / 184) * var(--logo-size));
 
     @media (prefers-reduced-motion) {
       transition: filter var(--animation-duration) ease;
     }
 
-    .safe-focus &:focus,
     &:focus,
     &:hover {
       box-shadow: none;
@@ -49,10 +55,10 @@
 
   &__title {
     font-family: var(--extended);
-    font-weight: var(--weight-light);
+    font-weight: var(--weight-regular);
     line-height: 1.2;
     margin: 0;
-    font-size: clamp(2rem, 4vw, 4rem);
+    font-size: clamp(2rem, 4vw, 3.375rem);
   }
 
   &--home &__title {
@@ -61,10 +67,10 @@
 
   &__description {
     margin: 0;
-    font-size: clamp(0.75rem, 3vw, 3rem);
+    font-size: clamp(0.75rem, 3vw, 31rem);
     line-height: 1.2;
     font-family: var(--extended);
-    font-weight: var(--weight-light);
+    font-weight: var(--weight-regular);
     color: var(--color-midtone);
   }
 

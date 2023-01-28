@@ -22,14 +22,14 @@
   }
 
   &__image-container {
-    will-change: transform;
     animation: wiggly-z 6s ease-in-out alternate infinite;
+    will-change: transform;
+    aspect-ratio: 480 / 704;
+    max-width: 20rem;
     filter: drop-shadow(0 6px 8px hsl(0deg 0% 0% / 80%)) drop-shadow(0 1rem 4rem hsl(0deg 0% 0% / 60%));
   }
 
   &__image {
-    aspect-ratio: 480 / 704;
-    max-width: 20rem;
     mask-image: url('/images/face.svg');
     mask-position: 1px 1px;
     mask-repeat: no-repeat;

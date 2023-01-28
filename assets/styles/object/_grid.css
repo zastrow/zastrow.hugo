@@ -2,20 +2,25 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 1rem;
-  
+  container-type: normal;
+
   @media (min-width: $md) {
     grid-template-columns: repeat(8, 1fr);
   }
-  
+
   @media (min-width: $lg) {
     grid-template-columns: repeat(12, 1fr);
     gap: 4rem;
   }
-  
+
   @media (min-width: $xl) {
     gap: 6rem
   }
-  
+
+  &--writing {
+    row-gap: 4rem;
+  }
+
   &__col {
     grid-column: auto / span 4;
 
@@ -27,7 +32,7 @@
       grid-column: auto / span 12;
     }
   }
-  
+
   &__col--half {
     grid-column: auto / span 4;
 

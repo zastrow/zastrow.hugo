@@ -1,7 +1,7 @@
 .cmp-video-list {
   list-style: none;
   margin: 0;
-  padding: 0;;
+  padding: 0;
   display: grid;
   gap: 1rem;
 
@@ -40,7 +40,6 @@
       background-color: hsl(0deg 0% 0% / 40%);
     }
 
-    .safe-focus &:focus,
     &:focus,
     &:hover {
       box-shadow:

@@ -11,6 +11,7 @@
   &--home {
     --logo-size: clamp(4rem, 20vw, 16rem);
     padding: max(4vh, 1.5rem) 0;
+    gap: calc(var(--logo-size) * 0.375);
 
     @media (min-width: 28rem) {
       flex-direction: row;
@@ -32,15 +33,10 @@
   }
 
   &__logo {
-    margin-right: calc(var(--logo-size) * 0.375);
     will-change: auto;
     display: block;
     aspect-ratio: 25 / 23;
     width: var(--logo-size);
-
-    @media (prefers-reduced-motion) {
-      transition: filter var(--animation-duration) ease;
-    }
   }
 
   &__title {
@@ -65,10 +61,9 @@
   }
 
   &__content {
-    display: grid;
-    align-items: center;
+    display: flex;
     gap: clamp(1.5rem, 2vw, 2.5rem);
-    grid-template-columns: var(--logo-size) auto;
+    align-items: center;
   }
 
   &__back-button {

@@ -17,7 +17,8 @@ status: publish
 tags: []
 title: Talking Business
 type: post
-url: /2018/04/talking-business/
+aliases:
+  - /2018/04/talking-business/
 ---
 <p>I had only worked a month at <a href="https://seesparkbox.com/">Sparkbox</a> when I saw our Vice President, <a href="https://twitter.com/robertharr">Rob Harr</a>, do a talk on how we run our business. I was amazed by the detail he was so open to share. Over the years I have come to not only understand but adopt this transparency we value as a company. One of the things that keeps me at Sparkbox year after year is the people. What makes the people so amazing is the honesty, humility, and empathy they poses. There is such a desire to share what makes us successful freely in hopes that we make a stronger industry.</p>
 <p>Rob was recently on an <a href="https://bureauofdigital.com/radio/bureau-briefing-content/2018/4/11/3ttmsdloyppbie4tm9tg8hon2r7hxn">episode</a> of <a href="https://bureauofdigital.com">Bureau of Digital</a>'s podcast, <a href="https://bureauofdigital.com/radio/bureau-briefing/">The Bureau Briefing</a>. I this episode Rob talks with host <a href="https://twitter.com/carlsmith">Carl Smith</a> about operations—his road toward taking on operations at Sparkbox and how things work today. Ever since that first time hearing Rob talk about the business, I have taken every opurtunity I can to hear him talk about it since. There are a few quotes from this interview that I really love, I pulled these from the shows transcript.</p>

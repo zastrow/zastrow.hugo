@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: The iPhone and Web Design
 type: post
-url: /2012/07/the-iphone-and-web-design/
+aliases:
+  - /2012/07/the-iphone-and-web-design/
 ---
 <p>When Steve Jobs introduced the iPhone, he presented it as three revolutionary products. The crowd goes wild as he says the first was a “Widescreen iPod with Touch Controls”, then the insane cheers come as he says the next is a “Revolutionary Mobile Phone”. But, when Steve states with the same enthusiasm as the previous two that the third product is a “Breakthrough Internet communications device”, there are a few obligatory hoots and hollers. It’s amusing that this third feature that seemed so quickly disregarded is what led to Apple’s success and transformed industries.</p>
 <p>Now that it has been five years since the iPhone first sold, there are many looking back at how the device disrupted the phone industry. Earlier I <a href="http://phanza.com/2012/07/03/they-werent-competing-with-a-phone">linked</a> to Jack Kirk’s evaluation of RIM over the years since the iPhone debuted. I think John Gruber said it best in his article “<a href="http://daringfireball.net/2012/07/iphone_disruption_five_years_in">The iPhone and Disruption: Five Years In</a>”:</p>

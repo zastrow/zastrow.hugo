@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: A site made for reading
 type: post
-url: /2013/01/a-site-made-for-reading/
+aliases:
+  - /2013/01/a-site-made-for-reading/
 ---
 <p>2012 was an incredible year. It kicked off with an intense, ground-up revamp of the <a href="http://www.nd.edu">University of Notre Dame homepage</a>. This site caused an avalanche of humbling accolades<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. Following the launch of the Notre Dame homepage, focus shifted to numerous other projects, including the <a href="http://science.nd.edu">College of Science</a>, the <a href="http://provost.nd.edu">Provost’s Office</a>, and the <a href="http://architecture.nd.edu">School of Architecture</a>. All great projects to further many of the standards set with the main university site. The year’s end brought a wonderful and challenging project—the redesign of the <a href="http://magazine.nd.edu">Notre Dame Magazine</a> website, which launched this past Friday.</p>
 <p>The Notre Dame Magazine website is a bit of a dream project for me. Content is priority. Mobile traffic is high. What really helped—the folks at the magazine recognized these things. They wanted a website that could supersede the print edition.</p>

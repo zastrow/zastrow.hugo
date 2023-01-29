@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Game Console Browsers
 type: post
-url: /2012/09/game-console-browsers/
+aliases:
+  - /2012/09/game-console-browsers/
 ---
 <p>I finally got around to reading Anna Debenham’s <em>A List Apart</em> article from last week on game console browsers. She definitely did her research. I’m surprised by some of the information, I didn’t expect the usage of game console browser to be so high. She wraps up with the more important point, that we need to consider all contexts and make the design as streamlined and accessible as possible.</p>
 <blockquote>

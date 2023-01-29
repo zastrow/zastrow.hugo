@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Usable versus Acceptable
 type: post
-url: /2012/09/usable-versus-acceptable/
+aliases:
+  - /2012/09/usable-versus-acceptable/
 ---
 <p>Web design has to account for multiple scenarios. Various browsers and devices produce different results with the same styles and markup. It’s a problem as old as the web design profession. Where, then, is the line between usable and acceptable in these differing results?</p>
 <p>A scenario I face so commonly I forget about it is rounded corners. It is an aesthetic choice web designers have been using for a decade, but until recently was difficult to implement. With CSS3’s <code class="highlighter-rouge">border-radius</code> a rounded corner is quick to make. Older browsers, such as Internet Explorer 8, don’t support this feature and create normal 90 degree corners. The straight corners don’t hinder usability and typically the integrity of the design is maintained. In my opinion, this is an acceptable design difference between the browsers.</p>

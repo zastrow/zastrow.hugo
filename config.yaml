@@ -7,6 +7,9 @@ Author:
   name: Philip Zastrow
   email: site@zastrow.co
 
+permalinks:
+  posts: /:year/:month/:day/:slug/
+
 taxonomies:
   category: categories
 

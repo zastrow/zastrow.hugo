@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Dear MacBook Air, I've Missed You…
 type: post
-url: /2012/04/dear-macbook-air-ive-missed-you/
+aliases:
+  - /2012/04/dear-macbook-air-ive-missed-you/
 ---
 <p>For the last several weeks I’ve been working on a huge project at work <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. This means I’ve been spending a lot of time with my work computer, a speced-out 15” MacBook Pro. While you are a great computer and quite speced-out yourself, I needed to keep work and home life separate. The last several weeks have required my undivided attention on this project and that meant you were neglected.</p>
 <p>I still took you everywhere with me, but I’m sorry you’ve seen so little action. Now that the project is done<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>, I hope things start getting back to normal. Especially, now that we’re moving into this new house, we’re going to need your help finding how to keep the place maintained. Not to mention, I really hope to write more, and you really are ideal for that.</p>

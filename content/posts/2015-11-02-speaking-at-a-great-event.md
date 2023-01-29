@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Speaking at a Great Event
 type: post
-url: /2015/11/speaking-at-a-great-event/
+aliases:
+  - /2015/11/speaking-at-a-great-event/
 ---
 <p>Ben Callahan, the President of Sparkbox, for which I work, <a href="http://words.bencallahan.com/what-makes-a-great-event/">wrote down some great observations</a> on what makes an event, or conference, great. The three key ingredients he sees are Thematic Content, Inviting Space, and Challenging Conversation. Having just returned from a great conference, I couldn’t agree more with this list.</p>
 <p>I had a wonderful opportunity last week to participate at the <a href="http://cssdevconf.com">CSS Dev Conference</a> on the Queen Mary in Long Beach, California. I gave a talk on the concept of <a href="http://zastrow.co/speaking/css-dev-conf-2015/">element queries</a> and how to use them. While I had an absolutely wonderful time, I can’t help but now examin the conference through the lens Ben setup in his article.</p>

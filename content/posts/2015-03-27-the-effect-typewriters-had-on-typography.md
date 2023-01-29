@@ -17,7 +17,8 @@ status: publish
 tags: []
 title: The effect typewriters had on typography
 type: post
-url: /2015/03/the-effect-typewriters-had-on-typography/
+aliases:
+  - /2015/03/the-effect-typewriters-had-on-typography/
 ---
 <p>Marcin Wichary of the Medium design team tackles how the typewriter set back advances in typography, and now with recent web technologies, how we are working to take back beautiful words.</p>
 <blockquote>

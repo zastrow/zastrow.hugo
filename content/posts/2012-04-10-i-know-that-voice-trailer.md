@@ -16,6 +16,7 @@ status: publish
 tags: []
 title: I Know That Voice Trailer
 type: post
-url: /2012/04/i-know-that-voice-trailer/
+aliases:
+  - /2012/04/i-know-that-voice-trailer/
 ---
 <p>I love and am intrigued by the art of voice acting. This documentary reveals the identities of those behind some of our favorite characters. Can’t wait to see it.</p>

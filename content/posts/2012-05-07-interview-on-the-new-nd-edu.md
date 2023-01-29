@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Interview on the new ND.EDU
 type: post
-url: /2012/05/interview-on-the-new-nd-edu/
+aliases:
+  - /2012/05/interview-on-the-new-nd-edu/
 ---
 <blockquote>
 <p>Their new homepage represents a boldness rarely seen from universities. It demonstrates a willingness to try something different and to own the details that make Notre Dame unique.</p>

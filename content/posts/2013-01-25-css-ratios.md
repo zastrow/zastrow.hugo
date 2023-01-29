@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: CSS Ratios
 type: post
-url: /2013/01/css-ratios/
+aliases:
+  - /2013/01/css-ratios/
 ---
 <p>The more sites I design responsively, the more I see the need for maintaining an element’s aspect ratio. The idea being that as the browser window widens and shrinks, both the element’s height and width scale proportionately.</p>
 <p>However, there is not a clear and simple way to do this. Most solutions I’ve found require a minimum of two elements to make this type of functionality work. Other solutions require Javascript instead of straight CSS. While not nearly as bad, this feels a bit like the old way to achieve rounded corners before <code class="highlighter-rouge">border-radius</code>.</p>

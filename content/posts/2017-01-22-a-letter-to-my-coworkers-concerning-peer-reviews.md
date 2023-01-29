@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: A Letter To My Coworkers Concerning Peer Reviews
 type: post
-url: /2017/01/a-letter-to-my-coworkers-concerning-peer-reviews/
+aliases:
+  - /2017/01/a-letter-to-my-coworkers-concerning-peer-reviews/
 ---
 <p>Every six months, we at <a href="http://seesparkbox.com">Sparkbox</a> do peer and leadership reviews. We’ve been at it for about two years now, so I have a feel for an approach to providing feedback to my coworkers. Following a conversation I wrote the following letter to my fellow Sparkboxers and dropped it in our #general Slack channel. After some positive feedback, I was further encouraged to share this letter, verbatim, with the world. Peer reviews can be tough, its giving feedback to coworkers in manner that can be a bit intimidating. This is a letter written as an encouragement to help prepare a good mindset for writing a peer review.</p>
 <blockquote>

@@ -19,7 +19,8 @@ status: publish
 tags: []
 title: 'Book Review: Mortal Engines'
 type: post
-url: /2018/02/book-review-mortal-engine/
+aliases:
+  - /2018/02/book-review-mortal-engine/
 ---
 <p>Last night I <a href="https://www.goodreads.com/review/show/2294217728?utm_medium=api&amp;utm_source=rss">finished</a> the book <em>Mortal Engines</em> by Philip Reeve. I never heard of the book until I saw the <a href="https://www.youtube.com/watch?v=fupYIggOq38">teaser trailer</a> for the forthcoming film adaptation. The trailer is visually fascinating and left me curious about what was going on in that brief, yet enthralling, scene.</p>
 <p>I certainly encourage you to watch the trailer. Peter Jackson is producing and his partner on the <em>Lord of the Rings</em> films, Fran Walsh, is one of the writers. I’m quite optimistic about the film. The book on the other hand was less enticing.</p>

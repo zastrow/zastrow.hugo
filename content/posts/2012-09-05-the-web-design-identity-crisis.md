@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: The Web Design Identity Crisis
 type: post
-url: /2012/09/the-web-design-identity-crisis/
+aliases:
+  - /2012/09/the-web-design-identity-crisis/
 ---
 <p>Once considered a child medium of the print world, web design has now grown up. Both the medium and the discipline have matured to a point of self-discovery. While in our rebellious stage we shunned the very name of print with relation to our field. Now, we’re recognizing and returning to a bit of our print roots. But, we’re also realizing that we really are our own discipline of design. Like others, but different and with our own unique challenges.</p>
 <p>During the early rebellious years and into this age of self discovery we’ve tried to compare ourselves to other design disciplines. The top comparison is with architecture, most often in regards to the process. The designer is the architect, making a plan for what will be built. The developer is the construction worker turning that plan into a reality. A grand thought, but this is far from graphic design—the true parent of web design.</p>

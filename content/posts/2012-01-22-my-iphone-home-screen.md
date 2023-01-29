@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: My iPhone Home Screen
 type: post
-url: /2012/01/my-iphone-home-screen/
+aliases:
+  - /2012/01/my-iphone-home-screen/
 ---
 <p>The home screen of my iPhone changes often. Once I realize that an app hasn’t been getting much action, it gets booted to another page. Some of my former home screen apps include <a href="https://www.path.com">Path</a>, <a href="http://flipboard.com">Flipboard</a>, and <a href="http://instagram.com/">Instagram</a>. Now, these apps are still on my phone and get use, just not as much to merit a home screen status. My criteria for home screen eligibility has several aspects.</p>
 <p>First off, no games. I enjoy playing games on my iPhone, but I need to keep myself in check. So, any games on my phone must reside in a “Games” folder, which is placed on one of the last screens of the phone. Second are frequently used messaging and communications apps, such as Messages, Phone, Mail, and a Twitter client. Then I have my commonly used apps followed by apps I’m trying out.</p>

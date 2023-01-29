@@ -18,6 +18,7 @@ status: publish
 tags: []
 title: Be a good video call citizen
 type: post
-url: /2017/03/be-a-good-video-call-citizen/
+aliases:
+  - /2017/03/be-a-good-video-call-citizen/
 ---
 <p>I participate in remote meetings nearly every day. My co-Sparkboxer <a href="https://twitter.com/a_simpson">Adam Simpson</a> put together this terrific list of just a few things to keep in mind joining a video call in a professional setting.</p>

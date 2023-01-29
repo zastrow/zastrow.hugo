@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: CSS Multiple Adjacent Siblings
 type: post
-url: /2013/03/css-multiple-adjacent-siblings/
+aliases:
+  - /2013/03/css-multiple-adjacent-siblings/
 ---
 <p>Ever need to style an element, but only if another sibling element was present?</p>
 <p>I hit just that scenario this morning. I’m working on a site that has a landing page for four different sections of the website. For the most part the layout of the landing pages are the same, except one or two that does not contain an area for bugs<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. At the large screen views, I want the <code class="highlighter-rouge">.bugs</code> container to be the first of three columns, followed by <code class="highlighter-rouge">.col1</code> which usually contains events, and then <code class="highlighter-rouge">.col2</code> which usually contains news.</p>

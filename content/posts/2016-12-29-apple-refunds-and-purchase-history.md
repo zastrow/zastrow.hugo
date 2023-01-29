@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Apple Refunds and Purchase History
 type: post
-url: /2016/12/apple-refunds-and-purchase-history/
+aliases:
+  - /2016/12/apple-refunds-and-purchase-history/
 ---
 <p>I have been buying media and software from Apple for a long time. Pretty much since the <a href="https://en.wikipedia.org/wiki/ITunes_Store">iTunes Music Store</a> opened. Until yesterday, I have never so utterly regretted a purchase that I wanted a refund. Apple does not make it obvious how to accomplish this task, so much so I got a feeling that it couldn’t be done. I searched the Apple Support documents the best I could to no avail. Through a series web search landed on instructions start this process in iTunes by going to the Account page and viewing recent purchases.</p>
 <p>Turns out there is an easier way.</p>

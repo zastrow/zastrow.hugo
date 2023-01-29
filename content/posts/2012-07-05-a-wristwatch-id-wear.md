@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: A Wristwatch I&rsquo;d Wear
 type: post
-url: /2012/07/a-wristwatch-id-wear/
+aliases:
+  - /2012/07/a-wristwatch-id-wear/
 ---
 <p>I’ve been thinking about wristwatches. I’ve never really cared for them. But in the last two years there have been interesting developments. First, iPod nano accessory makers made a wrist strap to wear the nano like a watch. Then Apple acknowledge the popularity of these accessories by adding various clock faces to the nano. Now in the last six months there have been some very intriguing Kickstarter projects that have expanding on this idea.</p>
 <p>The first there was the <a href="http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android">Pebble</a> with a customizable epaper interface. The watch connects directly to your iPhone or Android and has the ability to control music and see who just messaged or is calling you. Then there is <a href="http://www.kickstarter.com/projects/syre/meet-syre-the-worlds-first-bluetooth-ipod-nano-wat">Syre</a>, an iPod nano case with integrated Bluetooth. Giving the iPod nano a much needed feature.</p>

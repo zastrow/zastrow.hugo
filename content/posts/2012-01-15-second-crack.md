@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Second Crack
 type: post
-url: /2012/01/second-crack/
+aliases:
+  - /2012/01/second-crack/
 ---
 <p>In all reality this is my third or fourth crack at running a blog. Like each iteration before, I’m using a different system. Previously I have used <a href="http://www.joomla.org">Joomla!</a> and <a href="http://www.wordpress.org">Wordpress</a>. Both systems are great for managing content, but I find them inadequate for creating content. They do well to try and make things simple for techie and non-techie alike. But, I have never found writing to be simple or easy.</p>
 <h3 id="enter-second-crack">Enter Second Crack</h3>

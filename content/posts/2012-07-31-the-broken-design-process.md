@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: The Broken Design Process
 type: post
-url: /2012/07/the-broken-design-process/
+aliases:
+  - /2012/07/the-broken-design-process/
 ---
 <p>The web design process is broken and the forward momentum of Responsive Web Design is forcing a modern approach.</p>
 <p>The typical design process involves creating an idealized concept image of a website in a photo editing application. Then ship that concept image off to the client, or approving authority, for their feedback and critique. Once the concept image has been modified to meet an agreeable state for the parties involved the concept image is replicated, that is remade from scratch, using markup and stylesheets. This replicating part of the process can be done by the same person who created the concept image, but most likely it is not.</p>

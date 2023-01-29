@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: How to Make the Web Better
 type: post
-url: /2016/01/how-to-make-the-web-better/
+aliases:
+  - /2016/01/how-to-make-the-web-better/
 ---
 <h2 id="who-browsers-are-for">Who Browsers Are For</h2>
 <p>The most pivitol tool a web developer uses day in and day out is a browser. They are what we develop for. Browsers can equally enstill excitement and dread throughout a project. As a web developer, it can be hard to maintain perspective of the purpose of browser—to meet the needs of the typical user.</p>

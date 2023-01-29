@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: 'RSS Readers: Features and Synchronization'
 type: post
-url: /2012/01/rss-readers-features-and-synchronization/
+aliases:
+  - /2012/01/rss-readers-features-and-synchronization/
 ---
 <p>Last night I began writing a lengthy (and somewhat scathing) post about the state of RSS reader apps for iOS. I started off going through my gripes, some of which I still think are valid, and realized before I got too far down this road I needed to do some good research. Thankfully I did and came across <a href="http://inessential.com">Brent Simmons’s</a> post “<a href="http://inessential.com/2011/10/25/why_just_store_the_app_data_on_dropbo">Why ‘Just Store the App Data on Dropbox’ won’t work for RSS readers</a>”. Brent busts my biggest beef with the current crop of apps: reliance on Google Reader for sync and storage.</p>
 <p>I, like <a href="http://brooksreview.net/2012/01/duckduckwin/">others</a>, am making the exodus from Google to other services. One that I am very tied to is Google Reader, primarily because of my use of <a href="http://reederapp.com/">Reeder</a> for Mac, iPad, and iPhone. Essentially what Brent breaks down are the synchronization pitfalls of utilizing Dropbox, WebDAV, and iDisk (I presume iCloud as well) as a database location and sync service. He puts forth scenarios where there are huge RSS feeds and listings and the issues with caching older posts, as feeds tend to be limited to only the most recent posts. The breakdown comes to the point that there is so much involved and needed for a RSS sync service to work, that it would not be cost-effective to create such a system. Hence, the wide-adoption of Google Reader for syncing in so many reader apps.</p>

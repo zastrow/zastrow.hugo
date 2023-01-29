@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Second Crack Hooks
 type: post
-url: /2012/04/second-crack-hooks/
+aliases:
+  - /2012/04/second-crack-hooks/
 ---
 <p>Finally doing some updating on the code-side of Phanza. I’ve been wanting to try out the hook abilities for some time. It is quite appealing to have your latest blog post be sent to Twitter automatically.</p>
 <p>I know I talk about it too much<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>, but if you are a tinkerer like me you’ll enjoy messing around with <a href="https://github.com/marcoarment/secondcrack">Second Crack</a>.</p>

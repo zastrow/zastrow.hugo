@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Apple Responsive Retrofit
 type: post
-url: /2012/07/apple-responsive-retrofit/
+aliases:
+  - /2012/07/apple-responsive-retrofit/
 ---
 <p>Last week I helped out <a href="http://www.twitter.com/bencallahan">Ben Callahan</a> of <a href="http://seesparkbox.com">Sparkbox</a> with a bit of an experiment with Responsive Design. Ben has <a href="https://github.com/sparkbox/Responsive-Retrofitting/tree/gh-pages">created</a> a clever system to illustrate the ease of retrofitting an older, or non-responsive, website to be responsive. With this experiment Ben asked me to take on Apple’s website. To view the results of this experiment, check out the <a href="https://github.com/sparkbox/Responsive-Retrofitting/blob/gh-pages/README.md">GitHub README</a>.</p>
 <p>Overall the project proved to be very educational. I clocked in about six hours to turn the Apple homepage responsive. Unfortunately this retrofit is specific to the MacBook Pro with Retina Display hero shot. The Apple website has several CSS files overwriting each other in some form or another. Globally this retrofit will work for the navigation and likely the footer. But to fully retrofit a site like Apple’s could take a week or so.</p>

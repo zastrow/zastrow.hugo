@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Height Targeted Media Query
 type: post
-url: /2012/08/height-targeted-media-query/
+aliases:
+  - /2012/08/height-targeted-media-query/
 ---
 <p>With responsive design, we are very focused on widths. Our media queries, image sizes, containers, and so on are based on widths. It makes sense, but we’re not limited to that option alone. Media queries can grab a great deal of information, so why not target the window height?</p>
 <p>We can do <code class="highlighter-rouge">@media (min-height:400px)</code> to modify vertically oriented objects at a shorter height. The best use case scenario I can imagine is a <code class="highlighter-rouge">position:fixed</code> side navigation that gets obscured and unusable by a short window height. Perhaps you have a large image you want to fill the screen, in the case of Notre Dame’s <a href="http://www.nd.edu">homepage</a>. With a height-based media query, we can resize the background image to maximize (or minimize) the space the image takes up.</p>

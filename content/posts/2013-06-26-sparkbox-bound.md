@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Sparkbox Bound
 type: post
-url: /2013/06/sparkbox-bound/
+aliases:
+  - /2013/06/sparkbox-bound/
 ---
 <p>I’m quite excited to announce that I will be joining <a href="http://seesparkbox.com">Sparkbox</a> this July. Additionally, I’m sad to announce that I will no longer be a part of the <a href="http://twitter.com/NDWebTeam">Web Team</a> at the <a href="http://nd.edu">University of Notre Dame</a>.</p>
 <h2 id="two-humbling-amazing-life-changing-years">Two humbling, amazing, life-changing years</h2>

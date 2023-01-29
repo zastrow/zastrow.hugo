@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Mobile Macs
 type: post
-url: /2012/05/mobile-macs/
+aliases:
+  - /2012/05/mobile-macs/
 ---
 <p>To date, I have owned seven different Macs in the last nine years. I just ordered number eight this morning. Of those Macs, three have been desktop variants and have served distinct purposes. The rest have been Apple notebooks.</p>
 <ul>

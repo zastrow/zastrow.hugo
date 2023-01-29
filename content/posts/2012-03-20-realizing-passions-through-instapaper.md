@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Realizing Passions Through Instapaper
 type: post
-url: /2012/03/realizing-passions-through-instapaper/
+aliases:
+  - /2012/03/realizing-passions-through-instapaper/
 ---
 <p>One of my all-time favorite applications is <a href="http://www.instapaper.com">Instapaper</a> by <a href="http://www.marco.org">Marco Arment</a>. I initially used this service as only a bookmarking tool. When I got an iPad I realized the true utility of Instapaper with the <a href="http://www.instapaper.com/iphone">native app</a> and began hitting the “Read Later” bookmarklet in my browser rabidly.</p>
 <p>Now, after a couple years of Instapaper use, a pattern has emerged in what I “Read Later”. I’ve also noticed that I send a large number of articles into my Instapaper queue, and it takes a while before being read. But, that’s why I’m reading it later, right?<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p>

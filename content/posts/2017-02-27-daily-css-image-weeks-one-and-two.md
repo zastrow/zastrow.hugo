@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: 'Daily CSS Image: Weeks One and Two'
 type: post
-url: /2017/02/daily-css-image-weeks-one-and-two/
+aliases:
+  - /2017/02/daily-css-image-weeks-one-and-two/
 ---
 <p>A couple of weeks ago I started the Daily CSS Image. If you are not familiar with the challenge, it is a person challenge, not a competition. Each weekday an email is sent with a topic or object to create using only CSS, with the needed HTML. To participate the community aspect of the challenge the image should be created in <a href="http://codepen.io">CodePen</a> and shared with the hashtag <a href="https://twitter.com/hashtag/dailycssimages">#dailycssimages</a> on Twitter. The challenge is run by <a href="http://codingartist.io">Coding Artist</a> and they just started a <a href="http://challenges.codingartist.io/daily-svg-images/">Daily SVG Image</a> challenge I hope to start once I’m done with all 50 days CSS challenge.</p>
 <p>On my own I’ve done several CSS images, so with the challenge I decided I wanted to add an extra challenge—use a single element if possible. I was able to do that up until day five, but picked it up in week two…until day 10. So far the last day of each week tends to be a more complex topic and to do what I want visually I set aside that challenge.</p>

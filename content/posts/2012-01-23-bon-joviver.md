@@ -16,6 +16,7 @@ status: publish
 tags: []
 title: Bon Joviver
 type: post
-url: /2012/01/bon-joviver/
+aliases:
+  - /2012/01/bon-joviver/
 ---
 <p>“You Give Love a Bad Name” Bon Iver style.</p>

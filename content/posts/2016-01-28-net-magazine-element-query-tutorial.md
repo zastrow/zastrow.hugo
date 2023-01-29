@@ -17,7 +17,8 @@ status: publish
 tags: []
 title: 'Net Magazine: Element Query Tutorial'
 type: post
-url: /2016/01/net-magazine-element-query-tutorial/
+aliases:
+  - /2016/01/net-magazine-element-query-tutorial/
 ---
 <p>I wrote a tutorial covering Element Queries for Net Magazine that appeared in last month’s issue. The <a href="http://www.creativebloq.com/web-design/container-based-rwd-element-queries-11618978">web version</a> of the tutorial is now available on their website. If you haven’t looked into element queries, it isn’t too bad of a place to start. In the article I give an overview of what element queries are, some simple use cases, and an explanation of using a polyfill.</p>
 <p>The online version leaves out some aside content from the print edition, so below you can find some resources to further explore the wonders of element queries.</p>

@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: LEGO The Lord of The Rings
 type: post
-url: /2012/08/lego-the-lord-of-the-rings/
+aliases:
+  - /2012/08/lego-the-lord-of-the-rings/
 ---
 <p>These sets look spectacular. For the first time in ten years I’ll be actively buying LEGO sets.</p>
 <p>Also, <a href="http://www.lordofthebrick.com">these folks</a> seem to have some info on upcoming sets.</p>

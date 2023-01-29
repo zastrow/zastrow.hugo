@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Fun on the Dribbble for Code
 type: post
-url: /2012/07/fun-on-the-dribbble-for-code/
+aliases:
+  - /2012/07/fun-on-the-dribbble-for-code/
 ---
 <p>A couple of weeks ago <a href="http://www.codepen.io">CodePen</a> entered public beta. It is certainly beta software, a few bugs and hiccups here and there. Overall though, CodePen is a fantastic concept and implementation. I can easily see it becoming a part of a designer/developer’s process. Sketch out a few ideas in CodePen, send it around to your team, and then implement.</p>
 <p>For me, CodePen has been inspirational to see CSS as ART. There are plenty of folks contributing beautiful and utile code, but so far I just want to see what I can make.</p>

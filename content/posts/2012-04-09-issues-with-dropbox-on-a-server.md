@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: Issues with Dropbox on a Server
 type: post
-url: /2012/04/issues-with-dropbox-on-a-server/
+aliases:
+  - /2012/04/issues-with-dropbox-on-a-server/
 ---
 <p>I run this site using Marco Arment’s Second Crack. Great system for programming-knowledgeable folks who just want to write and not deal with some overladen CMS or Blog software like Drupal or Wordpress. My favorite feature of Second Crack is the ability to use Dropbox as an intermediary between my text editor and my website. I write in a text editor on my MacBook, iPad, or iPhone, save it in a folder on Dropbox, then Second Crack grabs the latest file marked to publish and creates the HTML on my site.</p>
 <h3 id="simple-but-this-is-where-the-problems-began">Simple. But, this is where the problems began.</h3>

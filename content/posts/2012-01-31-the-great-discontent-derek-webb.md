@@ -16,7 +16,8 @@ status: publish
 tags: []
 title: 'The Great Discontent: Derek Webb'
 type: post
-url: /2012/01/the-great-discontent-derek-webb/
+aliases:
+  - /2012/01/the-great-discontent-derek-webb/
 ---
 <blockquote>
 <p>We were looking to change the world at first. We wanted to be a disruption and push people. We wanted to say the things that nobody was saying. We did that for a little while, but when a lot of people’s jobs begin to be staked on what you’ve built and people are employed by it, there’s pressure—even if no one says a word to you about it—there’s so much pressure you impose on yourself to keep that going.</p>

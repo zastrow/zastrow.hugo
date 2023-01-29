@@ -1,57 +1,8 @@
 {{- $favicon := resources.Get "./favicon.png" -}}
 {{ $postcssopts := dict "config" "./postcss.config.js" "noMap" true "inlineImports" true }}
 {{ $style := resources.Get "style.css" | resources.PostCSS $postcssopts | fingerprint }}
-{{- $gif := resources.Get "./images/bobby-hill-excited.gif" -}}
-{{ "<!--" | safeHTML}}
-	OMG you’re looking at my code!!!
-
-	Um, well, this is both exciting and worrisome.
-
-	Ok, first off, if you found something wrong or a bug
-	on the site, please, please log an issue at:
-	https://github.com/zastrow/zastrow.hugo
-
-	If you’re digging in to look at how this is put
-	together, I’ll give a few highlights:
-
-	1. This version is built using [Hugo](https://gohugo.io)
-		I use my personal site as a place to experiment with
-		different CMSs and build systems, so it changes from
-		time-to-time.
-	2. I’m hosting this on [Netlify](https://netlify.com) because
-		its integration between GitHub and static site generators,
-		like Hugo, is :chefkiss:
-	3. I am a CSS aficionado, if you couldn’t tell from my content.
-		As such, I like to play around so be sure too check out the
-		source file:
-		{{ $style.Permalink | absURL }}
-
-		With this edition of the CSS I’m very excited to be using:
-		- CONTAINER QUERIES!!!
-		- :HAS() PSEUDO CLASS!!!
-		- CSS CUSTOM PROPERTIES!!!
-		- ![]({{ $gif.Permalink | absURL }})
-
-	The code is a bit all over the place with some files being space
-	indented and other being tab indented. I mentioned in my subhead
-	that I’m a Web Accessibility Specialist, and upon learning that
-	tab indentation is more accessible, I’ve been slowly working on
-	updating my habits and my files.
-
-	But, this is still a work in progress. For a source behind this
-	shift, read this article by Alexander Sandberg:
-	https://alexandersandberg.com/articles/default-to-tabs-instead-of-spaces-for-an-accessible-first-environment/
-
-	Thanks for checking out my code! If you have any questions
-	or want to connect you can reach out via email or Mastodon:
-
-	- Email: philip [at] zastrow.co
-	- Mastodon: @zastrow [at] mastodon.social
-
-	Thanks!
-
-	- Zastrow
-{{ "-->" | safeHTML}}
+{{ .Scratch.Set "styles" ($style.Permalink | absURL) }}
+{{ partial "intro.html" . }}
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">

@@ -57,7 +57,13 @@
     line-height: 1.2;
     font-family: var(--extended);
     font-weight: var(--weight-regular);
-    color: var(--color-midtone);
+
+    @media (any-pointer: fine) and (min-width: $md) {
+      background: var(--gradient) fixed;
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
   }
 
   &__content {

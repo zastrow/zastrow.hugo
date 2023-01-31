@@ -53,7 +53,7 @@
 
   &__description {
     margin: 0;
-    font-size: clamp(0.75rem, 3vw, 31rem);
+    font-size: clamp(0.75rem, 3vw, 3rem);
     line-height: 1.2;
     font-family: var(--extended);
     font-weight: var(--weight-regular);

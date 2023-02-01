@@ -26,7 +26,9 @@
 	{{ end -}}
 	<link rel="icon" type="image/png" href="{{ $favicon.RelPermalink }}">
 	<link rel="preconnect" href="https://use.typekit.net" />
-	<link rel="stylesheet" href="https://use.typekit.net/hcc4udn.css" />
+	<!-- <link rel="stylesheet" href="https://use.typekit.net/hcc4udn.css" /> -->
+	<link rel="preload" href="https://use.typekit.net/hcc4udn.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+	<noscript><link rel="stylesheet" href="https://use.typekit.net/hcc4udn.css"></noscript>
 	<link rel="stylesheet" href="{{ $style.Permalink | relURL }}">
 	{{- $title := print .Title " | " .Site.Title }}
 	{{ if .IsHome }}{{ $title = .Site.Title }}{{ end -}}

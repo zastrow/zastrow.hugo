@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="{{ .Site.LanguageCode }}">
   {{- partial "head.html" . -}}
   <body class="home">
     <nav>
@@ -8,7 +8,7 @@
       <a href="#videos" class="cmp-skip-link">Jump to Videos and Presentations Section</a>
       <a href="#about" class="cmp-skip-link">Jump to About Philip Section</a>
     </nav>
-    {{- block "main" . }}{{- end }}
+    {{- block "main" . }}{{ end -}}
     {{ partial "footer.html" . }}
   </body>
 </html>

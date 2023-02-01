@@ -3,6 +3,10 @@ disablePathToLower: true
 disableLiveReload: true
 languageCode: en-us
 title: Philip Zastrow
+
+params:
+  description: "Philip Zastrow: Frontend Design Engineer, Web Accessibility Specialist, Writer, Speaker, et al"
+
 Author:
   name: Philip Zastrow
   email: site@zastrow.co
@@ -13,7 +17,7 @@ permalinks:
 taxonomies:
   category: categories
 
-rssLimit: 50
+rssLimit: 100
 timeZone: America/New_York
 
 markup:

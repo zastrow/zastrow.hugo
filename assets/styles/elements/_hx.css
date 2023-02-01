@@ -4,7 +4,8 @@ h3:not([class]),
 h4:not([class]),
 h5:not([class]),
 h6:not([class]) {
-  font-family: var(--extended);
+  font-family: var(--font-secondary);
+  font-variation-settings: var(--secondary-var-light);
   margin: 1em 0 0.5em;
 
   &:first-child {
@@ -14,30 +15,30 @@ h6:not([class]) {
 
 h1:not([class]) {
   font-size: var(--font-xl);
-  font-weight: var(--weight-regular);
+  font-variation-settings: var(--secondary-var-regular);
 }
 
 h2:not([class]) {
   font-size: var(--font-xl);
-  font-weight: var(--weight-light);
+  font-variation-settings: var(--secondary-var-light);
 }
 
 h3:not([class]) {
   font-size: var(--font-lg);
-  font-weight: var(--weight-regular);
+  font-variation-settings: var(--secondary-var-regular);
 }
 
 h4:not([class]) {
   font-size: var(--font-lg);
-  font-weight: var(--weight-light);
+  font-variation-settings: var(--secondary-var-light);
 }
 
 h5:not([class]) {
   font-size: var(--font-md);
-  font-weight: var(--weight-regular);
+  font-variation-settings: var(--secondary-var-regular);
 }
 
 h6:not([class]) {
   font-size: var(--font-md);
-  font-weight: var(--weight-light);
+  font-variation-settings: var(--secondary-var-light);
 }

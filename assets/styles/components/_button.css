@@ -8,6 +8,7 @@
   position: relative;
   display: inline-block;
   font-size: var(--font-md);
+  font-variation-settings: var(--primary-var-medium);
   padding: var(--space-sm) var(--space-md);
   border-radius: var(--space-sm);
   text-shadow: 0 -1px var(--color-dark);

@@ -64,11 +64,11 @@
   }
 
   &__term {
-    font-weight: var(--weight-regular);
+    font-variation-settings: var(--primary-var-regular);
   }
 
   &__source {
-    font-weight: var(--weight-medium);
+    font-variation-settings: var(--primary-var-bold);
     background: var(--gradient) fixed;
     -webkit-background-clip: text;
     background-clip: text;

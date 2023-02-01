@@ -2,5 +2,6 @@ body {
   margin: 0;
   background-color: var(--color-background);
   color: var(--color-text);
-  font: 100% / 1.5 var(--sans-serif);
+  font: 100% / 1.5 var(--font-primary);
+  font-variation-settings: var(--primary-var-light);
 }

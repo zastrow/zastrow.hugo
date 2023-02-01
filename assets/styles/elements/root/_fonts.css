@@ -1,13 +1,51 @@
 /* Font Families */
---sans-serif: proxima-nova, sans-serif;
---extended: termina, sans-serif;
+--font-primary: oso-sans-variable, sans-serif;
+--font-secondary: normalidad-variable, sans-serif;
 --monospce: monospace;
 
 /* Font Weights */
---weight-light: 300;
---weight-regular: 500;
---weight-medium: 600;
---weight-bold: 700;
+--weight-100: 100;
+--weight-200: 200;
+--weight-300: 300;
+--weight-400: 400;
+--weight-500: 500;
+--weight-600: 600;
+--weight-700: 700;
+--weight-800: 800;
+--weight-900: 900;
+
+--weight-hairline: var(--weight-100);
+--weight-thin: var(--weight-200);
+--weight-light: var(--weight-300);
+--weight-regular: var(--weight-400);
+--weight-medium: var(--weight-500);
+--weight-semibold: var(--weight-600);
+--weight-bold: var(--weight-700);
+--weight-heavy: var(--weight-800);
+--weight-black: var(--weight-900);
+
+
+--primary-width: 110;
+--primary-var-hairline: "wdth" var(--primary-width), "wght" var(--weight-100);
+--primary-var-thin: "wdth" var(--primary-width), "wght" var(--weight-200);
+--primary-var-light: "wdth" var(--primary-width), "wght" var(--weight-300);
+--primary-var-regular: "wdth" var(--primary-width), "wght" var(--weight-400);
+--primary-var-medium: "wdth" var(--primary-width), "wght" var(--weight-500);
+--primary-var-semibold: "wdth" var(--primary-width), "wght" var(--weight-600);
+--primary-var-bold: "wdth" var(--primary-width), "wght" var(--weight-700);
+--primary-var-heavy: "wdth" var(--primary-width), "wght" var(--weight-800);
+--primary-var-black: "wdth" var(--primary-width), "wght" var(--weight-900);
+
+--secondary-width: 130;
+--secondary-var-hairline: "wdth" var(--secondary-width), "wght" var(--weight-100);
+--secondary-var-thin: "wdth" var(--secondary-width), "wght" var(--weight-200);
+--secondary-var-light: "wdth" var(--secondary-width), "wght" var(--weight-300);
+--secondary-var-regular: "wdth" var(--secondary-width), "wght" var(--weight-400);
+--secondary-var-medium: "wdth" var(--secondary-width), "wght" var(--weight-500);
+--secondary-var-semibold: "wdth" var(--secondary-width), "wght" var(--weight-600);
+--secondary-var-bold: "wdth" var(--secondary-width), "wght" var(--weight-700);
+--secondary-var-heavy: "wdth" var(--secondary-width), "wght" var(--weight-800);
+--secondary-var-black: "wdth" var(--secondary-width), "wght" var(--weight-900);
 
 /* Font Sizes */
 --font-xs: 0.875rem;

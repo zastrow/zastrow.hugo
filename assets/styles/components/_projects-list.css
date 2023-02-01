@@ -91,8 +91,8 @@
 
   &__title {
     margin: 0;
-    font-family: var(--extended);
-    font-weight: var(--font-regular);
+      font-family: var(--font-secondary);
+    font-variation-settings: var(--secondary-var-light);
     font-size: var(--font-sm);
     line-height: 1.2;
   }

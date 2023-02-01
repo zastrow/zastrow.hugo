@@ -6,7 +6,7 @@
   flex-direction: column;
   gap: 1em;
   background-color: var(--color-background);
-  padding: calc(var(--logo-size) * 0.75) 0 calc(var(--logo-size) * 1.125);
+  padding: calc(var(--logo-size) * 0.75) 0 calc(var(--logo-size) * 1.75);
 
   &--home {
     --logo-size: clamp(4rem, 20vw, 16rem);
@@ -40,8 +40,8 @@
   }
 
   &__title {
-    font-family: var(--extended);
-    font-weight: var(--weight-regular);
+      font-family: var(--font-secondary);
+    font-variation-settings: var(--secondary-var-light);
     line-height: 1.2;
     margin: 0;
     font-size: clamp(2rem, 4vw, 3.375rem);
@@ -55,8 +55,8 @@
     margin: 0;
     font-size: clamp(0.75rem, 3vw, 3rem);
     line-height: 1.2;
-    font-family: var(--extended);
-    font-weight: var(--weight-regular);
+      font-family: var(--font-secondary);
+    font-variation-settings: var(--secondary-var-thin);
 
     @media (any-pointer: fine) and (min-width: $md) {
       background: var(--gradient) fixed;

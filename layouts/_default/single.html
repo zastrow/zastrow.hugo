@@ -5,6 +5,13 @@
 
   <div class="{{ if (ne $tag "")}} obj-width-{{$tag}}{{ end }}">
     <section class="cmp-post">
+      {{- if .Title -}}
+      <h2>
+        <a href="{{ .RelPermalink }}">
+          {{ .Title }}
+        </a>
+      </h2>
+      {{- end -}}
       {{- if .Date -}}
       <div class="cmp-post__meta">
         <a href="{{ .RelPermalink }}">

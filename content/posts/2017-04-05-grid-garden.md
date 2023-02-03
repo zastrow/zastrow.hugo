@@ -6,8 +6,8 @@ author:
   last_name: Zastrow
   login: zastrow
 categories:
-- Link
-- Writing
+  - Link
+  - Writing
 date: "2017-04-05T09:58:00Z"
 meta:
   _edit_last: "1"

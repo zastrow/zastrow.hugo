@@ -10,13 +10,13 @@
       {{- .Scratch.Set "index" ($.Scratch.Get "index") -}}
       {{- $i := $.Scratch.Get "index" -}}
       {{- $gt := gt $i ( mul 2 ( math.Floor ( div $i 2.0 ) ) ) -}}
-      
+
       {{ .Scratch.Set "tag" "content"}}
-      
+
       {{ range .Params.tags }}{{ $.Scratch.Set "tag" (lower .) }}{{end}}
-      
+
       {{ $tag := $.Scratch.Get "tag" }}
-      
+
       {{- if $gt -}}{{- "" -}}{{- else -}}{{- "" -}}{{- end -}}
       {{ if (ne $tag "")}}{{- "" -}}{{ end }}
 

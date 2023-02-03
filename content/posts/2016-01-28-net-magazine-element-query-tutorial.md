@@ -6,8 +6,8 @@ author:
   last_name: Zastrow
   login: zastrow
 categories:
-- Link
-- Writing
+  - Link
+  - Writing
 date: "2016-01-28T11:10:00Z"
 meta: {}
 parent_id: "0"

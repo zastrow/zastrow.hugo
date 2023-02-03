@@ -6,7 +6,7 @@ author:
   last_name: Zastrow
   login: zastrow
 categories:
-- Writing
+  - Writing
 date: "2012-07-03T23:42:17Z"
 meta: {}
 parent_id: "0"

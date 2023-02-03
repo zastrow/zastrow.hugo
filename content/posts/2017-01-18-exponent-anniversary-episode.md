@@ -6,8 +6,8 @@ author:
   last_name: Zastrow
   login: zastrow
 categories:
-- Link
-- Writing
+  - Link
+  - Writing
 date: "2017-01-18T13:18:00Z"
 meta:
   link: http://exponent.fm/episode-100-the-anniversary-episode-the-iphone-and-exponent/

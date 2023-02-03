@@ -6,7 +6,7 @@ author:
   last_name: Zastrow
   login: zastrow
 categories:
-- Micro
+  - Micro
 date: "2018-02-15T02:53:55Z"
 meta:
   _edit_last: "1"

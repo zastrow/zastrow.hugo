@@ -6,8 +6,8 @@ author:
   last_name: Zastrow
   login: zastrow
 categories:
-- Link
-- Writing
+  - Link
+  - Writing
 date: "2017-03-18T10:38:00Z"
 meta:
   link: https://adamsimpson.net/writing/be-a-good-video-call-citizen

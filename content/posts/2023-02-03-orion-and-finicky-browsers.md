@@ -7,6 +7,8 @@ author:
   login: zastrow
 categories:
   - Writing
+tags:
+  - Writing
 date: "2023-02-03T13:15:00Z"
 published: true
 status: publish

@@ -21,6 +21,13 @@
     var(--color-quarternary) 100%
   );
 
+  --simple-gradient:
+    linear-gradient(
+      180deg,
+      var(--color-secondary),
+      var(--color-primary)
+    );
+
   --animation-duration: 250ms;
   --animation-timing: cubic-bezier(0,1,0.5,1);
 

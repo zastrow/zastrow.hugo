@@ -18,6 +18,12 @@
 --color-link: var(--color-alt);
 --link-underline: hsl(var(--color-alt-hsl) / 40%);
 
+--color-visited: hsl(300deg 80% 40%);
+--visited-underline: hsl(300deg 80% 40% / 40%);
+
+--color-inline-code: hsl(20deg 90% 30%);
+--color-inline-code-background: hsl(var(--color-tertiary-hsl) / 40%);
+
 /* Grays */
 --color-gray-1: hsl(208deg 5% 90%);
 --color-gray-2: hsl(208deg 5% 70%);
@@ -41,4 +47,8 @@
   --color-midtone: var(--color-2);
   --color-text: var(--color-light);
   --color-bg-50: hsl(var(--color-dark) / 50%);
+  --color-visited: hsl(300deg 80% 60%);
+  --visited-underline: hsl(300deg 80% 60% / 40%);
+  --color-inline-code: hsl(var(--color-tertiary-hsl));
+  --color-inline-code-background: hsl(var(--color-tertiary-hsl) / 10%);
 }

@@ -9,9 +9,12 @@ a[href]:not([class]) {
   &:link,
   &:active {
     color: var(--color-link);
-    text-decoration: underline;
-    text-decoration-color: var(--link-underline);
-    transition: color var(--animation-duration) var(--animation-timing), text-decoration-color var(--animation-duration) var(--animation-timing);
+    text-underline-offset: 0.125em;
+    text-decoration: underline 2px var(--link-underline);
+    transition:
+      color var(--animation-duration) var(--animation-timing),
+      text-decoration-color var(--animation-duration) var(--animation-timing),
+      text-underline-offset var(--animation-duration) var(--animation-timing);
 
     @media (prefers-color-scheme: dark) {
       text-decoration-color: hsl(208deg 80% 50% / 40%);
@@ -19,11 +22,13 @@ a[href]:not([class]) {
   }
 
   &:visited {
-    color: var(--color-text);
-    text-decoration: underline var(--color-text);
+    color: var(--color-visited);
+    text-decoration-color: var(--visited-underline);
   }
 
-  &:hover {
+  &:hover,
+  &:visited:hover {
+    text-underline-offset: 0.25em;
     color: var(--color-text);
     text-decoration-color: var(--color-primary);
   }

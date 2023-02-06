@@ -1,7 +1,7 @@
 /* Font Families */
 --font-primary: oso-sans-variable, sans-serif;
 --font-secondary: normalidad-variable, sans-serif;
---monospce: monospace;
+--font-monospace: overpass-mono-variable, monospace;
 
 /* Font Weights */
 --weight-100: 100;
@@ -24,7 +24,6 @@
 --weight-heavy: var(--weight-800);
 --weight-black: var(--weight-900);
 
-
 --primary-width: 110;
 --primary-var-hairline: "wdth" var(--primary-width), "wght" var(--weight-100);
 --primary-var-thin: "wdth" var(--primary-width), "wght" var(--weight-200);
@@ -46,6 +45,12 @@
 --secondary-var-bold: "wdth" var(--secondary-width), "wght" var(--weight-700);
 --secondary-var-heavy: "wdth" var(--secondary-width), "wght" var(--weight-800);
 --secondary-var-black: "wdth" var(--secondary-width), "wght" var(--weight-900);
+
+--monospace-var-light: "wght" var(--weight-300);
+--monospace-var-regular: "wght" var(--weight-400);
+--monospace-var-medium: "wght" var(--weight-500);
+--monospace-var-semibold: "wght" var(--weight-600);
+--monospace-var-bold: "wght" var(--weight-700);
 
 /* Font Sizes */
 --font-xs: 0.875rem;

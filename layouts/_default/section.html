@@ -13,34 +13,43 @@
 
       {{ .Scratch.Set "tag" "content"}}
 
-      {{ range .Params.tags }}{{ $.Scratch.Set "tag" (lower .) }}{{end}}
-
-      {{ $tag := $.Scratch.Get "tag" }}
-
       {{- if $gt -}}{{- "" -}}{{- else -}}{{- "" -}}{{- end -}}
-      {{ if (ne $tag "")}}{{- "" -}}{{ end }}
 
-      <div class="obj-spacing-post{{ if (ne $tag "")}} obj-width-{{$tag}}{{ end }}">
-        <section class="cmp-post">
-          {{- if .Title -}}
-          <h2>
-            <a href="{{ .RelPermalink }}">
-              {{ .Title }}
-            </a>
-          </h2>
-          {{- end -}}
-          {{- if .Date -}}
-          <div class="cmp-post__meta">
-            <a href="{{ .RelPermalink }}">
-              <time datetime="{{ .Date }}">
-                {{ .Date.Format "2 January 2006" }}
-              </time>
-            </a>
+      <article class="cmp-post {{- range .Params.tags }}
+        {{- $.Scratch.Set "tag" (lower .) -}}
+        {{- $tag := $.Scratch.Get "tag" }}
+        cmp-post--{{ $tag }}
+      {{- end -}}{{ if not (in .Params "tags")}} cmp-post--writing{{end}}">
+        <div class="{{- range .Params.tags }}
+          {{- $.Scratch.Set "tag" (lower .) -}}
+          {{- $tag := $.Scratch.Get "tag" -}}
+          obj-width-{{ $tag }}
+        {{- end -}}{{ if not (in .Params "tags")}} obj-width-writing{{end}}">
+          <div class="cmp-post__container">
+            {{- if .Title -}}
+            <header class="cmp-post__header">
+              <h2 class="cmp-post__title">
+                <a href="{{ .RelPermalink }}" class="cmp-post__title-link">
+                  {{ .Title }}
+                </a>
+              </h2>
+            </header>
+            {{- end -}}
+            {{- if .Date -}}
+            <div class="cmp-post__meta">
+              <a class="cmp-post__meta-link" href="{{ .RelPermalink }}">
+                <time datetime="{{ .Date }}">
+                  {{ .Date.Format "2 January 2006" }}
+                </time>
+              </a>
+            </div>
+            {{- end -}}
+            <div class="cmp-post__content">
+              {{ .Content }}
+            </div>
           </div>
-          {{- end -}}
-          {{ .Content }}
-        </section>
-      </div>
+        </div>
+      </article>
 
       {{- if $gt -}}{{- "" -}}{{- else -}}{{- "" -}}{{- end -}}
 

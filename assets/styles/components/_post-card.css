@@ -1,52 +1,102 @@
 .cmp-post {
   position: relative;
-  z-index: var(--z-3);
-  padding: var(--space-md) var(--space-sm);
-  border-radius: var(--space-md);
-  color: var(--color-text);
-  background-color: hsl(208, 5%, 100%);
-  box-shadow:
-    0 0 0 2px hsl(0deg 0% 50% / 10%) inset,
-    0 0 0 1px hsl(0deg 100% 100%) inset,
-    0 0 2rem hsl(208deg 5% 85% / 50%) inset,
-    0 2rem 2rem -1rem hsl(0deg 0% 0% / 50%);
 
   & + & {
-    margin-top: calc(var(--gradient-padding) * 0.75);
+    margin: var(--space-3xl) 0;
   }
 
-  @media (min-width: $md) {
-    padding: var(--space-lg);
+  &--book {
+    padding: 0;
+    border-radius: 0;
+    background-color: transparent;
+    box-shadow: none;
   }
 
-  @media (prefers-color-scheme: dark) {
-    background-color: hsl(208deg 5% 15%);
-    box-shadow:
-      0 0 0 2px hsl(0deg 0% 50% / 10%) inset,
-      0 0 0 1px hsl(208deg 5% 15%) inset,
-      0 0 2rem hsl(208deg 5% 15%) inset,
-      0 2rem 2rem -1rem hsl(0deg 0% 0% / 50%);
-  }
+  &--book &__content {
+    & > p:has(img:only-child) {
+      grid-area: image;
+      position: relative;
+      line-height: 0.75;
+      overflow: hidden;
+      border-radius: 1rem;
+      max-width: 20rem;
+      border: 1px solid black;
+      box-shadow:
+        0 0 0 2px hsl(0deg 0% 50% / 10%) inset,
+        0 0 0 1px hsl(208deg 5% 15%) inset,
+        0 0 2rem hsl(208deg 5% 15%) inset,
+        0 2rem 2rem -1rem hsl(0deg 0% 0% / 50%);
+    }
 
-  @supports (backdrop-filter: blur(1px)) {
-    backdrop-filter: blur(2rem);
-    background-color: hsl(208deg 5% 100% / 90%);
+    & > p:has(img:only-child)::before {
+      pointer-events: none;
+      content: '';
+      position: absolute;
+      inset: 0;
+      z-index: var(--z-2);
+      border-radius: 1rem;
+      background: linear-gradient(135deg, #fff3, #0003);
+      box-shadow: 0 1px #fff7 inset, 0 -1px #fff7 inset, 0 0 2rem #0004 inset;
+      mix-blend-mode: hard-light;
+    }
 
-    @media (prefers-color-scheme: dark) {
-      background-color: hsl(208deg 5% 15% / 90%);
+    & > p img:only-child {
+      position: relative;
+      z-index: var(--z-1);
+      width: 100%;
+      display: block;
+    }
+
+    & > p:last-child {
+      grid-area: post;
     }
   }
 
-  &--micro {
-    max-width: 60rem;
-    margin-left: auto;
-    margin-right: auto;
+&__title {
+    margin: 0 0 var(--space-md);
+    line-height: 1.125;
+    font-family: var(--font-secondary);
+    font-size: var(--font-xl);
+    font-variation-settings: var(--secondary-var-hairline);
   }
 
-  & + & {
-    border-top: 1px solid hsl(0deg 0% 100% / 10%);
-    box-shadow: 0 -1px hsl(0deg 0% 0% / 60%);
-    padding-top: 8rem;
-    margin-top: 8rem;
+  &__title-link {
+    color: var(--color-link);
+    text-decoration: underline 2px var(--link-underline);
+    text-underline-offset: 0.125em;
+    transition: text-underline-offset var(--animation-duration) var(--animation-timing);
+
+    &:hover {
+      color: var(--color-text);
+      text-decoration-color: var(--color-primary);
+      text-underline-offset: 0.25em;
+    }
+  }
+
+  &__meta {
+    display: inline-block;
+  }
+
+  &__meta-link {
+    font-size: var(--font-xs);
+    font-variation-settings: var(--primary-var-semibold);
+    display: flex;
+    align-self: start;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-sm);
+    padding: var(--space-1xs) var(--space-sm);
+    border-radius: var(--space-1xs);
+    background-color: var(--color-gray-1);
+    color: var(--color-gray-5);
+
+    &:hover {
+      background-color: var(--color-primary);
+      color: var(--color-white);
+    }
+
+    @media (prefers-color-scheme: dark) {
+      background-color: var(--color-gray-5);
+      color: var(--color-gray-2);
+    }
   }
 }

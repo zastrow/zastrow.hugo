@@ -7,16 +7,26 @@
   width: clamp(18rem, calc(100% - 2rem), 100rem);
 }
 
-.obj-width-listing {
+.obj-width-header {
   margin: 0 auto;
-  width: clamp(18rem, calc(100% - 2rem), 80rem);
+  width: clamp(18rem, calc(100% - 2rem), 70rem);
 }
 
-.obj-width-photo,
-.obj-width-book,
-.obj-width-twitter {
+.obj-width-writing,
+.obj-width-article,
+.obj-width-listing {
   margin: 0 auto;
   width: clamp(18rem, calc(100% - 2rem), 60rem);
+}
+
+.obj-width-post,
+.obj-width-micro,
+.obj-width-photo,
+.obj-width-book,
+.obj-width-twitter,
+.obj-width-check-in {
+  margin: 0 auto;
+  width: clamp(18rem, calc(100% - 2rem), 50rem);
 }
 
 .obj-spacing-post {

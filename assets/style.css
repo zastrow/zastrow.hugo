@@ -62,6 +62,9 @@
 @import "styles/elements/_hx.css";
 @import "styles/elements/_p.css";
 @import "styles/elements/_li.css";
+@import "styles/elements/_code.css";
+@import "styles/elements/_key.css";
+@import "styles/elements/_blockquote.css";
 
 /* =====================================================================
  * 5. Objects
@@ -94,6 +97,7 @@
 @import "styles/components/_article-list-item.css";
 @import "styles/components/_pagination.css";
 @import "styles/components/_post-card.css";
+@import "styles/components/_footnotes.css";
 
 /* =====================================================================
  * 7. Vendors

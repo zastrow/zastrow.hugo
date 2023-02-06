@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: “They weren't competing with a phone“
 type: post
 slug: they-werent-competing-with-a-phone

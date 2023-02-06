@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: '&lsquo;The Ad Man stole our imaginations and and replaced them with Barbie
   dolls. Why didn''t we notice?&rsquo;'
 type: post

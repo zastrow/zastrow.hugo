@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: Sparkbox Foundry – Confessions of a Designer Developer
 type: post
 aliases:

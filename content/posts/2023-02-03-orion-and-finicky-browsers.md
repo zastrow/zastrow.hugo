@@ -12,7 +12,6 @@ tags:
 date: "2023-02-03T13:15:00Z"
 published: true
 status: publish
-tags: []
 title: 'Orion and Finicky Browsers'
 type: post
 aliases:
@@ -25,8 +24,8 @@ While I primarily do my work in the big three, I like to try out new browser reg
 
 What I’ve really come to love is a feature called Focus Mode. The new view removes all the browser user interface elements, leaving a window that only contains the webpage. I’ve found this view to be really handy for presenting my [reveal.js slide decks](https://revealjs.com), viewing online photo albums, or reading a well-designed site.
 
-While I can keep talking about how nice Orion, is I have to be truthful, my default browser is actually [Finicky](https://github.com/johnste/finicky), and it neither renders websites nor actually has windowing. Instead it’s rerouter app that takes all the web URLs on my machine and then distributes them among my various browser via a JSON config file. With Finicky, I have Google Docs open up in Google Chrome, localhost, 127.0.0.1, and 0.0.0.0 open up in Firefox by default, and then all other URLs head to Orion. This way I don’t have to think about which browser I’m opening a URL in, Finicky can handle the context and open the correct browser.
+While I can keep talking about how nice Orion, is I have to be truthful, my default browser is actually [Finicky](https://github.com/johnste/finicky), and it neither renders websites nor actually has windowing. Instead it’s rerouter app that takes all the web URLs on my machine and then distributes them among my various browser via a JSON config file. With Finicky, I have Google Docs open up in Google Chrome, `localhost`, `127.0.0.1`, and `0.0.0.0` open up in Firefox by default, and then all other URLs head to Orion. This way I don’t have to think about which browser I’m opening a URL in, Finicky can handle the context and open the correct browser.
 
-What’s more, I use the [Safirechrome workflow](https://www.packal.org/workflow/safirechrome) with [Alfred](https://alfred.app) so that while in Firefox, I can hit my [Hyper Key](https://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/) + O to open the current URL in either Safari or Chrome to continue development or debugging work.
+What’s more, I use the [Safirechrome workflow](https://www.packal.org/workflow/safirechrome) with [Alfred](https://alfred.app) so that while in Firefox, I can hit my [Hyper Key](https://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/) + <key>O</key> to open the current URL in either Safari or Chrome to continue development or debugging work.
 
 I love trying out new browsers and with Finicky and Alfred and I don’t have choose a normal default browser, instead I can set which browser I want to use for the appropriate task.

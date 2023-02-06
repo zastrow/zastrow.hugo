@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: Outlet with two integrated USB ports
 type: post
 aliases:

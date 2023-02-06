@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: Apple Responsive Retrofit
 type: post
 aliases:

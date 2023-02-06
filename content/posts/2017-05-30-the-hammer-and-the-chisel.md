@@ -19,7 +19,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: 'Sparkbox Foundry: The Hammer and The Chisel'
 type: post
 aliases:

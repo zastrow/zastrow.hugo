@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: CSS3 Multi-column Lists
 type: post
 aliases:

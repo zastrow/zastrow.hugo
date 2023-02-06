@@ -14,7 +14,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: 'Sparkbox Foundry: Aaron Gustafson’s Maker Series Recap'
 type: post
 aliases:

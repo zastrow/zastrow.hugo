@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: Jason Grigsby on the disparity in mobile browser usage
 type: post
 aliases:

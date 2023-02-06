@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: Martin Luther King in the Era of Occupy
 type: post
 aliases:

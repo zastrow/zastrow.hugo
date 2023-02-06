@@ -14,7 +14,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: My heart laid bare on the Sparkbox Foundry
 type: post
 aliases:

@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: What’s Wrong With People?
 type: post
 slug: whats-wrong-with-people

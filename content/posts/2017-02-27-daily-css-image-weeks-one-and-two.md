@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: 'Daily CSS Image: Weeks One and Two'
 type: post
 aliases:

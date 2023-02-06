@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: 'The Shift: Progressive Enhancement'
 type: post
 aliases:

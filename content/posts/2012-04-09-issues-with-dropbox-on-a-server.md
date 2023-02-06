@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: Issues with Dropbox on a Server
 type: post
 aliases:

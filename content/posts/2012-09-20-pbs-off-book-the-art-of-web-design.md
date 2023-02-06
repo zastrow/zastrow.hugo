@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: 'PBS Off Book: The Art of Web Design'
 type: post
 aliases:

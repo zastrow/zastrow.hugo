@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: Container/Element Query Demos Collection
 type: post
 aliases:

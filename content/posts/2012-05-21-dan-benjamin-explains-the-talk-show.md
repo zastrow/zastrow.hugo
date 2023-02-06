@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: Dan Benjamin explains The Talk Show
 type: post
 aliases:

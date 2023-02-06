@@ -16,7 +16,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: 'Book Review: Mortal Engines'
 type: post
 aliases:

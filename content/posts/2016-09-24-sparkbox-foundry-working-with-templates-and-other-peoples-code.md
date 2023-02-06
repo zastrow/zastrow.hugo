@@ -14,7 +14,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: 'Sparkbox Foundry: Working With Templates and Other People’s Code'
 type: post
 aliases:

@@ -15,7 +15,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: Exponent Anniversary Episode
 type: post
 aliases:

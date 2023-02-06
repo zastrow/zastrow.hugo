@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: A Letter To My Coworkers Concerning Peer Reviews
 type: post
 aliases:

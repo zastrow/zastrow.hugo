@@ -14,7 +14,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: 'Net Magazine: Element Query Tutorial'
 type: post
 aliases:

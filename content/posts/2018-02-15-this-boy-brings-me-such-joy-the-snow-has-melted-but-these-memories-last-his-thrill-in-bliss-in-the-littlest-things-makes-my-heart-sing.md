@@ -7,6 +7,8 @@ author:
   login: zastrow
 categories:
   - Micro
+tags:
+  - Post
 date: "2018-02-15T02:53:55Z"
 meta:
   _edit_last: "1"
@@ -15,7 +17,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: ""
 type: post
 slug: this-boy-brings-me-such-joy

@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: 'JR Forasteros: “Good News: The Avengers Ruined Super Hero Movies”'
 type: post
 aliases:

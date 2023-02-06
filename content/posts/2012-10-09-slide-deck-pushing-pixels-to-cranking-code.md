@@ -13,7 +13,6 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: 'Slide Deck: Pushing Pixels to Cranking Code'
 type: post
 aliases:

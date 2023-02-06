@@ -13,11 +13,10 @@ parent_id: "0"
 password: ""
 published: true
 status: publish
-tags: []
 title: Wikipedia plans full site blackout
 type: post
 aliases:
   - /2012/01/wikipedia-plans-full-site-blackout/
 ---
 <p>In opposition to the <a href="http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act">SOPA</a> and <a href="http://en.wikipedia.org/wiki/PROTECT_IP_Act">PIPA</a> bills in Congress, Wikipedia plans to blackout the entire English portion of the website. The blackout will begin at midnight Eastern for 24 hours.</p>
-<h6 id="via-robert-ward"><strong>Via</strong> <a href="https://twitter.com/#!/JBalloonist/status/159025412616368129">Robert Ward</a></h6>
+<p><small><strong>Via</strong> <a href="https://twitter.com/#!/JBalloonist/status/159025412616368129">Robert Ward</a></small></p>

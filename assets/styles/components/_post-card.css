@@ -62,7 +62,9 @@
 
   &__title-link {
     color: var(--color-link);
-    text-decoration: underline 2px var(--link-underline);
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: var(--link-underline);
     text-underline-offset: 0.125em;
     transition: text-underline-offset var(--animation-duration) var(--animation-timing);
 

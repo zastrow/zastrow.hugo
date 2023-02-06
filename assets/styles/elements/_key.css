@@ -1,4 +1,4 @@
-key:not([class]) {
+kbd:not([class]) {
 	background-image: linear-gradient(0deg, hsl(208deg 5% 100% / 20%), hsl(208deg 5% 0% / 10%));
 	background-color: hsl(208deg 5% 95%);
 	box-shadow:

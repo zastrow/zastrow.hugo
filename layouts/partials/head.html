@@ -7,6 +7,11 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
+	{{- $title := print .Title " | " .Site.Title }}
+	{{ if .IsHome }}{{ $title = .Site.Title }}{{ end -}}
+	<title>{{ $title }}</title>
+	<meta property="og:title" content="{{ $title }}">
+
 	{{- if .Params.canonicalUrl -}}
 	<link rel="canonical" href="{{ .Params.canonicalUrl }}">
 	{{ else }}
@@ -19,18 +24,16 @@
 	<meta name="description" content="{{ .Site.Params.Description }}">
 	{{ end -}}
 
-	{{- template "_internal/opengraph.html" . -}}
+	{{- $image := resources.Get "images/og-image.png" -}}
+	<meta property="og:image" content="{{ $image.Permalink }}">
+	<meta property="og:url" content="{{ .Permalink }}">
 
 	{{- with .OutputFormats.Get "rss" -}}
 			{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 	{{ end -}}
 	<link rel="icon" type="image/png" href="{{ $favicon.RelPermalink }}">
 	<link rel="preconnect" href="https://use.typekit.net" />
-	<!-- <link rel="stylesheet" href="https://use.typekit.net/hcc4udn.css" /> -->
 	<link rel="preload" href="https://use.typekit.net/hcc4udn.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 	<noscript><link rel="stylesheet" href="https://use.typekit.net/hcc4udn.css"></noscript>
 	<link rel="stylesheet" href="{{ $style.Permalink | relURL }}">
-	{{- $title := print .Title " | " .Site.Title }}
-	{{ if .IsHome }}{{ $title = .Site.Title }}{{ end -}}
-	<title>{{ $title }}</title>
 </head>

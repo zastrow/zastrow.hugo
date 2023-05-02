@@ -47,6 +47,7 @@
  *    and any preferential base styles for elements. There shouldn’t be any
  *    classes or ids used in this section.
 	*/
+@import "styles/generic/_fonts.css";
 @import "styles/generic/_normalize.css";
 
 /* =====================================================================

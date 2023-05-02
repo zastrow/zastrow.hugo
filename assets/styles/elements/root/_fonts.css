@@ -1,7 +1,7 @@
 /* Font Families */
---font-primary: oso-sans-variable, sans-serif;
---font-secondary: normalidad-variable, sans-serif;
---font-monospace: overpass-mono-variable, monospace;
+--font-primary: "Mona Sans", sans-serif;
+--font-secondary: "Mona Sans", sans-serif;
+--font-monospace: monospace;
 
 /* Font Weights */
 --weight-100: 100;
@@ -24,7 +24,7 @@
 --weight-heavy: var(--weight-800);
 --weight-black: var(--weight-900);
 
---primary-width: 110;
+--primary-width: 100;
 --primary-var-hairline: "wdth" var(--primary-width), "wght" var(--weight-100);
 --primary-var-thin: "wdth" var(--primary-width), "wght" var(--weight-200);
 --primary-var-light: "wdth" var(--primary-width), "wght" var(--weight-300);
@@ -35,7 +35,7 @@
 --primary-var-heavy: "wdth" var(--primary-width), "wght" var(--weight-800);
 --primary-var-black: "wdth" var(--primary-width), "wght" var(--weight-900);
 
---secondary-width: 130;
+--secondary-width: 125;
 --secondary-var-hairline: "wdth" var(--secondary-width), "wght" var(--weight-100);
 --secondary-var-thin: "wdth" var(--secondary-width), "wght" var(--weight-200);
 --secondary-var-light: "wdth" var(--secondary-width), "wght" var(--weight-300);

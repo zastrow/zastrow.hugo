@@ -32,8 +32,6 @@
 			{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 	{{ end -}}
 	<link rel="icon" type="image/png" href="{{ $favicon.RelPermalink }}">
-	<link rel="preconnect" href="https://use.typekit.net" />
-	<link rel="preload" href="https://use.typekit.net/hcc4udn.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-	<noscript><link rel="stylesheet" href="https://use.typekit.net/hcc4udn.css"></noscript>
+	<link rel="preload" href="/fonts/mona-sans.woff2" as="font" type="font/woff2" crossorigin>
 	<link rel="stylesheet" href="{{ $style.Permalink | relURL }}">
 </head>

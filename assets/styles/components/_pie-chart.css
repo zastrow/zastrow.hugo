@@ -64,6 +64,7 @@
     display: flex;
     position: relative;
     padding-left: var(--space-lg);
+    font-variation-settings: var(--primary-var-regular);
 
     &::before {
       content: '';

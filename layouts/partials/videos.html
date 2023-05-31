@@ -2,7 +2,7 @@
   {{ range $.Site.Data.videos }}
     <li class="cmp-video-list__item">
       <a href="https://www.youtube.com/watch?v={{ .ytcode }}" class="cmp-video-list__link" aria-label="Watch {{ .title }} on YouTube">
-        <h3 id="video-{{ .ytcode }}" class="cmp-video-list__title">{{ .title }}</h3>
+        <h3 id="video-{{ .ytcode }}" class="cmp-video-list__title">{{ .title | safeHTML }}</h3>
         <img
           class="cmp-video-list__image"
           src="/assets/video-thumbs/{{ .image }}"

@@ -19,20 +19,20 @@
         </div>
         <div class="cmp-projects-list__details">
           <h3 class="cmp-projects-list__title">
-            {{ $name }}
+            {{ $name | safeHTML  }}
           </h3>
           <ul class="cmp-pie-chart__keys">
           {{ range .stats }}
                <li class="cmp-pie-chart__key cmp-pie-chart__key--{{anchorize .type }}">
                  <strong class="cmp-pie-chart__key-emphasis">{{.quantity}}%</strong>
-                 {{ .type }}
+                 {{ .type  | safeHTML }}
                </li>
           {{ end }}
           </ul>
           <ul class="cmp-projects-list__links">
           {{ range .links }}
               <li class="cmp-projects-list__link">
-                <a href="{{ .link }}" class="cmp-button cmp-button--small" aria-label="{{ .text }} for {{ $name }}">{{ .text }}</a>
+                <a href="{{ .link }}" class="cmp-button cmp-button--small" aria-label="{{ .text | safeHTML }} for {{ $name }}">{{ .text | safeHTML }}</a>
               </li>
           {{ end }}
           </ul>

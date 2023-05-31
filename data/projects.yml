@@ -7,6 +7,8 @@
     - type: "Development"
       quantity: 80
   links:
+    - text: "Project Repo"
+      link: "https://github.com/sparkbox/designsystemssurvey/"
     - text: "View Site"
       link: "https://designsystemssurvey.seesparkbox.com/2022"
 
@@ -51,6 +53,8 @@
     - type: "Development"
       quantity: 40
   links:
+    - text: "Project Repo"
+      link: "https://github.com/sparkbox/designsystemssurvey/"
     - text: "View Site"
       link: "https://designsystemssurvey.seesparkbox.com/2019"
 -

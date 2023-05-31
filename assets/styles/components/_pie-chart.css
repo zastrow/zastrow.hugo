@@ -107,6 +107,11 @@
     }
   }
 
+  &__key-emphasis {
+    margin-inline-end: 0.5ch;
+    font-variation-settings: var(--primary-var-bold);
+  }
+
   &__piece {
     position: absolute;
     top: 0;

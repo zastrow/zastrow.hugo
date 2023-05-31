@@ -56,7 +56,7 @@
 		font-size: clamp(0.75rem, 3vw, 3rem);
 		line-height: 1.2;
 		font-family: var(--font-secondary);
-		font-variation-settings: var(--secondary-var-thin);
+		font-variation-settings: var(--secondary-var-light);
 		color: var(--color-primary);
 
 		@media (any-pointer: fine) and (min-width: $md) {

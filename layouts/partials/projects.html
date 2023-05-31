@@ -24,6 +24,7 @@
           <ul class="cmp-pie-chart__keys">
           {{ range .stats }}
                <li class="cmp-pie-chart__key cmp-pie-chart__key--{{anchorize .type }}">
+                 <strong class="cmp-pie-chart__key-emphasis">{{.quantity}}%</strong>
                  {{ .type }}
                </li>
           {{ end }}

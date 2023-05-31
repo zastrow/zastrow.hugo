@@ -1,3 +1,4 @@
+{{- $js := resources.Get "script.js" -}}
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
   {{- partial "head.html" . -}}
@@ -10,5 +11,6 @@
     </nav>
     {{- block "main" . }}{{ end -}}
     {{ partial "footer.html" . }}
+    <script src="{{ $js.Permalink | relURL }}"></script>
   </body>
 </html>

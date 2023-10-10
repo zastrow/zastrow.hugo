@@ -53,7 +53,7 @@
 		display: flex;
 		align-self: start;
 		gap: var(--space-sm);
-		margin-bottom: var(--space-sm);
+		margin-block-end: var(--space-sm);
 		padding: var(--space-1xs) var(--space-sm);
 		border-radius: var(--space-1xs);
 		background-color: hsl(0deg 0% 0% / 5%);
@@ -84,5 +84,11 @@
 		z-index: var(--z-2);
 		font-size: var(--font-md);
 		line-height: 1.2;
+	}
+
+	&__collaborators {
+		margin-block-start: var(--space-sm);
+		font-size: var(--font-xs);
+		font-variation-settings: var(--primary-var-medium);
 	}
 }

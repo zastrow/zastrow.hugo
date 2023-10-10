@@ -25,6 +25,14 @@
                 {{ .source }}
               </span>
             </p>
+            {{ if .additional_authors }}
+              <p class="cmp-article-item__collaborators">
+                Written in collaboration with
+                {{ range .additional_authors }}
+                  {{ . }}
+                {{ end }}
+              </p>
+            {{ end }}
           </div>
         {{ end }}
       </div>

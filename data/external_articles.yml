@@ -1,5 +1,7 @@
-- title: Yes, You Can Integrate AI into Your Legacy Site (with Emma Litwa-Vulcu)
+- title: Yes, You Can Integrate AI into Your Legacy Site
   source: Sparkbox
+  additional_authors:
+    - Emma Litwa-Vulcu
   link: "https://sparkbox.com/foundry/ai_large_language_model_project_mvp_ai_chat_for_elearning_with_frontend_and_backend_development"
   date: 2023-08-23
 
@@ -63,7 +65,9 @@
   link: "https://sparkbox.com/foundry/working_with_templates_and_other_peoples_code"
   date: 2016-09-12
 
-- title: "Progressive Enhancement Is A Team Sport (Contributor)"
+- title: "Progressive Enhancement Is A Team Sport"
+  additional_authors:
+    - various authors
   source: Sparkbox
   link: "https://sparkbox.com/foundry/Progressive_Enhancement_Is_A_Team_Sport"
   date: 2016-07-29
@@ -79,6 +83,8 @@
   date: 2016-05-27
 
 - title: "Building Site Ignite: How We Used React and Electron to Build a Native App"
+  additional_authors:
+    - Adam Simpson
   source: Sparkbox
   link: "https://sparkbox.com/foundry/site_ignite_how_we_used_react_and_electron_to_build_a_native_app"
   date: 2016-03-14

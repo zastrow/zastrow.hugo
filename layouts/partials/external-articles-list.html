@@ -15,6 +15,14 @@
       <span class="cmp-article-card__title">
         {{ .title }}
       </span>
+      {{ if .additional_authors }}
+        <span class="cmp-article-card__collaborators">
+          Written in collaboration with
+          {{ range .additional_authors }}
+            {{ . }}
+          {{ end }}
+        </span>
+      {{ end }}
     </a>
   </li>
   {{ end }}

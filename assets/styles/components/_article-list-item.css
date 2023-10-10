@@ -10,7 +10,7 @@
 	}
 
 	&__title {
-			font-family: var(--font-secondary);
+		font-family: var(--font-secondary);
 		font-variation-settings: var(--secondary-var-regular);
 		font-size: var(--font-lg);
 		font-weight: inherit;
@@ -60,5 +60,12 @@
 			background-clip: text;
 			color: transparent;
 		}
+	}
+
+	&__collaborators {
+		margin: 0;
+		order: -1;
+		font-size: var(--font-sm);
+		font-variation-settings: var(--primary-var-regular);
 	}
 }

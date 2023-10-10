@@ -4,6 +4,8 @@
   z-index: var(--z-1);
   background: var(--gradient) fixed;
   color: var(--color-light);
+  /* Weird Safari Fix */
+  translate: 0 0;
 
   &::before,
   &::after {
